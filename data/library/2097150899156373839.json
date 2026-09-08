@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T07:39:41.559Z",
+  "model": "astra",
+  "prompt": "RT @Yokohara_h: やっとみんなが驚き屋やってるGPT-6 Astraテストした\n画像渡してBlenderで背景の街並みを自動でモデリングし\nブレイクダウンも自動で編集\n完成度はまだまだ駄目だけど今までとは違い3DCGを人の手で作らない時代の始まりは感じた http…",
+  "post": {
+    "id": "2097150899156373839",
+    "canonicalUrl": "https://x.com/ai_animer/status/2097150899156373839",
+    "author": {
+      "username": "ai_animer",
+      "displayName": "雨雲(Amagumo)806 ｜ AI Animer",
+      "profileUrl": "https://x.com/ai_animer"
+    },
+    "publishedAt": "2026-09-08T02:31:52.000Z",
+    "collectedAt": "2026-09-08T05:49:46.250Z",
+    "language": "ja",
+    "originalText": "RT @Yokohara_h: やっとみんなが驚き屋やってるGPT-6 Astraテストした\n画像渡してBlenderで背景の街並みを自動でモデリングし\nブレイクダウンも自動で編集\n完成度はまだまだ駄目だけど今までとは違い3DCGを人の手で作らない時代の始まりは感じた http…",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ai_animer/status/2097150899156373839",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4948,
+      "repostCount": 645,
+      "replyCount": 46,
+      "quoteCount": 92,
+      "viewCount": 457941
+    },
+    "matchedRuleIds": [
+      "author:ai_animer"
+    ]
+  },
+  "xUrl": "https://x.com/ai_animer/status/2097150899156373839",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096619986119016448/img/DnxNHOzY0HSwEHqW.jpg",
+  "coverPath": "covers/2097150899156373839.jpg",
+  "distribution": {
+    "status": "pending_push"
+  }
+}
