@@ -32,6 +32,8 @@
 
 分类：人物肖像与角色 · 状态：待人工复核 · 暂停推流
 
+**概括：** 人物肖像与角色：GPT-6 Astra \+ Higgsfield MCP one-shotted a 3D model of Mr. President w…
+
 <img src="covers/2097153974335873374.jpg" alt="封面" width="480" />
 
 **Prompt**
@@ -60,6 +62,8 @@ If this is not AGI, then wha…
 作者：[@ai\_animer](https://x.com/ai_animer) · [查看 X 原帖](https://x.com/ai_animer/status/2097150899156373839)
 
 分类：建筑空间与室内 · 状态：待人工复核 · 暂停推流
+
+**概括：** 转发介绍将图片交给 Astra，在 Blender 中自动搭建街景并剪辑制作过程；原文不含完整复现步骤。
 
 <img src="covers/2097150899156373839.jpg" alt="封面" width="480" />
 
@@ -91,6 +95,8 @@ RT @Yokohara_h: やっとみんなが驚き屋やってるGPT-6 Astraテスト�
 
 分类：运动与动作 · 状态：待人工复核 · 暂停推流
 
+**概括：** 运动与动作：I just recreated the legendary Canelo vs. GGG fight in Blender using G…
+
 <img src="covers/2097181426672185471.jpg" alt="封面" width="480" />
 
 **Prompt**
@@ -119,6 +125,8 @@ feels fun ngl https://t.co…
 作者：[@johnAGI168](https://x.com/johnAGI168) · [查看 X 原帖](https://x.com/johnAGI168/status/2097153403428216851)
 
 分类：音乐舞蹈与表演 · 状态：待人工复核 · 暂停推流
+
+**概括：** 音乐舞蹈与表演：Astra never stops impressing
 
 <img src="covers/2097153403428216851.jpg" alt="封面" width="480" />
 
