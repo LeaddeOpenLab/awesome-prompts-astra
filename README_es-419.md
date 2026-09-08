@@ -1,61 +1,61 @@
-# astra · Prompt Library
+# astra · Biblioteca de prompts
 
-[![English](https://img.shields.io/badge/English-Current-brightgreen)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-View-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
+[![English](https://img.shields.io/badge/English-View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-View-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-View-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-View-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-View-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-View-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-View-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-View-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-Current-brightgreen)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-View-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-View-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-View-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-View-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-View-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-View-lightgrey)](README_tr-TR.md)
 
-> Navigation is translated; entry titles use Gemini summaries. Prompts retain their original wording.
+> La navegación se traduce; los títulos usan resúmenes de Gemini. Los prompts conservan el texto original.
 
 **1** Prompts
 
 <a name="catalog"></a>
 
-## Browse by Category
+## Explorar por categoría
 
-[All Prompts](#all-prompts)
+[Todos los prompts](#all-prompts)
 
-### Use Cases
+### Casos de uso
 
-[Profile / Avatar](#category-profile-avatar) · [App / Web Design](#category-app-web-design)
+[Perfil / Avatar](#category-profile-avatar) · [Diseño de aplicaciones / web](#category-app-web-design)
 
 
 <a name="category-profile-avatar"></a>
 
 <details open>
-<summary>Profile / Avatar · 1</summary>
+<summary>Perfil / Avatar · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
-- Social Media Post · 0
-- Infographic / Edu Visual · 0
-- YouTube Thumbnail · 0
-- Comic / Storyboard · 0
-- Product Marketing · 0
-- E-commerce Main Image · 0
-- Game Asset · 0
-- Poster / Flyer · 0
+- Publicación en redes sociales · 0
+- Infografía / Visual educativo · 0
+- Miniatura de YouTube · 0
+- Cómic / Guion gráfico · 0
+- Marketing de producto · 0
+- Imagen principal de e-commerce · 0
+- Activo de juego · 0
+- Póster / Volante · 0
 
 <a name="category-app-web-design"></a>
 
 <details open>
-<summary>App / Web Design · 1</summary>
+<summary>Diseño de aplicaciones / web · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
 
-### Style
+### Estilo
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render)
 
 
 <a name="category-photography"></a>
 
 <details open>
-<summary>Photography · 1</summary>
+<summary>Fotografía · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
@@ -63,9 +63,9 @@
 <a name="category-cinematic-film-still"></a>
 
 <details open>
-<summary>Cinematic / Film Still · 1</summary>
+<summary>Cine / Fotograma · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
@@ -74,96 +74,96 @@
 <a name="category-illustration"></a>
 
 <details open>
-<summary>Illustration · 1</summary>
+<summary>Ilustración · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
-- Sketch / Line Art · 0
-- Comic / Graphic Novel · 0
+- Boceto / Arte lineal · 0
+- Cómic / Novela gráfica · 0
 
 <a name="category-3d-render"></a>
 
 <details open>
-<summary>3D Render · 1</summary>
+<summary>Renderizado 3D · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
-- Chibi / Q-Style · 0
-- Isometric · 0
+- Chibi / Estilo Q · 0
+- Isométrico · 0
 - Pixel Art · 0
-- Oil Painting · 0
-- Watercolor · 0
-- Ink / Chinese Style · 0
+- Pintura al óleo · 0
+- Acuarela · 0
+- Tinta / Estilo chino · 0
 - Retro / Vintage · 0
-- Cyberpunk / Sci-Fi · 0
-- Minimalism · 0
+- Cyberpunk / Ciencia ficción · 0
+- Minimalismo · 0
 
-### Subjects
+### Asunto
 
-[Character](#category-character) · [Fashion Item](#category-fashion-item) · [Abstract / Background](#category-abstract-background)
+[Personaje](#category-character) · [Artículo de moda](#category-fashion-item) · [Resumen / Antecedentes](#category-abstract-background)
 
-- Portrait / Selfie · 0
-- Influencer / Model · 0
+- Retrato / Selfie · 0
+- Influencer / Modelo · 0
 
 <a name="category-character"></a>
 
 <details open>
-<summary>Character · 1</summary>
+<summary>Personaje · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
-- Group / Couple · 0
-- Product · 0
-- Food / Drink · 0
+- Grupo / Pareja · 0
+- Producto · 0
+- Comida y bebida · 0
 
 <a name="category-fashion-item"></a>
 
 <details open>
-<summary>Fashion Item · 1</summary>
+<summary>Artículo de moda · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
-- Animal / Creature · 0
-- Vehicle · 0
-- Architecture / Interior · 0
-- Landscape / Nature · 0
-- Cityscape / Street · 0
-- Diagram / Chart · 0
-- Text / Typography · 0
+- Animal / Criatura · 0
+- Vehículo · 0
+- Arquitectura / Interiores · 0
+- Paisaje / Naturaleza · 0
+- Paisaje urbano / Calle · 0
+- Diagrama / Gráfico · 0
+- Texto / Tipografía · 0
 
 <a name="category-abstract-background"></a>
 
 <details open>
-<summary>Abstract / Background · 1</summary>
+<summary>Resumen / Antecedentes · 1</summary>
 
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
+- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
 
 </details>
 
 
 <a name="all-prompts"></a>
 
-## All Prompts
+## Todos los prompts
 
 <a name="prompt-2096842636074312057"></a>
 
-### Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.
+### 基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。
 
-Author：[@Chengzilhy](https://x.com/Chengzilhy) · [Source](https://x.com/Chengzilhy/status/2096842636074312057)
+Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Publicación original](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Profile / Avatar · App / Web Design · Photography · Cinematic / Film Still · Illustration · 3D Render · Character · Fashion Item · Abstract / Background · Pending distribution
+Perfil / Avatar · Diseño de aplicaciones / web · Fotografía · Cine / Fotograma · Ilustración · Renderizado 3D · Personaje · Artículo de moda · Resumen / Antecedentes · Pendiente de distribución
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 
-**Summary:** Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.
+**Resumen:** 基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。
 
 <img src="covers/2096842636074312057.jpg" alt="封面" width="480" />
 
@@ -513,7 +513,7 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对话气泡
 ```
 
-[↑ Back to categories](#catalog)
+[↑ Volver a categorías](#catalog)
 
 ---
 
