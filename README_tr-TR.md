@@ -47,7 +47,7 @@
 
 ### Tarz
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render)
+[Fotoğrafçılık](#category-photography) · [İllüstrasyon](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Sinematik / Film Karesi · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Sinematik / Film Karesi · 0
 - Anime / Manga · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - Çizim / Çizgi Sanatı · 0
 - Çizgi Roman / Grafik Roman · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D Modelleme · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 3D Modelleme · 0
 - Chibi / Q-Stil · 0
 - İzometrik · 0
 - Piksel Sanatı · 0
@@ -104,7 +86,7 @@
 
 ### Ana İçerik
 
-[Karakter](#category-character) · [Moda Ürünü](#category-fashion-item) · [Özet / Arka Plan](#category-abstract-background)
+[Karakter](#category-character)
 
 - Portre / Selfie · 0
 - Influencer / Model · 0
@@ -121,16 +103,7 @@
 - Grup / Çift · 0
 - Ürün · 0
 - Yiyecek / İçecek · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Moda Ürünü · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Moda Ürünü · 0
 - Hayvan / Yaratık · 0
 - Araç · 0
 - Mimari / İç Mekan · 0
@@ -138,16 +111,7 @@
 - Şehir Manzarası / Sokak · 0
 - Diyagram / Grafik · 0
 - Metin / Tipografi · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>Özet / Arka Plan · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Özet / Arka Plan · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 Yazar：[@Chengzilhy](https://x.com/Chengzilhy) · [Orijinal gönderi](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Profil / Avatar · Uygulama / Web Tasarımı · Fotoğrafçılık · Sinematik / Film Karesi · İllüstrasyon · 3D Modelleme · Karakter · Moda Ürünü · Özet / Arka Plan · Dağıtım bekliyor
+Profil / Avatar · Uygulama / Web Tasarımı · Fotoğrafçılık · İllüstrasyon · Karakter · Dağıtım bekliyor
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

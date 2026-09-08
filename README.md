@@ -47,7 +47,7 @@
 
 ### Style
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render)
+[Photography](#category-photography) · [Illustration](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Cinematic / Film Still · 1</summary>
-
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Cinematic / Film Still · 0
 - Anime / Manga · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - Sketch / Line Art · 0
 - Comic / Graphic Novel · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D Render · 1</summary>
-
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 3D Render · 0
 - Chibi / Q-Style · 0
 - Isometric · 0
 - Pixel Art · 0
@@ -104,7 +86,7 @@
 
 ### Subjects
 
-[Character](#category-character) · [Fashion Item](#category-fashion-item) · [Abstract / Background](#category-abstract-background)
+[Character](#category-character)
 
 - Portrait / Selfie · 0
 - Influencer / Model · 0
@@ -121,16 +103,7 @@
 - Group / Couple · 0
 - Product · 0
 - Food / Drink · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Fashion Item · 1</summary>
-
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Fashion Item · 0
 - Animal / Creature · 0
 - Vehicle · 0
 - Architecture / Interior · 0
@@ -138,16 +111,7 @@
 - Cityscape / Street · 0
 - Diagram / Chart · 0
 - Text / Typography · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>Abstract / Background · 1</summary>
-
-- [Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Abstract / Background · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 Author：[@Chengzilhy](https://x.com/Chengzilhy) · [Source](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Profile / Avatar · App / Web Design · Photography · Cinematic / Film Still · Illustration · 3D Render · Character · Fashion Item · Abstract / Background · Pending distribution
+Profile / Avatar · App / Web Design · Photography · Illustration · Character · Pending distribution
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

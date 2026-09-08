@@ -47,7 +47,7 @@
 
 ### スタイル
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [3D レンダリング](#category-3d-render)
+[写真撮影](#category-photography) · [イラスト](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>シネマティック / フィルムスチル · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- シネマティック / フィルムスチル · 0
 - アニメ / 漫画 · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - スケッチ / 線画 · 0
 - コミック / グラフィックノベル · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D レンダリング · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 3D レンダリング · 0
 - ちび / Q スタイル · 0
 - アイソメトリック · 0
 - ピクセルアート · 0
@@ -104,7 +86,7 @@
 
 ### 本文
 
-[キャラクター](#category-character) · [ファッションアイテム](#category-fashion-item) · [要旨 / 背景](#category-abstract-background)
+[キャラクター](#category-character)
 
 - ポートレート / セルフィー · 0
 - インフルエンサー / モデル · 0
@@ -121,16 +103,7 @@
 - グループ / カップル · 0
 - 製品 · 0
 - 食品・飲料 · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>ファッションアイテム · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- ファッションアイテム · 0
 - 動物 / 生き物 · 0
 - 車両 · 0
 - 建築 / インテリア · 0
@@ -138,16 +111,7 @@
 - 街並み / ストリート · 0
 - 図 / チャート · 0
 - テキスト / タイポグラフィ · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>要旨 / 背景 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 要旨 / 背景 · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 作者：[@Chengzilhy](https://x.com/Chengzilhy) · [元の投稿](https://x.com/Chengzilhy/status/2096842636074312057)
 
-プロフィール / アバター · アプリ / Web デザイン · 写真撮影 · シネマティック / フィルムスチル · イラスト · 3D レンダリング · キャラクター · ファッションアイテム · 要旨 / 背景 · 配信待ち
+プロフィール / アバター · アプリ / Web デザイン · 写真撮影 · イラスト · キャラクター · 配信待ち
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

@@ -47,7 +47,7 @@
 
 ### 스타일
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [3D 렌더링](#category-3d-render)
+[사진술](#category-photography) · [일러스트레이션](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>시네마틱 / 영화 스틸컷 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 시네마틱 / 영화 스틸컷 · 0
 - 애니메이션 / 만화 · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - 스케치 / 선화 · 0
 - 만화 / 그래픽 노블 · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D 렌더링 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 3D 렌더링 · 0
 - 치비 / Q-스타일 · 0
 - 아이소메트릭 · 0
 - 픽셀 아트 · 0
@@ -104,7 +86,7 @@
 
 ### 본문
 
-[캐릭터](#category-character) · [패션 아이템](#category-fashion-item) · [초록 / 배경](#category-abstract-background)
+[캐릭터](#category-character)
 
 - 인물 사진 / 셀카 · 0
 - 인플루언서 / 모델 · 0
@@ -121,16 +103,7 @@
 - 그룹 / 커플 · 0
 - 제품 · 0
 - 음식 / 음료 · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>패션 아이템 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 패션 아이템 · 0
 - 동물 / 생명체 · 0
 - 차량 · 0
 - 건축 / 인테리어 · 0
@@ -138,16 +111,7 @@
 - 도시 풍경 / 거리 · 0
 - 다이어그램 / 차트 · 0
 - 텍스트 / 타이포그래피 · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>초록 / 배경 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 초록 / 배경 · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 작성자：[@Chengzilhy](https://x.com/Chengzilhy) · [원본 게시물](https://x.com/Chengzilhy/status/2096842636074312057)
 
-프로필 / 아바타 · 앱 / 웹 디자인 · 사진술 · 시네마틱 / 영화 스틸컷 · 일러스트레이션 · 3D 렌더링 · 캐릭터 · 패션 아이템 · 초록 / 배경 · 배포 대기
+프로필 / 아바타 · 앱 / 웹 디자인 · 사진술 · 일러스트레이션 · 캐릭터 · 배포 대기
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

@@ -47,7 +47,7 @@
 
 ### สไตล์
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพประกอบ](#category-illustration) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render)
+[การถ่ายภาพ](#category-photography) · [ภาพประกอบ](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · 0
 - อนิเมะ / มังงะ · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - ภาพร่าง / ลายเส้น · 0
 - การ์ตูน / นิยายภาพ · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>ภาพเรนเดอร์ 3 มิติ · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- ภาพเรนเดอร์ 3 มิติ · 0
 - จิบิ / Q-Style · 0
 - ไอโซเมตริก · 0
 - พิกเซลอาร์ต · 0
@@ -104,7 +86,7 @@
 
 ### เนื้อหาหลัก
 
-[ตัวละคร](#category-character) · [ไอเทมแฟชั่น](#category-fashion-item) · [บทคัดย่อ / ความเป็นมา](#category-abstract-background)
+[ตัวละคร](#category-character)
 
 - ภาพบุคคล / เซลฟี่ · 0
 - อินฟลูเอนเซอร์ / นางแบบ · 0
@@ -121,16 +103,7 @@
 - กลุ่ม / คู่ · 0
 - ผลิตภัณฑ์ · 0
 - อาหาร / เครื่องดื่ม · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>ไอเทมแฟชั่น · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- ไอเทมแฟชั่น · 0
 - สัตว์ / สิ่งมีชีวิต · 0
 - ยานพาหนะ · 0
 - สถาปัตยกรรม / การตกแต่งภายใน · 0
@@ -138,16 +111,7 @@
 - ทิวทัศน์เมือง / ถนน · 0
 - แผนภาพ / แผนภูมิ · 0
 - ข้อความ / การจัดพิมพ์ · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>บทคัดย่อ / ความเป็นมา · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- บทคัดย่อ / ความเป็นมา · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 ผู้เขียน：[@Chengzilhy](https://x.com/Chengzilhy) · [โพสต์ต้นฉบับ](https://x.com/Chengzilhy/status/2096842636074312057)
 
-โปรไฟล์ / รูปประจำตัว · การออกแบบแอป / เว็บ · การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพประกอบ · ภาพเรนเดอร์ 3 มิติ · ตัวละคร · ไอเทมแฟชั่น · บทคัดย่อ / ความเป็นมา · รอเผยแพร่
+โปรไฟล์ / รูปประจำตัว · การออกแบบแอป / เว็บ · การถ่ายภาพ · ภาพประกอบ · ตัวละคร · รอเผยแพร่
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

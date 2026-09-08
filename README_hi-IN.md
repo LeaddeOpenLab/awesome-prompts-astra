@@ -47,7 +47,7 @@
 
 ### शैली
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [3D रेंडर](#category-3d-render)
+[फोटोग्राफी](#category-photography) · [चित्रण](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>सिनेमैटिक / फ़िल्म स्टिल · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- सिनेमैटिक / फ़िल्म स्टिल · 0
 - एनिमे / मंगा · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - स्केच / लाइन आर्ट · 0
 - कॉमिक / ग्राफिक नॉवेल · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D रेंडर · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 3D रेंडर · 0
 - चिबी / क्यू-स्टाइल · 0
 - आइसोमेट्रिक · 0
 - पिक्सेल आर्ट · 0
@@ -104,7 +86,7 @@
 
 ### मुख्य सामग्री
 
-[कैरेक्टर](#category-character) · [फ़ैशन आइटम](#category-fashion-item) · [सार / पृष्ठभूमि](#category-abstract-background)
+[कैरेक्टर](#category-character)
 
 - पोर्ट्रेट / सेल्फ़ी · 0
 - इन्फ्लुएंसर / मॉडल · 0
@@ -121,16 +103,7 @@
 - समूह / युगल · 0
 - उत्पाद · 0
 - भोजन / पेय · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>फ़ैशन आइटम · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- फ़ैशन आइटम · 0
 - पशु / जीव · 0
 - वाहन · 0
 - आर्किटेक्चर / इंटीरियर · 0
@@ -138,16 +111,7 @@
 - शहर का नज़ारा / सड़क · 0
 - आरेख / चार्ट · 0
 - टेक्स्ट / टाइपोग्राफी · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>सार / पृष्ठभूमि · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- सार / पृष्ठभूमि · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 लेखक：[@Chengzilhy](https://x.com/Chengzilhy) · [मूल पोस्ट](https://x.com/Chengzilhy/status/2096842636074312057)
 
-प्रोफ़ाइल / अवतार · ऐप / वेब डिज़ाइन · फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · चित्रण · 3D रेंडर · कैरेक्टर · फ़ैशन आइटम · सार / पृष्ठभूमि · प्रकाशन लंबित
+प्रोफ़ाइल / अवतार · ऐप / वेब डिज़ाइन · फोटोग्राफी · चित्रण · कैरेक्टर · प्रकाशन लंबित
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

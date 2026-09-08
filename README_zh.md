@@ -47,7 +47,7 @@
 
 ### 风格
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [3D 渲染](#category-3d-render)
+[摄影](#category-photography) · [插画](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>电影 / 电影剧照 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 电影 / 电影剧照 · 0
 - 动漫 / 漫画 · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - 草图 / 线稿 · 0
 - 漫画 / 图画小说 · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D 渲染 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 3D 渲染 · 0
 - Q 版 / Q 萌风 · 0
 - 等距 · 0
 - 像素艺术 · 0
@@ -104,7 +86,7 @@
 
 ### 主体
 
-[角色](#category-character) · [时尚单品](#category-fashion-item) · [摘要 / 背景](#category-abstract-background)
+[角色](#category-character)
 
 - 人像 / 自拍 · 0
 - 网红 / 模特 · 0
@@ -121,16 +103,7 @@
 - 团体 / 情侣 · 0
 - 产品 · 0
 - 食品 / 饮料 · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>时尚单品 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 时尚单品 · 0
 - 动物 / 生物 · 0
 - 车辆 · 0
 - 建筑 / 室内设计 · 0
@@ -138,16 +111,7 @@
 - 城市风光 / 街道 · 0
 - 图表 · 0
 - 文本 / 排版 · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>摘要 / 背景 · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 摘要 / 背景 · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 作者：[@Chengzilhy](https://x.com/Chengzilhy) · [查看 X 原帖](https://x.com/Chengzilhy/status/2096842636074312057)
 
-个人资料 / 头像 · App / 网页设计 · 摄影 · 电影 / 电影剧照 · 插画 · 3D 渲染 · 角色 · 时尚单品 · 摘要 / 背景 · 待推流
+个人资料 / 头像 · App / 网页设计 · 摄影 · 插画 · 角色 · 待推流
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

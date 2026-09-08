@@ -47,7 +47,7 @@
 
 ### Stil
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D-Rendering](#category-3d-render)
+[Fotografie](#category-photography) · [Illustration](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Kinematisch / Filmstill · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Kinematisch / Filmstill · 0
 - Anime / Manga · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - Skizze / Strichzeichnung · 0
 - Comic / Graphic Novel · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>3D-Rendering · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- 3D-Rendering · 0
 - Chibi / Q-Style · 0
 - Isometrisch · 0
 - Pixel-Art · 0
@@ -104,7 +86,7 @@
 
 ### Hauptinhalt
 
-[Charakter](#category-character) · [Modeartikel](#category-fashion-item) · [Zusammenfassung / Hintergrund](#category-abstract-background)
+[Charakter](#category-character)
 
 - Porträt / Selfie · 0
 - Influencer / Model · 0
@@ -121,16 +103,7 @@
 - Gruppe / Paar · 0
 - Produkt · 0
 - Essen / Trinken · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Modeartikel · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Modeartikel · 0
 - Tier / Kreatur · 0
 - Fahrzeug · 0
 - Architektur / Interieur · 0
@@ -138,16 +111,7 @@
 - Stadtbild / Straße · 0
 - Diagramm / Grafik · 0
 - Text / Typografie · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>Zusammenfassung / Hintergrund · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Zusammenfassung / Hintergrund · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Originalbeitrag](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Profil / Avatar · App- / Webdesign · Fotografie · Kinematisch / Filmstill · Illustration · 3D-Rendering · Charakter · Modeartikel · Zusammenfassung / Hintergrund · Verteilung ausstehend
+Profil / Avatar · App- / Webdesign · Fotografie · Illustration · Charakter · Verteilung ausstehend
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 

@@ -47,7 +47,7 @@
 
 ### Phong cách
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Kết xuất 3D](#category-3d-render)
+[Nhiếp ảnh](#category-photography) · [Minh họa](#category-illustration)
 
 
 <a name="category-photography"></a>
@@ -59,16 +59,7 @@
 
 </details>
 
-
-<a name="category-cinematic-film-still"></a>
-
-<details open>
-<summary>Điện ảnh / Ảnh tĩnh từ phim · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Điện ảnh / Ảnh tĩnh từ phim · 0
 - Anime / Manga · 0
 
 <a name="category-illustration"></a>
@@ -82,16 +73,7 @@
 
 - Phác Thảo / Nét Vẽ · 0
 - Truyện tranh / Tiểu thuyết đồ họa · 0
-
-<a name="category-3d-render"></a>
-
-<details open>
-<summary>Kết xuất 3D · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Kết xuất 3D · 0
 - Chibi / Phong cách Q · 0
 - Đẳng cự · 0
 - Nghệ thuật Pixel · 0
@@ -104,7 +86,7 @@
 
 ### Nội dung chính
 
-[Nhân vật](#category-character) · [Mặt hàng thời trang](#category-fashion-item) · [Tóm tắt / Bối cảnh](#category-abstract-background)
+[Nhân vật](#category-character)
 
 - Chân dung / Ảnh tự chụp · 0
 - Người có ảnh hưởng / Người mẫu · 0
@@ -121,16 +103,7 @@
 - Nhóm / Cặp đôi · 0
 - Sản phẩm · 0
 - Thực phẩm / Đồ uống · 0
-
-<a name="category-fashion-item"></a>
-
-<details open>
-<summary>Mặt hàng thời trang · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Mặt hàng thời trang · 0
 - Động vật / Sinh vật · 0
 - Phương tiện · 0
 - Kiến trúc / Nội thất · 0
@@ -138,16 +111,7 @@
 - Quang cảnh thành phố / Đường phố · 0
 - Sơ đồ / Biểu đồ · 0
 - Văn bản / Kiểu chữ · 0
-
-<a name="category-abstract-background"></a>
-
-<details open>
-<summary>Tóm tắt / Bối cảnh · 1</summary>
-
-- [基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。](#prompt-2096842636074312057) · [@Chengzilhy](https://x.com/Chengzilhy)
-
-</details>
-
+- Tóm tắt / Bối cảnh · 0
 
 <a name="all-prompts"></a>
 
@@ -159,7 +123,7 @@
 
 Tác giả：[@Chengzilhy](https://x.com/Chengzilhy) · [Bài gốc](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Hồ sơ / Ảnh đại diện · Thiết kế ứng dụng / web · Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Minh họa · Kết xuất 3D · Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Chờ phân phối
+Hồ sơ / Ảnh đại diện · Thiết kế ứng dụng / web · Nhiếp ảnh · Minh họa · Nhân vật · Chờ phân phối
 
 引用来源：[@Chengzilhy](https://x.com/Chengzilhy) · [引用原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 
