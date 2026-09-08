@@ -89,7 +89,7 @@ can't stop p…
 
 作者：[@johnAGI168](https://x.com/johnAGI168) · [查看 X 原帖](https://x.com/johnAGI168/status/2097153974335873374)
 
-分类：3D建模与动画 · 状态：待推流
+分类：3D建模与动画 · 状态：待人工复核 · 暂停推流
 
 <img src="covers/2097153974335873374.jpg" alt="封面" width="480" />
 
