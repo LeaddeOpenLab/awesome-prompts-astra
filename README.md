@@ -29,7 +29,7 @@
 
 作者：[@johnAGI168](https://x.com/johnAGI168) · [查看 X 原帖](https://x.com/johnAGI168/status/2097181426672185471)
 
-分类：运动与动作 · 状态：待推流
+分类：运动与动作 · 状态：待人工复核 · 暂停推流
 
 <img src="covers/2097181426672185471.jpg" alt="封面" width="480" />
 
