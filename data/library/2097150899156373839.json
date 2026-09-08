@@ -3,7 +3,7 @@
   "storedAt": "2026-09-08T07:39:41.559Z",
   "model": "astra",
   "prompt": "RT @Yokohara_h: やっとみんなが驚き屋やってるGPT-6 Astraテストした\n画像渡してBlenderで背景の街並みを自動でモデリングし\nブレイクダウンも自動で編集\n完成度はまだまだ駄目だけど今までとは違い3DCGを人の手で作らない時代の始まりは感じた http…",
-  "summary": "用户分享测试GPT-6 Astra在Blender中自动建模街景的体验感想",
+  "summary": "GPT-6 Astraを試し、Blenderで街並みの自動モデリングと制作過程の編集を行った感想を紹介している。",
   "post": {
     "id": "2097150899156373839",
     "canonicalUrl": "https://x.com/ai_animer/status/2097150899156373839",
@@ -43,5 +43,6 @@
     "status": "pending_review",
     "reason": "正文未提供完整可复现 Prompt，暂停推流",
     "reviewedAt": "2026-09-08T08:39:19.517Z"
-  }
+  },
+  "summaryEn": "Shares impressions of testing GPT-6 Astra to automate street-scene modeling and edit a breakdown of the process in Blender."
 }
