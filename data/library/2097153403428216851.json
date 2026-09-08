@@ -3,7 +3,7 @@
   "storedAt": "2026-09-08T07:39:50.850Z",
   "model": "astra",
   "prompt": "RT @adilinthewild: Astra never stops impressing\n\nI just recreated PSY's 'Gangnam Style' in blender using Higgsfield's plugin.\n\ncan't stop p…",
-  "summary": "用户分享使用Astra与Higgsfield插件在Blender中复现江南Style舞蹈",
+  "summary": "Describes recreating PSY's 'Gangnam Style' in Blender using Astra and the Higgsfield plugin.",
   "post": {
     "id": "2097153403428216851",
     "canonicalUrl": "https://x.com/johnAGI168/status/2097153403428216851",
@@ -43,5 +43,6 @@
     "status": "pending_review",
     "reason": "正文未提供完整可复现 Prompt，暂停推流",
     "reviewedAt": "2026-09-08T08:39:28.967Z"
-  }
+  },
+  "summaryEn": "Describes recreating PSY's 'Gangnam Style' in Blender using Astra and the Higgsfield plugin."
 }
