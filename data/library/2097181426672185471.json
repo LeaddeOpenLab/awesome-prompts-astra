@@ -31,12 +31,16 @@
     },
     "matchedRuleIds": [
       "author:johnAGI168"
-    ]
+    ],
+    "postKind": "repost"
   },
   "xUrl": "https://x.com/johnAGI168/status/2097181426672185471",
   "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097054807613992960/img/nyGbGtE7J99CKRZ9.jpg",
   "coverPath": "covers/2097181426672185471.jpg",
+  "imagePaths": [],
   "distribution": {
-    "status": "pending_push"
+    "status": "pending_review",
+    "reason": "纯转发帖误入原创 Prompt 库，需核对原作者与来源；暂停后续推流",
+    "reviewedAt": "2026-09-08T08:17:48.629Z"
   }
 }
