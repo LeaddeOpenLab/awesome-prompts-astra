@@ -3,6 +3,7 @@
   "storedAt": "2026-09-08T07:52:00.516Z",
   "model": "astra",
   "prompt": "RT @gpumaxxer: I just recreated the legendary Canelo vs. GGG fight in Blender using GPT-6 Astra, move for move.\n\nfeels fun ngl https://t.co…",
+  "summary": "转发展示用 Astra 在 Blender 中重现 Canelo 与 GGG 的拳击比赛；没有提供完整可复现 Prompt。",
   "post": {
     "id": "2097181426672185471",
     "canonicalUrl": "https://x.com/johnAGI168/status/2097181426672185471",
@@ -40,7 +41,7 @@
   "imagePaths": [],
   "distribution": {
     "status": "pending_review",
-    "reason": "纯转发帖误入原创 Prompt 库，需核对原作者与来源；暂停后续推流",
-    "reviewedAt": "2026-09-08T08:17:48.629Z"
+    "reason": "未提供完整可复现 Prompt 或尚未通过实际媒体一致性验证，暂停推流",
+    "reviewedAt": "2026-09-08T08:37:24.559Z"
   }
 }
