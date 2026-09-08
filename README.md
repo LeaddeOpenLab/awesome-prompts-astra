@@ -58,7 +58,7 @@ feels fun ngl https://t.co…
 
 作者：[@johnAGI168](https://x.com/johnAGI168) · [查看 X 原帖](https://x.com/johnAGI168/status/2097153403428216851)
 
-分类：音乐舞蹈与表演 · 状态：待推流
+分类：音乐舞蹈与表演 · 状态：待人工复核 · 暂停推流
 
 <img src="covers/2097153403428216851.jpg" alt="封面" width="480" />
 
