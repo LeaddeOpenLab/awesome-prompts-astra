@@ -63,7 +63,7 @@ If this is not AGI, then wha…
 
 分类：建筑空间与室内 · 状态：待人工复核 · 暂停推流
 
-**概括：** 转发介绍将图片交给 Astra，在 Blender 中自动搭建街景并剪辑制作过程；原文不含完整复现步骤。
+**概括：** 用户分享测试GPT-6 Astra在Blender中自动建模街景的体验感想
 
 <img src="covers/2097150899156373839.jpg" alt="封面" width="480" />
 
