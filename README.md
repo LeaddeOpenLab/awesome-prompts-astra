@@ -126,7 +126,7 @@ feels fun ngl https://t.co…
 
 分类：音乐舞蹈与表演 · 状态：待人工复核 · 暂停推流
 
-**概括：** 音乐舞蹈与表演：Astra never stops impressing
+**概括：** 转发展示在 Blender 中借助 Astra 与 Higgsfield 重现《江南 Style》；原文未提供完整 Prompt。
 
 <img src="covers/2097153403428216851.jpg" alt="封面" width="480" />
 
