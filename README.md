@@ -32,7 +32,7 @@
 
 分类：人物肖像与角色 · 状态：待人工复核 · 暂停推流
 
-**概括：** 用户分享通过GPT-6 Astra结合Higgsfield一次生成3D总统模型的成果
+**Summary (English):** Describes using GPT-6 Astra and Higgsfield MCP to generate a 3D model of 'Mr. President' wearing a power ring in one attempt.
 
 <img src="covers/2097153974335873374.jpg" alt="封面" width="480" />
 
@@ -63,7 +63,9 @@ If this is not AGI, then wha…
 
 分类：建筑空间与室内 · 状态：待人工复核 · 暂停推流
 
-**概括：** 用户分享测试GPT-6 Astra在Blender中自动建模街景的体验感想
+**概括（Prompt 原语言）：** GPT-6 Astraを試し、Blenderで街並みの自動モデリングと制作過程の編集を行った感想を紹介している。
+
+**English summary:** Shares impressions of testing GPT-6 Astra to automate street-scene modeling and edit a breakdown of the process in Blender.
 
 <img src="covers/2097150899156373839.jpg" alt="封面" width="480" />
 
@@ -95,7 +97,7 @@ RT @Yokohara_h: やっとみんなが驚き屋やってるGPT-6 Astraテスト�
 
 分类：运动与动作 · 状态：待人工复核 · 暂停推流
 
-**概括：** 分享利用GPT-6 Astra在Blender中复刻拳击经典比赛动画
+**Summary (English):** Describes recreating the Canelo vs. GGG boxing match, move for move, in Blender using GPT-6 Astra.
 
 <img src="covers/2097181426672185471.jpg" alt="封面" width="480" />
 
@@ -126,7 +128,7 @@ feels fun ngl https://t.co…
 
 分类：音乐舞蹈与表演 · 状态：待人工复核 · 暂停推流
 
-**概括：** 用户分享使用Astra与Higgsfield插件在Blender中复现江南Style舞蹈
+**Summary (English):** Describes recreating PSY's 'Gangnam Style' in Blender using Astra and the Higgsfield plugin.
 
 <img src="covers/2097153403428216851.jpg" alt="封面" width="480" />
 
