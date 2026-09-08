@@ -32,7 +32,7 @@
 
 分类：人物肖像与角色 · 状态：待人工复核 · 暂停推流
 
-**概括：** 人物肖像与角色：GPT-6 Astra \+ Higgsfield MCP one-shotted a 3D model of Mr. President w…
+**概括：** 转发展示使用 GPT-6 Astra 与 Higgsfield 制作佩戴能量戒指的人物 3D 模型；原文未提供完整 Prompt。
 
 <img src="covers/2097153974335873374.jpg" alt="封面" width="480" />
 
