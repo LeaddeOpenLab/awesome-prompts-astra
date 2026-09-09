@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T20:21:17.884Z",
+  "model": "astra",
+  "prompt": "img2threejs/img2threejs を使って、立体的なこの島の小さな村の地形を作って。参考画像は添付を使用してください。",
+  "promptTranslations": {
+    "en": "Use img2threejs/img2threejs to create a three-dimensional terrain of this island's small village. Please use the attached image as a reference."
+  },
+  "summaryTranslations": {
+    "en": "Instruction to generate a 3D terrain model of a small island village referring to the attached image."
+  },
+  "translationVersion": 2,
+  "summary": "添付画像を参照して島の小さな村の立体的な3D地形モデルを生成する指示。",
+  "summaryEn": "Prompt instructing to generate a 3D terrain model of a small island village based on the attached image.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097743367484621269",
+    "canonicalUrl": "https://x.com/TaroKichijo/status/2097743367484621269",
+    "author": {
+      "username": "TaroKichijo",
+      "displayName": "Kichitaro (Kichi Shotaro)",
+      "profileUrl": "https://x.com/TaroKichijo"
+    },
+    "publishedAt": "2026-09-09T17:46:07.000Z",
+    "collectedAt": "2026-09-09T20:16:32.197Z",
+    "language": "ja",
+    "originalText": "GPT-6 Astra 、Solとかでは全然ダメだった画像の3Dモデル化、そつなくこなしてくるから恐ろしいな。\n\nimg2threejs/img2threejs を使って、立体的なこの島の小さな村の地形を作って。参考画像は添付を使用してください。 https://t.co/90aNsggcfg",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TaroKichijo/status/2097743367484621269",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097743041306202112/img/iqVmX6R6kRMk06rr.jpg",
+        "analysisUrl": "https://x.com/TaroKichijo/status/2097743367484621269"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyuc45a8AA9qCo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyuc45a8AA9qCo.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 46
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TaroKichijo/status/2097743367484621269",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097743041306202112/img/iqVmX6R6kRMk06rr.jpg",
+  "coverPath": "covers/2097743367484621269.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097743041306202112",
+    "x-image:/media/HRyuc45a8AA9qCo",
+    "x-post:2097743367484621269"
+  ],
+  "analysis": {
+    "summary": "添付画像を参照して島の小さな村の立体的な3D地形モデルを生成する指示。",
+    "summaryEn": "Prompt instructing to generate a 3D terrain model of a small island village based on the attached image.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频展示了根据参考图片生成的岛屿村庄立体 3D 交互场景，包含橘色圆顶小屋、拱门和悬崖地形，与提示词要求一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "img2threejs/img2threejs を使って、立体的なこの島の小さな村の地形を作って。参考画像は添付を使用してください。",
+    "sourceRange": {
+      "start": 57,
+      "end": 123
+    },
+    "translations": {
+      "zh": "使用 img2threejs/img2threejs 创建这个岛屿小村庄的立体地形。参考图像请使用附件。",
+      "en": "Use img2threejs/img2threejs to create a three-dimensional terrain of this small island village. Please use the attachment as the reference image."
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D island village modeling",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
