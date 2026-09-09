@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Đang dịch
+### Quảng cáo kẹo cao su học đường 30 giây: Học sinh nhút nhát bị bắt nạt nhai kẹo “RAZOR” lấy lại tự tin, trình diễn trượt ván phản đòn kẻ bắt nạt và chinh phục cô gái tóc đỏ, kết thúc với hiệu ứng truyện tranh vàng-đen cùng khẩu hiệu sản phẩm.
 
 Tác giả：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Bài gốc](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quảng cáo kẹo cao su học đường 30 giây: Học sinh nhút nhát bị bắt nạt nhai kẹo “RAZOR” lấy lại tự tin, trình diễn trượt ván phản đòn kẻ bắt nạt và chinh phục cô gái tóc đỏ, kết thúc với hiệu ứng truyện tranh vàng-đen cùng khẩu hiệu sản phẩm.
 
 <img src="covers/2097718063663858058.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 30 giây lấy bối cảnh trong sân trường. Một học sinh nhút nhát mặc áo sơ mi màu tím bị nhóm vận động viên mặc áo khoác varsity màu xanh lá cây bắt nạt. Một người bạn đưa cho cậu ta gói kẹo cao su “RAZOR” màu vàng. Cậu nhai nó, lấy lại sự tự tin, thực hiện những màn trượt ván đỉnh cao, qua mặt kẻ bắt nạt và gây ấn tượng với một cô gái tóc đỏ. Sử dụng hình ảnh chân thực, chuyển động máy quay nhanh, sự hài hước tinh nghịch cùng hiệu ứng truyện tranh màu vàng đen. Kết thúc bằng hình ảnh gói kẹo cao su và câu khẩu hiệu.
 ```
 
 [↑ Về danh mục](#catalog)
