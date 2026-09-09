@@ -4,10 +4,26 @@
   "model": "astra",
   "prompt": "Modern villa, infinity pool, ocean view.",
   "promptTranslations": {
-    "en": "Modern villa, infinity pool, ocean view."
+    "en": "Modern villa, infinity pool, ocean view.",
+    "zh": "现代别墅，无边泳池，海景。",
+    "zh-TW": "現代別墅，無邊際泳池，海景。",
+    "ja-JP": "モダンなヴィラ、インフィニティプール、オーシャンビュー。",
+    "ko-KR": "현대적인 빌라, 인피니티 풀, 오션 뷰.",
+    "th-TH": "วิลล่าทันสมัย สระว่ายน้ำแบบอินฟินิตี้ วิวทะเล",
+    "vi-VN": "Biệt thự hiện đại, hồ bơi vô cực, hướng nhìn ra biển.",
+    "hi-IN": "आधुनिक विला, इन्फिनिटी पूल, समुद्र का नज़ारा।",
+    "es-ES": "Villa moderna, piscina infinita, vistas al mar."
   },
   "summaryTranslations": {
-    "en": "Modern villa, infinity pool, ocean view."
+    "en": "Modern villa, infinity pool, ocean view.",
+    "zh": "现代别墅，无边泳池，海景。",
+    "zh-TW": "現代別墅，無邊際泳池，海景。",
+    "ja-JP": "モダンなヴィラ、インフィニティプール、オーシャンビュー。",
+    "ko-KR": "현대적인 빌라, 인피니티 풀, 오션 뷰.",
+    "th-TH": "วิลล่าทันสมัย สระว่ายน้ำแบบอินฟินิตี้ วิวทะเล",
+    "vi-VN": "Biệt thự hiện đại, hồ bơi vô cực, hướng nhìn ra biển.",
+    "hi-IN": "आधुनिक विला, इन्फिनिटी पूल, समुद्र का नज़ारा।",
+    "es-ES": "Villa moderna, piscina infinita, vistas al mar."
   },
   "translationVersion": 2,
   "summary": "Modern villa, infinity pool, ocean view.",
