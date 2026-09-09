@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T16:34:56.154Z",
+  "model": "astra",
+  "prompt": "Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy student in a purple shirt is bullied by athletes in green varsity jackets. A friend gives him yellow-packaged “RAZOR” gum. He chews it, gains confidence, performs amazing skateboard tricks, outsmarts the bully, and impresses a red-haired girl. Use realistic visuals, fast camera movements, playful humor, and yellow-and-black comic-book effects. End with the gum pack and slogan.",
+  "promptTranslations": {
+    "en": "Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy student in a purple shirt is bullied by athletes in green varsity jackets. A friend gives him yellow-packaged “RAZOR” gum. He chews it, gains confidence, performs amazing skateboard tricks, outsmarts the bully, and impresses a red-haired girl. Use realistic visuals, fast camera movements, playful humor, and yellow-and-black comic-book effects. End with the gum pack and slogan."
+  },
+  "summaryTranslations": {
+    "en": "30-second school chewing-gum ad: A shy student bullied by peers regains confidence after chewing “RAZOR” gum, shows off skateboard tricks to outsmart the bully and impress a red-haired girl, ending with yellow-and-black comic-book effects and the product slogan."
+  },
+  "translationVersion": 2,
+  "summary": "30秒校园口香糖广告：害羞学生被霸凌后嚼“RAZOR”口香糖重获自信，秀出滑板特技反制霸凌并打动红发女孩，带有黄黑漫画特效及产品标语收尾。",
+  "summaryEn": "A 30s school chewing-gum ad: a bullied student chews 'RAZOR' gum, gains confidence, does skateboard tricks, outsmarts bullies, impresses a girl, with comic effects.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097718063663858058",
+    "canonicalUrl": "https://x.com/higgsfield_ai/status/2097718063663858058",
+    "author": {
+      "username": "higgsfield_ai",
+      "displayName": "Higgsfield AI 🧩",
+      "profileUrl": "https://x.com/higgsfield_ai"
+    },
+    "publishedAt": "2026-09-09T16:05:34.000Z",
+    "collectedAt": "2026-09-09T16:16:31.563Z",
+    "language": "en",
+    "originalText": "Testing GPT-6 Astra vs Fable 5.1 in commercials.\n\nThe prompt:\n\n\"Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy student in a purple shirt is bullied by athletes in green varsity jackets. A friend gives him yellow-packaged “RAZOR” gum. He chews it, gains confidence, performs amazing skateboard tricks, outsmarts the bully, and impresses a red-haired girl. Use realistic visuals, fast camera movements, playful humor, and yellow-and-black comic-book effects. End with the gum pack and slogan.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/higgsfield_ai/status/2097718063663858058",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097717784121856000/img/-DtiKMI5eqGQ2udS.jpg",
+        "analysisUrl": "https://x.com/higgsfield_ai/status/2097718063663858058"
+      }
+    ],
+    "metrics": {
+      "likeCount": 26,
+      "repostCount": 5,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 4570
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/higgsfield_ai/status/2097718063663858058",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097717784121856000/img/-DtiKMI5eqGQ2udS.jpg",
+  "coverPath": "covers/2097718063663858058.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097717784121856000",
+    "x-post:2097718063663858058"
+  ],
+  "analysis": {
+    "summary": "30秒校园口香糖广告：害羞学生被霸凌后嚼“RAZOR”口香糖重获自信，秀出滑板特技反制霸凌并打动红发女孩，带有黄黑漫画特效及产品标语收尾。",
+    "summaryEn": "A 30s school chewing-gum ad: a bullied student chews 'RAZOR' gum, gains confidence, does skateboard tricks, outsmarts bullies, impresses a girl, with comic effects.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The prompt matches the side-by-side comparison video showing the student in purple, bullies in green varsity jackets, yellow gum pack, skateboard stunts, comic effects, and the final slogan screen."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy student in a purple shirt is bullied by athletes in green varsity jackets. A friend gives him yellow-packaged “RAZOR” gum. He chews it, gains confidence, performs amazing skateboard tricks, outsmarts the bully, and impresses a red-haired girl. Use realistic visuals, fast camera movements, playful humor, and yellow-and-black comic-book effects. End with the gum pack and slogan.",
+    "sourceRange": {
+      "start": 64,
+      "end": 520
+    },
+    "translations": {
+      "zh": "创作一条30秒的电影质感口香糖广告，背景设在学校庭院。一位穿紫色衬衫的害羞学生被穿绿色棒球服的体育生霸凌。朋友递给他一包黄色包装的“RAZOR”口香糖。他嚼了嚼，重拾自信，做出惊艳的滑板特技，戏耍了霸凌者，并让一位红发女孩刮目相看。采用写实画面、快速镜头运镜、幽默风趣的基调，搭配黄黑相间的漫画风格特效。最后以口香糖包装和标语收尾。",
+      "en": "Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy student in a purple shirt is bullied by athletes in green varsity jackets. A friend gives him yellow-packaged “RAZOR” gum. He chews it, gains confidence, performs amazing skateboard tricks, outsmarts the bully, and impresses a red-haired girl. Use realistic visuals, fast camera movements, playful humor, and yellow-and-black comic-book effects. End with the gum pack and slogan."
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
