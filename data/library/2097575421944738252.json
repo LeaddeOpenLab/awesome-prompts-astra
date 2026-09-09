@@ -4,10 +4,26 @@
   "model": "astra",
   "prompt": "東京版タワテラの外観3Dモデル作って",
   "promptTranslations": {
-    "en": "Create a 3D model of the exterior of Tokyo's Tower of Terror"
+    "en": "Create a 3D model of the exterior of Tokyo's Tower of Terror",
+    "zh": "制作东京版惊魂古塔的外观3D模型",
+    "zh-TW": "製作東京版驚魂古塔的外觀3D模型",
+    "ja-JP": "東京版タワテラの外観3Dモデル作って",
+    "ko-KR": "도쿄판 타워 오브 테러 외관 3D 모델 만들어줘",
+    "th-TH": "สร้างโมเดล 3D ภายนอกของทาวเวอร์ออฟเทอร์เรอร์เวอร์ชันโตเกียว",
+    "vi-VN": "Tạo mô hình 3D ngoại quan của Tower of Terror phiên bản Tokyo",
+    "hi-IN": "टोक्यो संस्करण के टॉवर ऑफ टेरर के बाहरी स्वरूप का 3D मॉडल बनाएं",
+    "es-ES": "Crea un modelo 3D del exterior de la Tower of Terror versión de Tokio"
   },
   "summaryTranslations": {
-    "en": "3D model of the exterior of Tokyo's Tower of Terror"
+    "en": "3D model of the exterior of Tokyo's Tower of Terror",
+    "zh": "东京版惊魂古塔外观3D模型",
+    "zh-TW": "東京版驚魂古塔外觀3D模型",
+    "ja-JP": "東京版タワテラの外観3Dモデル",
+    "ko-KR": "도쿄판 타워 오브 테러 외관 3D 모델",
+    "th-TH": "โมเดล 3D ภายนอกของทาวเวอร์ออฟเทอร์เรอร์เวอร์ชันโตเกียว",
+    "vi-VN": "Mô hình 3D ngoại quan Tower of Terror phiên bản Tokyo",
+    "hi-IN": "टोक्यो संस्करण के टॉवर ऑफ टेरर के बाहरी स्वरूप का 3D मॉडल",
+    "es-ES": "Modelo 3D del exterior de la Tower of Terror versión de Tokio"
   },
   "translationVersion": 2,
   "summary": "東京版タワテラの外観3Dモデル",
