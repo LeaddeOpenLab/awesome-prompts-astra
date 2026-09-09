@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Traducción en curso
+### Prompt para crear una escena de colocación de un traje de hierro en Blender.
 
 Autor：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Publicación original](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 Renderizado 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para crear una escena de colocación de un traje de hierro en Blender.
 
 <img src="covers/2097620442236555693.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una escena donde se equipe un traje de hierro en Blender.
 ```
 
 [↑ Volver a categorías](#catalog)

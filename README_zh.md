@@ -405,20 +405,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### 翻译中
+### 在 Blender 中创建钢铁装甲穿戴场景的提示词。
 
 作者：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [查看 X 原帖](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 3D 渲染 · 已推流
 
-**概括:** 翻译中
+**概括:** 在 Blender 中创建钢铁装甲穿戴场景的提示词。
 
 <img src="covers/2097620442236555693.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+用 Blender 制作一段钢铁装甲的着装穿戴场景。
 ```
 
 [↑ 返回分类目录](#catalog)

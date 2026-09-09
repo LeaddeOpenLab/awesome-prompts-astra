@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Tradução em andamento
+### Prompt para criar uma cena de vestimenta de armadura de ferro no Blender.
 
 Autor：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Publicação original](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para criar uma cena de vestimenta de armadura de ferro no Blender.
 
 <img src="covers/2097620442236555693.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma cena de vestimenta de uma armadura de ferro no Blender.
 ```
 
 [↑ Voltar às categorias](#catalog)

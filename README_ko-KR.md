@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### 번역 중
+### Blender에서 아이언 슈트 착용 장면을 제작하기 위한 프롬프트.
 
 작성자：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [원본 게시물](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 3D 렌더링 · 배포 완료
 
-**요약:** 번역 중
+**요약:** Blender에서 아이언 슈트 착용 장면을 제작하기 위한 프롬프트.
 
 <img src="covers/2097620442236555693.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+블렌더(Blender)로 아이언 슈트 착용 장면을 만들어 줘.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

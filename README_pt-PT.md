@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Tradução em curso
+### Prompt para criar uma cena de colocação de uma armadura de ferro no Blender.
 
 Autor：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Publicação original](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para criar uma cena de colocação de uma armadura de ferro no Blender.
 
 <img src="covers/2097620442236555693.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Cria uma cena de colocação de uma armadura de ferro no Blender.
 ```
 
 [↑ Voltar às categorias](#catalog)

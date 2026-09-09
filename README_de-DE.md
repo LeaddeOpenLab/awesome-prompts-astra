@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Übersetzung läuft
+### Prompt zum Erstellen einer Anzug-Anlege-Szene für einen eisernen Anzug in Blender.
 
 Autor：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Originalbeitrag](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zum Erstellen einer Anzug-Anlege-Szene für einen eisernen Anzug in Blender.
 
 <img src="covers/2097620442236555693.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine Szene in Blender, in der ein eiserner Anzug angelegt wird.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

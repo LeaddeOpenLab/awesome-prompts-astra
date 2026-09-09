@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Çeviri sürüyor
+### Blender'da demir zırh kuşanma sahnesi oluşturmak için komut istemi.
 
 Yazar：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Orijinal gönderi](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Blender'da demir zırh kuşanma sahnesi oluşturmak için komut istemi.
 
 <img src="covers/2097620442236555693.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Blender'da bir demir zırh giyme sahnesi oluştur.
 ```
 
 [↑ Kategorilere dön](#catalog)

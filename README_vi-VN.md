@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Đang dịch
+### Lời nhắc tạo cảnh mặc bộ giáp sắt trong Blender.
 
 Tác giả：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Bài gốc](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo cảnh mặc bộ giáp sắt trong Blender.
 
 <img src="covers/2097620442236555693.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh mặc bộ giáp sắt (iron suit) bằng Blender.
 ```
 
 [↑ Về danh mục](#catalog)

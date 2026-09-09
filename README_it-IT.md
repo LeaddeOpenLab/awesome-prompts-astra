@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Traduzione in corso
+### Prompt per creare una scena di vestizione di un'armatura di ferro in Blender.
 
 Autore：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Post originale](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per creare una scena di vestizione di un'armatura di ferro in Blender.
 
 <img src="covers/2097620442236555693.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una scena di vestizione di un'armatura di ferro in Blender.
 ```
 
 [↑ Torna alle categorie](#catalog)

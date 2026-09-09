@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### Traduction en cours
+### Prompt pour créer une scène d'enfilage d'une armure de fer dans Blender.
 
 Auteur：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Publication originale](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour créer une scène d'enfilage d'une armure de fer dans Blender.
 
 <img src="covers/2097620442236555693.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Crée une scène d'enfilage d'armure de fer dans Blender.
 ```
 
 [↑ Retour aux catégories](#catalog)

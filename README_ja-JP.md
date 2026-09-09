@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097620442236555693"></a>
 
-### 翻訳中
+### Blenderでアイアンスーツの装着シーンを作成するプロンプト。
 
 作者：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [元の投稿](https://x.com/chatgpt_liberty/status/2097620442236555693)
 
 3D レンダリング · 配信済み
 
-**概要:** 翻訳中
+**概要:** Blenderでアイアンスーツの装着シーンを作成するプロンプト。
 
 <img src="covers/2097620442236555693.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+アイアンスーツの装着シーンをblenderで作って。
 ```
 
 [↑ カテゴリに戻る](#catalog)
