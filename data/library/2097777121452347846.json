@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T20:18:36.236Z",
+  "model": "astra",
+  "prompt": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.",
+  "promptTranslations": {
+    "en": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie."
+  },
+  "summaryTranslations": {
+    "en": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie."
+  },
+  "translationVersion": 2,
+  "summary": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.",
+  "summaryEn": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097777121452347846",
+    "canonicalUrl": "https://x.com/VK10920178/status/2097777121452347846",
+    "author": {
+      "username": "VK10920178",
+      "displayName": "VK",
+      "profileUrl": "https://x.com/VK10920178"
+    },
+    "publishedAt": "2026-09-09T20:00:15.000Z",
+    "collectedAt": "2026-09-09T20:16:32.197Z",
+    "language": "en",
+    "originalText": "GPT-6 Astra image prompt: Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie. https://t.co/G0lOQYv0Cy",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRzNLK7bMAAo_UM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRzNLK7bMAAo_UM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 18
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/VK10920178/status/2097777121452347846",
+  "coverUrl": "https://pbs.twimg.com/media/HRzNLK7bMAAo_UM.jpg",
+  "coverPath": "images/2097777121452347846-1.jpg",
+  "imagePaths": [
+    "images/2097777121452347846-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRzNLK7bMAAo_UM",
+    "x-post:2097777121452347846"
+  ],
+  "analysis": {
+    "summary": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.",
+    "summaryEn": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image displays a 4x6 grid of 24 frames showing recognizable characters and scenes reminiscent of Seinfeld."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.",
+    "sourceRange": {
+      "start": 26,
+      "end": 125
+    },
+    "translations": {
+      "zh": "创建一个24帧的故事板图像，包含一部潜在的《宋飞正传》重启电影的24个剧照截图。",
+      "en": "Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie."
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Likeness/IP: Seinfeld characters and IP"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
