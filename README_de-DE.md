@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**1** Prompts · Zuletzt hinzugefügt: **2026-09-08**
+**2** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Illustration](#category-illustration)
+[Illustration](#category-illustration) · [3D-Rendering](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D-Rendering
+
+<a name="prompt-2097575421944738252"></a>
+
+### Übersetzung läuft
+
+Autor：[@satoh\_sama4](https://x.com/satoh_sama4) · [Originalbeitrag](https://x.com/satoh_sama4/status/2097575421944738252)
+
+3D-Rendering · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097575421944738252.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

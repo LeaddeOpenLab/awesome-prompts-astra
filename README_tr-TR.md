@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**1** Prompt · Son eklenen: **2026-09-08**
+**2** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[İllüstrasyon](#category-illustration)
+[İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Modelleme
+
+<a name="prompt-2097575421944738252"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@satoh\_sama4](https://x.com/satoh_sama4) · [Orijinal gönderi](https://x.com/satoh_sama4/status/2097575421944738252)
+
+3D Modelleme · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097575421944738252.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**1** Prompts · Última incorporación: **2026-09-08**
+**2** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Ilustración](#category-illustration)
+[Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Renderizado 3D
+
+<a name="prompt-2097575421944738252"></a>
+
+### Traducción en curso
+
+Autor：[@satoh\_sama4](https://x.com/satoh_sama4) · [Publicación original](https://x.com/satoh_sama4/status/2097575421944738252)
+
+Renderizado 3D · Arquitectura / Interiores · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097575421944738252.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

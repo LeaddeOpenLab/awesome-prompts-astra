@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**1** 筆內容 · 最新收錄: **2026-09-08**
+**2** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[插圖](#category-illustration)
+[插圖](#category-illustration) · [3D 渲染](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D 渲染
+
+<a name="prompt-2097575421944738252"></a>
+
+### 翻譯中
+
+作者：[@satoh\_sama4](https://x.com/satoh_sama4) · [查看 X 原帖](https://x.com/satoh_sama4/status/2097575421944738252)
+
+3D 渲染 · 建築 / 室內設計 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2097575421944738252.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

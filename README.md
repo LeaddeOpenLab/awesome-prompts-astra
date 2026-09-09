@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**1** Prompts · Latest addition: **2026-09-08**
+**2** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Illustration](#category-illustration)
+[Illustration](#category-illustration) · [3D Render](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Render
+
+<a name="prompt-2097575421944738252"></a>
+
+### 3D model of the exterior of Tokyo's Tower of Terror
+
+Author：[@satoh\_sama4](https://x.com/satoh_sama4) · [Source](https://x.com/satoh_sama4/status/2097575421944738252)
+
+3D Render · Architecture / Interior · Published
+
+**Summary:** 3D model of the exterior of Tokyo's Tower of Terror
+
+<img src="covers/2097575421944738252.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 3D model of the exterior of Tokyo's Tower of Terror
 ```
 
 [↑ Back to categories](#catalog)

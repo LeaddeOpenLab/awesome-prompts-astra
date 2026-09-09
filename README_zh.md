@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**1** 条内容 · 最新收录: **2026-09-08**
+**2** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[插画](#category-illustration)
+[插画](#category-illustration) · [3D 渲染](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -393,6 +393,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D 渲染
+
+<a name="prompt-2097575421944738252"></a>
+
+### 翻译中
+
+作者：[@satoh\_sama4](https://x.com/satoh_sama4) · [查看 X 原帖](https://x.com/satoh_sama4/status/2097575421944738252)
+
+3D 渲染 · 建筑 / 室内设计 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2097575421944738252.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)
