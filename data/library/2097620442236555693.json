@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T12:17:16.291Z",
+  "model": "astra",
+  "prompt": "アイアンスーツの装着シーンをblenderで作って。",
+  "promptTranslations": {
+    "en": "Create an iron suit suit-up scene in Blender."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for creating an iron suit suit-up scene in Blender."
+  },
+  "translationVersion": 2,
+  "summary": "Blenderでアイアンスーツの装着シーンを作成するプロンプト。",
+  "summaryEn": "Prompt to generate an iron suit donning scene using Blender.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097620442236555693",
+    "canonicalUrl": "https://x.com/chatgpt_liberty/status/2097620442236555693",
+    "author": {
+      "username": "chatgpt_liberty",
+      "displayName": "オオギ",
+      "profileUrl": "https://x.com/chatgpt_liberty"
+    },
+    "publishedAt": "2026-09-09T09:37:39.000Z",
+    "collectedAt": "2026-09-09T12:15:35.618Z",
+    "language": "ja",
+    "originalText": "GPT-6 Astraに\n「アイアンスーツの装着シーンをblenderで作って。」\nと依頼した結果。 https://t.co/0DS02e0JIO",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/chatgpt_liberty/status/2097620442236555693",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097619868019552256/img/oPasjYBODwopPgy0.jpg",
+        "analysisUrl": "https://x.com/chatgpt_liberty/status/2097620442236555693"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 90
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/chatgpt_liberty/status/2097620442236555693",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097619868019552256/img/oPasjYBODwopPgy0.jpg",
+  "coverPath": "covers/2097620442236555693.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097619868019552256",
+    "x-post:2097620442236555693"
+  ],
+  "analysis": {
+    "summary": "Blenderでアイアンスーツの装着シーンを作成するプロンプト。",
+    "summaryEn": "Prompt to generate an iron suit donning scene using Blender.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "3D视频完整展示了机械臂将红金钢铁装甲逐一部件组装到人体上的过程，与在Blender中制作钢铁战衣穿戴场景的指令相符。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "アイアンスーツの装着シーンをblenderで作って。",
+    "sourceRange": {
+      "start": 14,
+      "end": 40
+    },
+    "translations": {
+      "zh": "在 Blender 中制作钢铁战衣的装配穿戴场景。",
+      "en": "Create an iron suit donning scene in Blender."
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D 场景动画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Iron Man (Marvel)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
