@@ -12,7 +12,14 @@
     "th-TH": "วิลล่าทันสมัย สระว่ายน้ำแบบอินฟินิตี้ วิวทะเล",
     "vi-VN": "Biệt thự hiện đại, hồ bơi vô cực, hướng nhìn ra biển.",
     "hi-IN": "आधुनिक विला, इन्फिनिटी पूल, समुद्र का नज़ारा।",
-    "es-ES": "Villa moderna, piscina infinita, vistas al mar."
+    "es-ES": "Villa moderna, piscina infinita, vistas al mar.",
+    "es-419": "Villa moderna, alberca infinita, vista al océano.",
+    "de-DE": "Moderne Villa, Infinity-Pool, Meerblick.",
+    "fr-FR": "Villa moderne, piscine à débordement, vue sur l'océan.",
+    "it-IT": "Villa moderna, piscina a sfioro, vista sull'oceano.",
+    "pt-BR": "Vila moderna, piscina de borda infinita, vista para o oceano.",
+    "pt-PT": "Villa moderna, piscina infinita, vista para o oceano.",
+    "tr-TR": "Modern villa, sonsuzluk havuzu, okyanus manzarası."
   },
   "summaryTranslations": {
     "en": "Modern villa, infinity pool, ocean view.",
@@ -23,7 +30,14 @@
     "th-TH": "วิลล่าทันสมัย สระว่ายน้ำแบบอินฟินิตี้ วิวทะเล",
     "vi-VN": "Biệt thự hiện đại, hồ bơi vô cực, hướng nhìn ra biển.",
     "hi-IN": "आधुनिक विला, इन्फिनिटी पूल, समुद्र का नज़ारा।",
-    "es-ES": "Villa moderna, piscina infinita, vistas al mar."
+    "es-ES": "Villa moderna, piscina infinita, vistas al mar.",
+    "es-419": "Villa moderna, alberca infinita, vista al océano.",
+    "de-DE": "Moderne Villa, Infinity-Pool, Meerblick.",
+    "fr-FR": "Villa moderne, piscine à débordement, vue sur l'océan.",
+    "it-IT": "Villa moderna, piscina a sfioro, vista sull'oceano.",
+    "pt-BR": "Vila moderna, piscina de borda infinita, vista para o oceano.",
+    "pt-PT": "Villa moderna, piscina infinita, vista para o oceano.",
+    "tr-TR": "Modern villa, sonsuzluk havuzu, okyanus manzarası."
   },
   "translationVersion": 2,
   "summary": "Modern villa, infinity pool, ocean view.",
