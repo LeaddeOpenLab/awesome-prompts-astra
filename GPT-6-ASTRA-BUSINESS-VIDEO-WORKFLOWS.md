@@ -51,7 +51,7 @@ Publish the exact task, source material, prompt, correction prompt, model/versio
 
 ## Related libraries
 
+- [Complete document-to-video workflows](https://github.com/LeaddeOpenLab/awesome-document-to-video)
 - [Seedance prompt library](https://github.com/LeaddeOpenLab/awesome-prompts-seedance)
 - [Image 2.5 prompt library](https://github.com/LeaddeOpenLab/awesome-prompts-image2.5)
 - [Emerging visual prompts](https://github.com/LeaddeOpenLab/awesome-prompts-uncategorized)
-
