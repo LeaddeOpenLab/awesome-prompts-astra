@@ -34,7 +34,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 Autor：[@Chengzilhy](https://x.com/Chengzilhy) · [Publicación original](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Perfil / Avatar · Diseño de aplicaciones / web · Fotografía · Ilustración · Personaje · Pendiente de distribución
+Perfil / Avatar · Diseño de aplicaciones / web · Fotografía · Ilustración · Personaje · Publicado
 
 Publicación original：[@Chengzilhy](https://x.com/Chengzilhy) · [Publicación original](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -393,5 +393,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [Explora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-Referencia de navegación: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

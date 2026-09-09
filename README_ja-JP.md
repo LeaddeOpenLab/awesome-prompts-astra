@@ -34,7 +34,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@Chengzilhy](https://x.com/Chengzilhy) · [元の投稿](https://x.com/Chengzilhy/status/2096842636074312057)
 
-プロフィール / アバター · アプリ / Web デザイン · 写真撮影 · イラスト · キャラクター · 配信待ち
+プロフィール / アバター · アプリ / Web デザイン · 写真撮影 · イラスト · キャラクター · 配信済み
 
 元の投稿：[@Chengzilhy](https://x.com/Chengzilhy) · [元の投稿](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -393,5 +393,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

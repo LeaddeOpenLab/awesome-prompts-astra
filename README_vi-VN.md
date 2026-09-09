@@ -34,7 +34,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 Tác giả：[@Chengzilhy](https://x.com/Chengzilhy) · [Bài gốc](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Hồ sơ / Ảnh đại diện · Thiết kế ứng dụng / web · Nhiếp ảnh · Minh họa · Nhân vật · Chờ phân phối
+Hồ sơ / Ảnh đại diện · Thiết kế ứng dụng / web · Nhiếp ảnh · Minh họa · Nhân vật · Đã xuất bản
 
 Bài gốc：[@Chengzilhy](https://x.com/Chengzilhy) · [Bài gốc](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -393,5 +393,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [Khám phá Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-Tham khảo điều hướng: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

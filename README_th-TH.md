@@ -34,7 +34,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ผู้เขียน：[@Chengzilhy](https://x.com/Chengzilhy) · [โพสต์ต้นฉบับ](https://x.com/Chengzilhy/status/2096842636074312057)
 
-โปรไฟล์ / รูปประจำตัว · การออกแบบแอป / เว็บ · การถ่ายภาพ · ภาพประกอบ · ตัวละคร · รอเผยแพร่
+โปรไฟล์ / รูปประจำตัว · การออกแบบแอป / เว็บ · การถ่ายภาพ · ภาพประกอบ · ตัวละคร · เผยแพร่แล้ว
 
 โพสต์ต้นฉบับ：[@Chengzilhy](https://x.com/Chengzilhy) · [โพสต์ต้นฉบับ](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -393,5 +393,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

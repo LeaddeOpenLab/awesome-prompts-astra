@@ -34,7 +34,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@Chengzilhy](https://x.com/Chengzilhy) · [查看 X 原帖](https://x.com/Chengzilhy/status/2096842636074312057)
 
-个人资料 / 头像 · App / 网页设计 · 摄影 · 插画 · 角色 · 待推流
+个人资料 / 头像 · App / 网页设计 · 摄影 · 插画 · 角色 · 已推流
 
 查看 X 原帖：[@Chengzilhy](https://x.com/Chengzilhy) · [查看 X 原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -395,5 +395,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

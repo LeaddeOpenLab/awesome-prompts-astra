@@ -34,7 +34,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 लेखक：[@Chengzilhy](https://x.com/Chengzilhy) · [मूल पोस्ट](https://x.com/Chengzilhy/status/2096842636074312057)
 
-प्रोफ़ाइल / अवतार · ऐप / वेब डिज़ाइन · फोटोग्राफी · चित्रण · कैरेक्टर · प्रकाशन लंबित
+प्रोफ़ाइल / अवतार · ऐप / वेब डिज़ाइन · फोटोग्राफी · चित्रण · कैरेक्टर · प्रकाशित
 
 मूल पोस्ट：[@Chengzilhy](https://x.com/Chengzilhy) · [मूल पोस्ट](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -393,5 +393,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

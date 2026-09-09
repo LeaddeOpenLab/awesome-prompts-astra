@@ -34,7 +34,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@Chengzilhy](https://x.com/Chengzilhy) · [원본 게시물](https://x.com/Chengzilhy/status/2096842636074312057)
 
-프로필 / 아바타 · 앱 / 웹 디자인 · 사진술 · 일러스트레이션 · 캐릭터 · 배포 대기
+프로필 / 아바타 · 앱 / 웹 디자인 · 사진술 · 일러스트레이션 · 캐릭터 · 배포 완료
 
 원본 게시물：[@Chengzilhy](https://x.com/Chengzilhy) · [원본 게시물](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -393,5 +393,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

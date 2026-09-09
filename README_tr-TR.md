@@ -34,7 +34,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 Yazar：[@Chengzilhy](https://x.com/Chengzilhy) · [Orijinal gönderi](https://x.com/Chengzilhy/status/2096842636074312057)
 
-Profil / Avatar · Uygulama / Web Tasarımı · Fotoğrafçılık · İllüstrasyon · Karakter · Dağıtım bekliyor
+Profil / Avatar · Uygulama / Web Tasarımı · Fotoğrafçılık · İllüstrasyon · Karakter · Yayımlandı
 
 Orijinal gönderi：[@Chengzilhy](https://x.com/Chengzilhy) · [Orijinal gönderi](https://x.com/Chengzilhy/status/2096456212246364322)
 
@@ -393,5 +393,3 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=astra)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
