@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T09:08:47.614Z",
+  "model": "astra",
+  "prompt": "東京版タワテラの外観3Dモデル作って",
+  "promptTranslations": {
+    "en": "Create a 3D model of the exterior of Tokyo's Tower of Terror"
+  },
+  "summaryTranslations": {
+    "en": "3D model of the exterior of Tokyo's Tower of Terror"
+  },
+  "translationVersion": 2,
+  "summary": "東京版タワテラの外観3Dモデル",
+  "summaryEn": "3D model of the exterior of the Tokyo version of Tower of Terror",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097575421944738252",
+    "canonicalUrl": "https://x.com/satoh_sama4/status/2097575421944738252",
+    "author": {
+      "username": "satoh_sama4",
+      "displayName": "さとてつ(佐藤哲也)",
+      "profileUrl": "https://x.com/satoh_sama4"
+    },
+    "publishedAt": "2026-09-09T06:38:46.000Z",
+    "collectedAt": "2026-09-09T09:07:26.167Z",
+    "language": "ja",
+    "originalText": "GPT-6 Astraにシンドバッドより資料リファレンスの多いであろう「東京版タワテラの外観3Dモデル作って」と一言で10分でこれ。これ静止画でなくて編集可能な3Dモデルなんだぜ。やばいなマジで。すごい世界になってしまった。 https://t.co/jNdjrKlfiu",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRwSng3bQAAcj2U.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRwSng3bQAAcj2U.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/satoh_sama4/status/2097575421944738252",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097575202561650688/img/FuKgtMIZPWd9Eql0.jpg",
+        "analysisUrl": "https://x.com/satoh_sama4/status/2097575421944738252"
+      }
+    ],
+    "metrics": {
+      "likeCount": 37,
+      "repostCount": 6,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 2108
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/satoh_sama4/status/2097575421944738252",
+  "coverUrl": "https://pbs.twimg.com/media/HRwSng3bQAAcj2U.jpg",
+  "coverPath": "covers/2097575421944738252.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HRwSng3bQAAcj2U",
+    "x-video:2097575202561650688",
+    "x-post:2097575421944738252"
+  ],
+  "analysis": {
+    "summary": "東京版タワテラの外観3Dモデル",
+    "summaryEn": "3D model of the exterior of the Tokyo version of Tower of Terror",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附带的图片和视频清晰展示了在 Blender 软件中呈现的东京迪士尼海洋“惊魂古塔”（Hotel Hightower）完整外观 3D 建筑模型，与 Prompt 要求的主体与生成类型完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "東京版タワテラの外観3Dモデル作って",
+    "sourceRange": {
+      "start": 36,
+      "end": 54
+    },
+    "translations": {
+      "zh": "制作东京版惊魂古塔的外观3D模型",
+      "en": "Create a 3D model of the exterior of the Tokyo version of Tower of Terror"
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D建筑模型生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Tokyo DisneySea Tower of Terror IP"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
