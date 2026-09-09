@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**3** Prompts · Latest addition: **2026-09-09**
+**4** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097681593246613583"></a>
+
+### Modern villa, infinity pool, ocean view.
+
+Author：[@robinstetic](https://x.com/robinstetic) · [Source](https://x.com/robinstetic/status/2097681593246613583)
+
+3D Render · Architecture / Interior · Landscape / Nature · Published
+
+**Summary:** Modern villa, infinity pool, ocean view.
+
+<img src="covers/2097681593246613583.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Modern villa, infinity pool, ocean view.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097620442236555693"></a>
 

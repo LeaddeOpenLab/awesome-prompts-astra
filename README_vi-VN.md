@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**3** Prompt · Bổ sung mới nhất: **2026-09-09**
+**4** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2097681593246613583"></a>
+
+### Đang dịch
+
+Tác giả：[@robinstetic](https://x.com/robinstetic) · [Bài gốc](https://x.com/robinstetic/status/2097681593246613583)
+
+Kết xuất 3D · Kiến trúc / Nội thất · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097681593246613583.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097620442236555693"></a>
 

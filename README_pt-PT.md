@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**3** Prompts · Adição mais recente: **2026-09-09**
+**4** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2097681593246613583"></a>
+
+### Tradução em curso
+
+Autor：[@robinstetic](https://x.com/robinstetic) · [Publicação original](https://x.com/robinstetic/status/2097681593246613583)
+
+Renderização 3D · Arquitetura / Interiores · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2097681593246613583.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097620442236555693"></a>
 

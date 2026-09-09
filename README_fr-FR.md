@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**3** Prompts · Dernier ajout: **2026-09-09**
+**4** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
+
+<a name="prompt-2097681593246613583"></a>
+
+### Traduction en cours
+
+Auteur：[@robinstetic](https://x.com/robinstetic) · [Publication originale](https://x.com/robinstetic/status/2097681593246613583)
+
+Rendu 3D · Architecture / Intérieur · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097681593246613583.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097620442236555693"></a>
 

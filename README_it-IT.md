@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**3** Prompt · Ultima aggiunta: **2026-09-09**
+**4** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2097681593246613583"></a>
+
+### Traduzione in corso
+
+Autore：[@robinstetic](https://x.com/robinstetic) · [Post originale](https://x.com/robinstetic/status/2097681593246613583)
+
+Rendering 3D · Architettura / Interni · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097681593246613583.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097620442236555693"></a>
 

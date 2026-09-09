@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**3** Prompt · Son eklenen: **2026-09-09**
+**4** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2097681593246613583"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@robinstetic](https://x.com/robinstetic) · [Orijinal gönderi](https://x.com/robinstetic/status/2097681593246613583)
+
+3D Modelleme · Mimari / İç Mekan · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097681593246613583.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097620442236555693"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**3** Prompts · Última incorporación: **2026-09-09**
+**4** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## Render 3D
+
+<a name="prompt-2097681593246613583"></a>
+
+### Traducción en curso
+
+Autor：[@robinstetic](https://x.com/robinstetic) · [Publicación original](https://x.com/robinstetic/status/2097681593246613583)
+
+Render 3D · Arquitectura / Interiorismo · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097681593246613583.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097620442236555693"></a>
 
