@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097777121452347846"></a>
 
-### Traduzione in corso
+### Crea un'immagine di storyboard a 24 fotogrammi contenente 24 screenshot tratti da un potenziale film reboot di Seinfeld.
 
 Autore：[@VK10920178](https://x.com/VK10920178) · [Post originale](https://x.com/VK10920178/status/2097777121452347846)
 
 Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un'immagine di storyboard a 24 fotogrammi contenente 24 screenshot tratti da un potenziale film reboot di Seinfeld.
 
 <img src="images/2097777121452347846-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'immagine di storyboard a 24 fotogrammi contenente 24 screenshot tratti da un potenziale film reboot di Seinfeld.
 ```
 
 [↑ Torna alle categorie](#catalog)

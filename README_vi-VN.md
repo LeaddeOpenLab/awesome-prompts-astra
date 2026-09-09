@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097777121452347846"></a>
 
-### Đang dịch
+### Tạo hình ảnh bảng phân cảnh 24 khung hình chứa 24 ảnh chụp màn hình từ một bộ phim làm lại \(reboot\) Seinfeld tiềm năng.
 
 Tác giả：[@VK10920178](https://x.com/VK10920178) · [Bài gốc](https://x.com/VK10920178/status/2097777121452347846)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo hình ảnh bảng phân cảnh 24 khung hình chứa 24 ảnh chụp màn hình từ một bộ phim làm lại \(reboot\) Seinfeld tiềm năng.
 
 <img src="images/2097777121452347846-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo hình ảnh bảng phân cảnh 24 khung hình chứa 24 ảnh chụp màn hình từ một bộ phim làm lại (reboot) Seinfeld tiềm năng.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2097777121452347846"></a>
 
-### Tradução em curso
+### Crie uma imagem de storyboard de 24 fotogramas contendo 24 capturas de ecrã de um potencial filme reboot de Seinfeld.
 
 Autor：[@VK10920178](https://x.com/VK10920178) · [Publicação original](https://x.com/VK10920178/status/2097777121452347846)
 
 Banda desenhada / Storyboard · Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie uma imagem de storyboard de 24 fotogramas contendo 24 capturas de ecrã de um potencial filme reboot de Seinfeld.
 
 <img src="images/2097777121452347846-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma imagem de storyboard de 24 fotogramas contendo 24 capturas de ecrã de um potencial filme reboot de Seinfeld.
 ```
 
 [↑ Voltar às categorias](#catalog)

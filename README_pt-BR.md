@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097777121452347846"></a>
 
-### Tradução em andamento
+### Crie uma imagem de storyboard de 24 quadros contendo 24 capturas de tela de um potencial filme reboot de Seinfeld.
 
 Autor：[@VK10920178](https://x.com/VK10920178) · [Publicação original](https://x.com/VK10920178/status/2097777121452347846)
 
 Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie uma imagem de storyboard de 24 quadros contendo 24 capturas de tela de um potencial filme reboot de Seinfeld.
 
 <img src="images/2097777121452347846-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma imagem de storyboard de 24 quadros contendo 24 capturas de tela de um potencial filme reboot de Seinfeld.
 ```
 
 [↑ Voltar às categorias](#catalog)

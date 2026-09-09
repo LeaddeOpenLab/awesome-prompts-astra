@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097777121452347846"></a>
 
-### Çeviri sürüyor
+### Olası bir Seinfeld yeniden başlatma filminden 24 ekran görüntüsü içeren 24 karelik bir görsel taslak \(storyboard\) görüntüsü oluşturun.
 
 Yazar：[@VK10920178](https://x.com/VK10920178) · [Orijinal gönderi](https://x.com/VK10920178/status/2097777121452347846)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Olası bir Seinfeld yeniden başlatma filminden 24 ekran görüntüsü içeren 24 karelik bir görsel taslak \(storyboard\) görüntüsü oluşturun.
 
 <img src="images/2097777121452347846-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Olası bir Seinfeld yeniden başlatma filminden 24 ekran görüntüsü içeren 24 karelik bir görsel taslak (storyboard) görüntüsü oluşturun.
 ```
 
 [↑ Kategorilere dön](#catalog)

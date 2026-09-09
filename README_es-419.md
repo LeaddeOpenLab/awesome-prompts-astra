@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2097777121452347846"></a>
 
-### Traducción en curso
+### Crea una imagen de guion gráfico de 24 fotogramas que contenga 24 capturas de pantalla de una posible película reinicio de Seinfeld.
 
 Autor：[@VK10920178](https://x.com/VK10920178) · [Publicación original](https://x.com/VK10920178/status/2097777121452347846)
 
 Cómic / Guion gráfico · Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea una imagen de guion gráfico de 24 fotogramas que contenga 24 capturas de pantalla de una posible película reinicio de Seinfeld.
 
 <img src="images/2097777121452347846-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una imagen de guion gráfico de 24 fotogramas que contenga 24 capturas de pantalla de una posible película reinicio de Seinfeld.
 ```
 
 [↑ Volver a categorías](#catalog)

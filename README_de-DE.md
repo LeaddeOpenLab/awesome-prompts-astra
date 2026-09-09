@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097777121452347846"></a>
 
-### Übersetzung läuft
+### Erstelle ein 24-Frame-Storyboard-Bild, das 24 Screenshots aus einem potenziellen Seinfeld-Reboot-Film enthält.
 
 Autor：[@VK10920178](https://x.com/VK10920178) · [Originalbeitrag](https://x.com/VK10920178/status/2097777121452347846)
 
 Comic / Storyboard · Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein 24-Frame-Storyboard-Bild, das 24 Screenshots aus einem potenziellen Seinfeld-Reboot-Film enthält.
 
 <img src="images/2097777121452347846-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 24-Frame-Storyboard-Bild, das 24 Screenshots aus einem potenziellen Seinfeld-Reboot-Film enthält.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
