@@ -19,15 +19,41 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**5** Prompts · Latest addition: **2026-09-09**
+**6** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Illustration](#category-illustration) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render)
+[Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## Cinematic / Film Still
+
+<a name="prompt-2097777121452347846"></a>
+
+### Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.
+
+Author：[@VK10920178](https://x.com/VK10920178) · [Source](https://x.com/VK10920178/status/2097777121452347846)
+
+Comic / Storyboard · Cinematic / Film Still · Published
+
+**Summary:** Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.
+
+<img src="images/2097777121452347846-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 24 frame storyboard image containing 24 screencaps from a potential Seinfeld reboot movie.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

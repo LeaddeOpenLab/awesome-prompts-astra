@@ -19,15 +19,41 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**5** Prompts · Dernier ajout: **2026-09-09**
+**6** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Illustration](#category-illustration) · [Bande dessinée / Roman graphique](#category-comic-graphic-novel) · [Rendu 3D](#category-3d-render)
+[Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Bande dessinée / Roman graphique](#category-comic-graphic-novel) · [Rendu 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## Image cinématographique / Photogramme de film
+
+<a name="prompt-2097777121452347846"></a>
+
+### Traduction en cours
+
+Auteur：[@VK10920178](https://x.com/VK10920178) · [Publication originale](https://x.com/VK10920178/status/2097777121452347846)
+
+Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097777121452347846-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

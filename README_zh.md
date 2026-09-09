@@ -19,15 +19,41 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**5** 条内容 · 最新收录: **2026-09-09**
+**6** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[插画](#category-illustration) · [漫画 / 图画小说](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render)
+[电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [漫画 / 图画小说](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## 电影 / 电影剧照
+
+<a name="prompt-2097777121452347846"></a>
+
+### 翻译中
+
+作者：[@VK10920178](https://x.com/VK10920178) · [查看 X 原帖](https://x.com/VK10920178/status/2097777121452347846)
+
+漫画 / 故事板 · 电影 / 电影剧照 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097777121452347846-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

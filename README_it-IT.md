@@ -19,15 +19,41 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**5** Prompt · Ultima aggiunta: **2026-09-09**
+**6** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Illustrazione](#category-illustration) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render)
+[Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2097777121452347846"></a>
+
+### Traduzione in corso
+
+Autore：[@VK10920178](https://x.com/VK10920178) · [Post originale](https://x.com/VK10920178/status/2097777121452347846)
+
+Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097777121452347846-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

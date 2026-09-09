@@ -19,15 +19,41 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**5** 개 · 최근 추가: **2026-09-09**
+**6** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[일러스트레이션](#category-illustration) · [만화 / 그래픽 노블](#category-comic-graphic-novel) · [3D 렌더링](#category-3d-render)
+[시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [만화 / 그래픽 노블](#category-comic-graphic-novel) · [3D 렌더링](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## 시네마틱 / 영화 스틸컷
+
+<a name="prompt-2097777121452347846"></a>
+
+### 번역 중
+
+작성자：[@VK10920178](https://x.com/VK10920178) · [원본 게시물](https://x.com/VK10920178/status/2097777121452347846)
+
+만화 / 스토리보드 · 시네마틱 / 영화 스틸컷 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097777121452347846-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

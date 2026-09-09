@@ -19,15 +19,41 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**5** Prompts · Última adição: **2026-09-09**
+**6** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Ilustração](#category-illustration) · [Quadrinhos / Graphic Novel](#category-comic-graphic-novel) · [Renderização 3D](#category-3d-render)
+[Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Quadrinhos / Graphic Novel](#category-comic-graphic-novel) · [Renderização 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2097777121452347846"></a>
+
+### Tradução em andamento
+
+Autor：[@VK10920178](https://x.com/VK10920178) · [Publicação original](https://x.com/VK10920178/status/2097777121452347846)
+
+Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097777121452347846-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

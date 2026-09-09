@@ -19,15 +19,41 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**5** Prompt · Son eklenen: **2026-09-09**
+**6** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[İllüstrasyon](#category-illustration) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render)
+[Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## Sinematik / Film Karesi
+
+<a name="prompt-2097777121452347846"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@VK10920178](https://x.com/VK10920178) · [Orijinal gönderi](https://x.com/VK10920178/status/2097777121452347846)
+
+Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097777121452347846-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

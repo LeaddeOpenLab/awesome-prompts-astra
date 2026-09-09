@@ -19,15 +19,41 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**5** 件 · 最新の追加: **2026-09-09**
+**6** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[イラスト](#category-illustration) · [コミック / グラフィックノベル](#category-comic-graphic-novel) · [3D レンダリング](#category-3d-render)
+[シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [コミック / グラフィックノベル](#category-comic-graphic-novel) · [3D レンダリング](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## シネマティック / フィルムスチル
+
+<a name="prompt-2097777121452347846"></a>
+
+### 翻訳中
+
+作者：[@VK10920178](https://x.com/VK10920178) · [元の投稿](https://x.com/VK10920178/status/2097777121452347846)
+
+コミック / ストーリーボード · シネマティック / フィルムスチル · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097777121452347846-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

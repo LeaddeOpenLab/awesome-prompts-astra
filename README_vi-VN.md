@@ -19,15 +19,41 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**5** Prompt · Bổ sung mới nhất: **2026-09-09**
+**6** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Minh họa](#category-illustration) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render)
+[Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2097777121452347846"></a>
+
+### Đang dịch
+
+Tác giả：[@VK10920178](https://x.com/VK10920178) · [Bài gốc](https://x.com/VK10920178/status/2097777121452347846)
+
+Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097777121452347846-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 

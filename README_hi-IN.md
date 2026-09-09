@@ -19,15 +19,41 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**5** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**6** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[चित्रण](#category-illustration) · [कॉमिक / ग्राफिक नॉवेल](#category-comic-graphic-novel) · [3D रेंडर](#category-3d-render)
+[सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [चित्रण](#category-illustration) · [कॉमिक / ग्राफिक नॉवेल](#category-comic-graphic-novel) · [3D रेंडर](#category-3d-render)
 
 <a name="all-prompts"></a>
+
+<a name="category-cinematic-film-still"></a>
+
+## सिनेमैटिक / फ़िल्म स्टिल
+
+<a name="prompt-2097777121452347846"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@VK10920178](https://x.com/VK10920178) · [मूल पोस्ट](https://x.com/VK10920178/status/2097777121452347846)
+
+कॉमिक / स्टोरीबोर्ड · सिनेमैटिक / फ़िल्म स्टिल · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2097777121452347846-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="category-illustration"></a>
 
