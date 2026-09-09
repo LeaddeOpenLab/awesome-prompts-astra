@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**2** Prompt · Ultima aggiunta: **2026-09-09**
+**3** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2097620442236555693"></a>
+
+### Traduzione in corso
+
+Autore：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Post originale](https://x.com/chatgpt_liberty/status/2097620442236555693)
+
+Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097620442236555693.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097575421944738252"></a>
 

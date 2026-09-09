@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**2** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**3** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## 3D-Rendering
+
+<a name="prompt-2097620442236555693"></a>
+
+### Übersetzung läuft
+
+Autor：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Originalbeitrag](https://x.com/chatgpt_liberty/status/2097620442236555693)
+
+3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097620442236555693.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097575421944738252"></a>
 

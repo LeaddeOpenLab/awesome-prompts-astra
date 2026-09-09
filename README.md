@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**2** Prompts · Latest addition: **2026-09-09**
+**3** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -400,6 +400,28 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097620442236555693"></a>
+
+### Prompt for creating an iron suit suit-up scene in Blender.
+
+Author：[@chatgpt\_liberty](https://x.com/chatgpt_liberty) · [Source](https://x.com/chatgpt_liberty/status/2097620442236555693)
+
+3D Render · Published
+
+**Summary:** Prompt for creating an iron suit suit-up scene in Blender.
+
+<img src="covers/2097620442236555693.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an iron suit suit-up scene in Blender.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097575421944738252"></a>
 
