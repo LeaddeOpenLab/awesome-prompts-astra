@@ -12,7 +12,14 @@
     "th-TH": "สร้างโมเดล 3D ภายนอกของทาวเวอร์ออฟเทอร์เรอร์เวอร์ชันโตเกียว",
     "vi-VN": "Tạo mô hình 3D ngoại quan của Tower of Terror phiên bản Tokyo",
     "hi-IN": "टोक्यो संस्करण के टॉवर ऑफ टेरर के बाहरी स्वरूप का 3D मॉडल बनाएं",
-    "es-ES": "Crea un modelo 3D del exterior de la Tower of Terror versión de Tokio"
+    "es-ES": "Crea un modelo 3D del exterior de la Tower of Terror versión de Tokio",
+    "es-419": "Crea un modelo 3D del exterior de la versión de Tokio de Tower of Terror",
+    "de-DE": "Erstelle ein 3D-Modell der Außenansicht der Tokio-Version des Tower of Terror",
+    "fr-FR": "Crée un modèle 3D de l'extérieur de la version de Tokyo de Tower of Terror",
+    "it-IT": "Crea un modello 3D dell'esterno della versione di Tokyo della Tower of Terror",
+    "pt-BR": "Crie um modelo 3D do exterior da versão de Tóquio da Tower of Terror",
+    "pt-PT": "Cria um modelo 3D do exterior da versão de Tóquio da Tower of Terror",
+    "tr-TR": "Tower of Terror'ın Tokyo versiyonunun dış görünümünün 3D modelini oluştur"
   },
   "summaryTranslations": {
     "en": "3D model of the exterior of Tokyo's Tower of Terror",
@@ -23,7 +30,14 @@
     "th-TH": "โมเดล 3D ภายนอกของทาวเวอร์ออฟเทอร์เรอร์เวอร์ชันโตเกียว",
     "vi-VN": "Mô hình 3D ngoại quan Tower of Terror phiên bản Tokyo",
     "hi-IN": "टोक्यो संस्करण के टॉवर ऑफ टेरर के बाहरी स्वरूप का 3D मॉडल",
-    "es-ES": "Modelo 3D del exterior de la Tower of Terror versión de Tokio"
+    "es-ES": "Modelo 3D del exterior de la Tower of Terror versión de Tokio",
+    "es-419": "Modelo 3D del exterior de la versión de Tokio de Tower of Terror",
+    "de-DE": "3D-Modell der Außenansicht der Tokio-Version des Tower of Terror",
+    "fr-FR": "Modèle 3D extérieur de la version de Tokyo de Tower of Terror",
+    "it-IT": "Modello 3D dell'esterno della versione di Tokyo della Tower of Terror",
+    "pt-BR": "Modelo 3D do exterior da versão de Tóquio da Tower of Terror",
+    "pt-PT": "Modelo 3D do exterior da versão de Tóquio da Tower of Terror",
+    "tr-TR": "Tower of Terror'ın Tokyo versiyonunun dış görünüm 3D modeli"
   },
   "translationVersion": 2,
   "summary": "東京版タワテラの外観3Dモデル",
