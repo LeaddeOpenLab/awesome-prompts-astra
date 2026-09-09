@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097575421944738252"></a>
 
-### Tradução em andamento
+### Modelo 3D do exterior da versão de Tóquio da Tower of Terror
 
 Autor：[@satoh\_sama4](https://x.com/satoh_sama4) · [Publicação original](https://x.com/satoh_sama4/status/2097575421944738252)
 
 Renderização 3D · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo 3D do exterior da versão de Tóquio da Tower of Terror
 
 <img src="covers/2097575421944738252.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um modelo 3D do exterior da versão de Tóquio da Tower of Terror
 ```
 
 [↑ Voltar às categorias](#catalog)

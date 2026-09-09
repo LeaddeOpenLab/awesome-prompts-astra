@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097575421944738252"></a>
 
-### Traducción en curso
+### Modelo 3D del exterior de la versión de Tokio de Tower of Terror
 
 Autor：[@satoh\_sama4](https://x.com/satoh_sama4) · [Publicación original](https://x.com/satoh_sama4/status/2097575421944738252)
 
 Renderizado 3D · Arquitectura / Interiores · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Modelo 3D del exterior de la versión de Tokio de Tower of Terror
 
 <img src="covers/2097575421944738252.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un modelo 3D del exterior de la versión de Tokio de Tower of Terror
 ```
 
 [↑ Volver a categorías](#catalog)
