@@ -455,20 +455,20 @@ Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio
 
 <a name="prompt-2097743367484621269"></a>
 
-### Traducción en curso
+### Instrucción para generar un modelo de terreno 3D tridimensional de un pequeño pueblo isleño haciendo referencia a la imagen adjunta.
 
 Autor：[@TaroKichijo](https://x.com/TaroKichijo) · [Publicación original](https://x.com/TaroKichijo/status/2097743367484621269)
 
 Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción para generar un modelo de terreno 3D tridimensional de un pequeño pueblo isleño haciendo referencia a la imagen adjunta.
 
 <img src="covers/2097743367484621269.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Usa img2threejs/img2threejs para crear el terreno tridimensional de un pequeño pueblo en esta isla. Usa la imagen adjunta como imagen de referencia.
 ```
 
 [↑ Volver a categorías](#catalog)

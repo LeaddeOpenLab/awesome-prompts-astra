@@ -455,20 +455,20 @@ Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se 
 
 <a name="prompt-2097743367484621269"></a>
 
-### Traduction en cours
+### Instruction pour générer un modèle de relief 3D tridimensionnel d'un petit village insulaire en se référant à l'image jointe.
 
 Auteur：[@TaroKichijo](https://x.com/TaroKichijo) · [Publication originale](https://x.com/TaroKichijo/status/2097743367484621269)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instruction pour générer un modèle de relief 3D tridimensionnel d'un petit village insulaire en se référant à l'image jointe.
 
 <img src="covers/2097743367484621269.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilise img2threejs/img2threejs pour créer le relief tridimensionnel de ce petit village sur l'île. Veuillez utiliser l'image jointe comme image de référence.
 ```
 
 [↑ Retour aux catégories](#catalog)

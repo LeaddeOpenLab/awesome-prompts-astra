@@ -455,20 +455,20 @@ Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 3
 
 <a name="prompt-2097743367484621269"></a>
 
-### Đang dịch
+### Chỉ dẫn tạo mô hình địa hình 3D lập thể của một ngôi làng nhỏ trên đảo dựa trên hình ảnh đính kèm.
 
 Tác giả：[@TaroKichijo](https://x.com/TaroKichijo) · [Bài gốc](https://x.com/TaroKichijo/status/2097743367484621269)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chỉ dẫn tạo mô hình địa hình 3D lập thể của một ngôi làng nhỏ trên đảo dựa trên hình ảnh đính kèm.
 
 <img src="covers/2097743367484621269.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng img2threejs/img2threejs để tạo địa hình không gian ba chiều của ngôi làng nhỏ trên hòn đảo này. Vui lòng sử dụng hình ảnh đính kèm làm ảnh tham khảo.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -455,20 +455,20 @@ Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pát
 
 <a name="prompt-2097743367484621269"></a>
 
-### Tradução em andamento
+### Instrução para gerar um modelo de terreno 3D tridimensional de uma pequena vila na ilha com referência à imagem anexada.
 
 Autor：[@TaroKichijo](https://x.com/TaroKichijo) · [Publicação original](https://x.com/TaroKichijo/status/2097743367484621269)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instrução para gerar um modelo de terreno 3D tridimensional de uma pequena vila na ilha com referência à imagem anexada.
 
 <img src="covers/2097743367484621269.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Use img2threejs/img2threejs para criar o terreno tridimensional desta pequena vila na ilha. Por favor, use a imagem anexada como imagem de referência.
 ```
 
 [↑ Voltar às categorias](#catalog)

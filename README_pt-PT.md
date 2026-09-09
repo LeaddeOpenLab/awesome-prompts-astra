@@ -455,20 +455,20 @@ Crie um anúncio cinematográfico de pastilha elástica de 30 segundos ambientad
 
 <a name="prompt-2097743367484621269"></a>
 
-### Tradução em curso
+### Instrução para gerar um modelo de terreno 3D tridimensional de uma pequena aldeia numa ilha referenciando a imagem em anexo.
 
 Autor：[@TaroKichijo](https://x.com/TaroKichijo) · [Publicação original](https://x.com/TaroKichijo/status/2097743367484621269)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instrução para gerar um modelo de terreno 3D tridimensional de uma pequena aldeia numa ilha referenciando a imagem em anexo.
 
 <img src="covers/2097743367484621269.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Usa img2threejs/img2threejs para criar o relevo tridimensional desta pequena aldeia na ilha. Por favor, utiliza a imagem em anexo como imagem de referência.
 ```
 
 [↑ Voltar às categorias](#catalog)

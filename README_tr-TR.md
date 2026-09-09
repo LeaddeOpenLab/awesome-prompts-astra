@@ -455,20 +455,20 @@ Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturu
 
 <a name="prompt-2097743367484621269"></a>
 
-### Çeviri sürüyor
+### Ekli görsele başvurarak adadaki küçük bir köyün üç boyutlu 3D arazi modelini oluşturma talimatı.
 
 Yazar：[@TaroKichijo](https://x.com/TaroKichijo) · [Orijinal gönderi](https://x.com/TaroKichijo/status/2097743367484621269)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ekli görsele başvurarak adadaki küçük bir köyün üç boyutlu 3D arazi modelini oluşturma talimatı.
 
 <img src="covers/2097743367484621269.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu adadaki küçük bir köyün üç boyutlu arazisini oluşturmak için img2threejs/img2threejs kullanın. Referans görsel olarak lütfen ekteki görseli kullanın.
 ```
 
 [↑ Kategorilere dön](#catalog)

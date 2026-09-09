@@ -455,20 +455,20 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 
 <a name="prompt-2097743367484621269"></a>
 
-### Traduzione in corso
+### Istruzione per generare un modello di terreno 3D tridimensionale di un piccolo villaggio su un'isola facendo riferimento all'immagine allegata.
 
 Autore：[@TaroKichijo](https://x.com/TaroKichijo) · [Post originale](https://x.com/TaroKichijo/status/2097743367484621269)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzione per generare un modello di terreno 3D tridimensionale di un piccolo villaggio su un'isola facendo riferimento all'immagine allegata.
 
 <img src="covers/2097743367484621269.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa img2threejs/img2threejs per creare il terreno tridimensionale di questo piccolo villaggio sull'isola. Si prega di utilizzare l'immagine allegata come immagine di riferimento.
 ```
 
 [↑ Torna alle categorie](#catalog)

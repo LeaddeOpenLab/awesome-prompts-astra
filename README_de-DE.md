@@ -455,20 +455,20 @@ Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Sc
 
 <a name="prompt-2097743367484621269"></a>
 
-### Übersetzung läuft
+### Anweisung zur Erstellung eines dreidimensionalen 3D-Geländemodells eines kleinen Inseldorfes unter Bezugnahme auf das angehängte Bild.
 
 Autor：[@TaroKichijo](https://x.com/TaroKichijo) · [Originalbeitrag](https://x.com/TaroKichijo/status/2097743367484621269)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anweisung zur Erstellung eines dreidimensionalen 3D-Geländemodells eines kleinen Inseldorfes unter Bezugnahme auf das angehängte Bild.
 
 <img src="covers/2097743367484621269.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende img2threejs/img2threejs, um das dreidimensionale Gelände dieses kleinen Dorfes auf der Insel zu erstellen. Bitte verwende das angehängte Bild als Referenzbild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
