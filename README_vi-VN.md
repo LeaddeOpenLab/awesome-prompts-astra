@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097575421944738252"></a>
 
-### Đang dịch
+### Mô hình 3D ngoại quan Tower of Terror phiên bản Tokyo
 
 Tác giả：[@satoh\_sama4](https://x.com/satoh_sama4) · [Bài gốc](https://x.com/satoh_sama4/status/2097575421944738252)
 
 Kết xuất 3D · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mô hình 3D ngoại quan Tower of Terror phiên bản Tokyo
 
 <img src="covers/2097575421944738252.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo mô hình 3D ngoại quan của Tower of Terror phiên bản Tokyo
 ```
 
 [↑ Về danh mục](#catalog)
