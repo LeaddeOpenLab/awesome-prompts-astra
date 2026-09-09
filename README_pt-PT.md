@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**6** Prompts · Adição mais recente: **2026-09-09**
+**7** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,28 @@ Crie um anúncio cinematográfico de pastilha elástica de 30 segundos ambientad
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2097743367484621269"></a>
+
+### Tradução em curso
+
+Autor：[@TaroKichijo](https://x.com/TaroKichijo) · [Publicação original](https://x.com/TaroKichijo/status/2097743367484621269)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2097743367484621269.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097681593246613583"></a>
 

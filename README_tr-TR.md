@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**6** Prompt · Son eklenen: **2026-09-09**
+**7** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,28 @@ Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturu
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2097743367484621269"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TaroKichijo](https://x.com/TaroKichijo) · [Orijinal gönderi](https://x.com/TaroKichijo/status/2097743367484621269)
+
+3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097743367484621269.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097681593246613583"></a>
 

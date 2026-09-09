@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**6** Prompts · Latest addition: **2026-09-09**
+**7** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,28 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097743367484621269"></a>
+
+### Instruction to generate a 3D terrain model of a small island village referring to the attached image.
+
+Author：[@TaroKichijo](https://x.com/TaroKichijo) · [Source](https://x.com/TaroKichijo/status/2097743367484621269)
+
+3D Render · Published
+
+**Summary:** Instruction to generate a 3D terrain model of a small island village referring to the attached image.
+
+<img src="covers/2097743367484621269.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use img2threejs/img2threejs to create a three-dimensional terrain of this island's small village. Please use the attached image as a reference.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097681593246613583"></a>
 
