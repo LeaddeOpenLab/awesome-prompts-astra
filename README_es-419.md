@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097681593246613583"></a>
 
-### Traducción en curso
+### Villa moderna, alberca infinita, vista al océano.
 
 Autor：[@robinstetic](https://x.com/robinstetic) · [Publicación original](https://x.com/robinstetic/status/2097681593246613583)
 
 Renderizado 3D · Arquitectura / Interiores · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Villa moderna, alberca infinita, vista al océano.
 
 <img src="covers/2097681593246613583.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Villa moderna, alberca infinita, vista al océano.
 ```
 
 [↑ Volver a categorías](#catalog)

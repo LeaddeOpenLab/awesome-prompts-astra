@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097681593246613583"></a>
 
-### Tradução em andamento
+### Vila moderna, piscina de borda infinita, vista para o oceano.
 
 Autor：[@robinstetic](https://x.com/robinstetic) · [Publicação original](https://x.com/robinstetic/status/2097681593246613583)
 
 Renderização 3D · Arquitetura / Interiores · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vila moderna, piscina de borda infinita, vista para o oceano.
 
 <img src="covers/2097681593246613583.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Vila moderna, piscina de borda infinita, vista para o oceano.
 ```
 
 [↑ Voltar às categorias](#catalog)
