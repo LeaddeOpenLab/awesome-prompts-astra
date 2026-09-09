@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**4** 筆內容 · 最新收錄: **2026-09-09**
+**5** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[插圖](#category-illustration) · [3D 渲染](#category-3d-render)
+[插圖](#category-illustration) · [漫畫 / 圖像小說](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## 漫畫 / 圖像小說
+
+<a name="prompt-2097718063663858058"></a>
+
+### 翻譯中
+
+作者：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [查看 X 原帖](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+漫畫 / 圖像小說 · 角色 · 產品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2097718063663858058.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

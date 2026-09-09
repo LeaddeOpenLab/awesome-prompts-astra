@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**4** 개 · 최근 추가: **2026-09-09**
+**5** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[일러스트레이션](#category-illustration) · [3D 렌더링](#category-3d-render)
+[일러스트레이션](#category-illustration) · [만화 / 그래픽 노블](#category-comic-graphic-novel) · [3D 렌더링](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## 만화 / 그래픽 노블
+
+<a name="prompt-2097718063663858058"></a>
+
+### 번역 중
+
+작성자：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [원본 게시물](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+만화 / 그래픽 노블 · 캐릭터 · 제품 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2097718063663858058.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

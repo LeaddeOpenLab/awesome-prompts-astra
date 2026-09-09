@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**4** Prompts · Dernier ajout: **2026-09-09**
+**5** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Illustration](#category-illustration) · [Rendu 3D](#category-3d-render)
+[Illustration](#category-illustration) · [Bande dessinée / Roman graphique](#category-comic-graphic-novel) · [Rendu 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Bande dessinée / Roman graphique
+
+<a name="prompt-2097718063663858058"></a>
+
+### Traduction en cours
+
+Auteur：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publication originale](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+Bande dessinée / Roman graphique · Personnage · Produit · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097718063663858058.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

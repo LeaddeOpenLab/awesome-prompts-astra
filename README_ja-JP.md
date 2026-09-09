@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**4** 件 · 最新の追加: **2026-09-09**
+**5** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[イラスト](#category-illustration) · [3D レンダリング](#category-3d-render)
+[イラスト](#category-illustration) · [コミック / グラフィックノベル](#category-comic-graphic-novel) · [3D レンダリング](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## コミック / グラフィックノベル
+
+<a name="prompt-2097718063663858058"></a>
+
+### 翻訳中
+
+作者：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [元の投稿](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+コミック / グラフィックノベル · キャラクター · 製品 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2097718063663858058.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

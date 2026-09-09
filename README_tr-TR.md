@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**4** Prompt · Son eklenen: **2026-09-09**
+**5** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render)
+[İllüstrasyon](#category-illustration) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Çizgi Roman / Grafik Roman
+
+<a name="prompt-2097718063663858058"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+Çizgi Roman / Grafik Roman · Karakter · Ürün · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097718063663858058.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

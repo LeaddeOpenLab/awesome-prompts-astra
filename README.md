@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**4** Prompts · Latest addition: **2026-09-09**
+**5** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Illustration](#category-illustration) · [3D Render](#category-3d-render)
+[Illustration](#category-illustration) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Comic / Graphic Novel
+
+<a name="prompt-2097718063663858058"></a>
+
+### 30-second school chewing-gum ad: A shy student bullied by peers regains confidence after chewing “RAZOR” gum, shows off skateboard tricks to outsmart the bully and impress a red-haired girl, ending with yellow-and-black comic-book effects and the product slogan.
+
+Author：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Source](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+Comic / Graphic Novel · Character · Product · Published
+
+**Summary:** 30-second school chewing-gum ad: A shy student bullied by peers regains confidence after chewing “RAZOR” gum, shows off skateboard tricks to outsmart the bully and impress a red-haired girl, ending with yellow-and-black comic-book effects and the product slogan.
+
+<img src="covers/2097718063663858058.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy student in a purple shirt is bullied by athletes in green varsity jackets. A friend gives him yellow-packaged “RAZOR” gum. He chews it, gains confidence, performs amazing skateboard tricks, outsmarts the bully, and impresses a red-haired girl. Use realistic visuals, fast camera movements, playful humor, and yellow-and-black comic-book effects. End with the gum pack and slogan.
 ```
 
 [↑ Back to categories](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**4** 条内容 · 最新收录: **2026-09-09**
+**5** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[插画](#category-illustration) · [3D 渲染](#category-3d-render)
+[插画](#category-illustration) · [漫画 / 图画小说](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -393,6 +393,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## 漫画 / 图画小说
+
+<a name="prompt-2097718063663858058"></a>
+
+### 翻译中
+
+作者：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [查看 X 原帖](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+漫画 / 图画小说 · 角色 · 产品 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2097718063663858058.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

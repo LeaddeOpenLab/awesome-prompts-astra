@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**4** Prompts · Última adição: **2026-09-09**
+**5** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render)
+[Ilustração](#category-illustration) · [Quadrinhos / Graphic Novel](#category-comic-graphic-novel) · [Renderização 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Quadrinhos / Graphic Novel
+
+<a name="prompt-2097718063663858058"></a>
+
+### Tradução em andamento
+
+Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicação original](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+Quadrinhos / Graphic Novel · Personagem · Produto · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097718063663858058.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

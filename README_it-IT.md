@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**4** Prompt · Ultima aggiunta: **2026-09-09**
+**5** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Illustrazione](#category-illustration) · [Rendering 3D](#category-3d-render)
+[Illustrazione](#category-illustration) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Fumetto / Graphic Novel
+
+<a name="prompt-2097718063663858058"></a>
+
+### Traduzione in corso
+
+Autore：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Post originale](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+Fumetto / Graphic Novel · Personaggio · Prodotto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097718063663858058.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

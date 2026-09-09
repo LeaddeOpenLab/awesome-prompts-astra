@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**4** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**5** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Illustration](#category-illustration) · [3D-Rendering](#category-3d-render)
+[Illustration](#category-illustration) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D-Rendering](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -391,6 +391,32 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 无对白
 无旁白
 无对话气泡
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Comic / Graphic Novel
+
+<a name="prompt-2097718063663858058"></a>
+
+### Übersetzung läuft
+
+Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2097718063663858058)
+
+Comic / Graphic Novel · Charakter · Produkt · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097718063663858058.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
