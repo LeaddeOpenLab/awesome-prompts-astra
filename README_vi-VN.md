@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097681593246613583"></a>
 
-### Đang dịch
+### Biệt thự hiện đại, hồ bơi vô cực, hướng nhìn ra biển.
 
 Tác giả：[@robinstetic](https://x.com/robinstetic) · [Bài gốc](https://x.com/robinstetic/status/2097681593246613583)
 
 Kết xuất 3D · Kiến trúc / Nội thất · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Biệt thự hiện đại, hồ bơi vô cực, hướng nhìn ra biển.
 
 <img src="covers/2097681593246613583.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Biệt thự hiện đại, hồ bơi vô cực, hướng nhìn ra biển.
 ```
 
 [↑ Về danh mục](#catalog)
