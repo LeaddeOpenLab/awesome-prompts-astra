@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Çeviri sürüyor
+### 30 saniyelik okul sakızı reklamı: Zorbalığa uğrayan utangaç bir öğrenci, “RAZOR” sakızı çiğneyerek özgüvenini geri kazanır, zorbayı alt edip kızıl saçlı kızı etkilemek için kaykay numaraları sergiler; sarı-siyah çizgi roman efektleri ve ürün sloganıyla sona erer.
 
 Yazar：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Çizgi Roman / Grafik Roman · Karakter · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 30 saniyelik okul sakızı reklamı: Zorbalığa uğrayan utangaç bir öğrenci, “RAZOR” sakızı çiğneyerek özgüvenini geri kazanır, zorbayı alt edip kızıl saçlı kızı etkilemek için kaykay numaraları sergiler; sarı-siyah çizgi roman efektleri ve ürün sloganıyla sona erer.
 
 <img src="covers/2097718063663858058.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturun. Mor gömlekli utangaç bir öğrenci, yeşil kolej ceketli sporcular tarafından zorbalığa uğrar. Bir arkadaşı ona sarı ambalajlı “RAZOR” sakızı verir. Sakızı çiğner, özgüven kazanır, inanılmaz kaykay hareketleri sergiler, zorbayı alt eder ve kızıl saçlı bir kızı etkiler. Gerçekçi görseller, hızlı kamera hareketleri, eğlenceli bir mizah ile sarı ve siyah çizgi roman efektleri kullanın. Sakız paketi ve sloganla sona erdirin.
 ```
 
 [↑ Kategorilere dön](#catalog)

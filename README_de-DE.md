@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Übersetzung läuft
+### 30-sekündiger Schul-Kaugummi-Werbespot: Ein schüchterner Schüler wird gemobbt, kaut „RAZOR“-Kaugummi, um neues Selbstvertrauen zu gewinnen, zeigt Skateboard-Tricks, um den Mobber auszutricksen und ein rothaariges Mädchen zu beeindrucken, abgerundet mit gelb-schwarzen Comic-Effekten und dem Produkt-Slogan.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Comic / Graphic Novel · Charakter · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-sekündiger Schul-Kaugummi-Werbespot: Ein schüchterner Schüler wird gemobbt, kaut „RAZOR“-Kaugummi, um neues Selbstvertrauen zu gewinnen, zeigt Skateboard-Tricks, um den Mobber auszutricksen und ein rothaariges Mädchen zu beeindrucken, abgerundet mit gelb-schwarzen Comic-Effekten und dem Produkt-Slogan.
 
 <img src="covers/2097718063663858058.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Schulhof spielt. Ein schüchterner Schüler im lila Hemd wird von Sportlern in grünen Collegejacken gemobbt. Ein Freund gibt ihm „RAZOR“-Kaugummi in gelber Verpackung. Er kaut ihn, gewinnt Selbstvertrauen, zeigt erstaunliche Skateboard-Tricks, überlistet den Mobber und beeindruckt ein rothaariges Mädchen. Verwende realistische Grafiken, schnelle Kamerabewegungen, verspielten Humor sowie gelb-schwarze Comic-Effekte. Schließe mit der Kaugummipackung und dem Slogan ab.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Traduzione in corso
+### Spot di 30 secondi per chewing-gum a scuola: uno studente timido vittima di bullismo mastica la gomma “RAZOR” per riacquistare fiducia, mostra acrobazie sullo skateboard per superare in astuzia il bullo e fare colpo su una ragazza dai capelli rossi, con effetti da fumetto gialli e neri e slogan finale.
 
 Autore：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Post originale](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Fumetto / Graphic Novel · Personaggio · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Spot di 30 secondi per chewing-gum a scuola: uno studente timido vittima di bullismo mastica la gomma “RAZOR” per riacquistare fiducia, mostra acrobazie sullo skateboard per superare in astuzia il bullo e fare colpo su una ragazza dai capelli rossi, con effetti da fumetto gialli e neri e slogan finale.
 
 <img src="covers/2097718063663858058.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel cortile di una scuola. Uno studente timido con una maglietta viola viene bullizzato da atleti con giacche varsity verdi. Un amico gli offre una gomma da masticare “RAZOR” nella confezione gialla. La mastica, acquista sicurezza, esegue incredibili acrobazie con lo skateboard, supera in astuzia il bullo e fa colpo su una ragazza dai capelli rossi. Usa immagini realistiche, movimenti di camera veloci, umorismo giocoso ed effetti da fumetto giallo e nero. Concludi con il pacchetto di gomme e lo slogan.
 ```
 
 [↑ Torna alle categorie](#catalog)

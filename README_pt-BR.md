@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Tradução em andamento
+### Comercial de chiclete escolar de 30 segundos: estudante tímido que sofre bullying masca chiclete “RAZOR” para recuperar a confiança, exibe manobras de skate para enganar o valentão e impressionar uma garota ruiva, com efeitos de quadrinhos em amarelo e preto e encerramento com o slogan do produto.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicação original](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Quadrinhos / Graphic Novel · Personagem · Produto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Comercial de chiclete escolar de 30 segundos: estudante tímido que sofre bullying masca chiclete “RAZOR” para recuperar a confiança, exibe manobras de skate para enganar o valentão e impressionar uma garota ruiva, com efeitos de quadrinhos em amarelo e preto e encerramento com o slogan do produto.
 
 <img src="covers/2097718063663858058.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pátio de uma escola. Um estudante tímido de camisa roxa sofre bullying de atletas com jaquetas varsity verdes. Um amigo lhe entrega um chiclete “RAZOR” em embalagem amarela. Ele mastiga, ganha confiança, realiza manobras incríveis de skate, passa a perna no valentão e impressiona uma garota ruiva. Use recursos visuais realistas, movimentos rápidos de câmera, humor divertido e efeitos de história em quadrinhos em amarelo e preto. Termine com a embalagem do chiclete e o slogan.
 ```
 
 [↑ Voltar às categorias](#catalog)

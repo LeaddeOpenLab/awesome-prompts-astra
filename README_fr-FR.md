@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Traduction en cours
+### Publicité de 30 secondes pour un chewing-gum à l'école : un élève timide intimidé mâche du chewing-gum « RAZOR » pour reprendre confiance, réalise des figures de skateboard pour déjouer l'intimidateur et séduire une fille rousse, avec des effets de bande dessinée jaunes et noirs et le slogan du produit en conclusion.
 
 Auteur：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publication originale](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Bande dessinée / Roman graphique · Personnage · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Publicité de 30 secondes pour un chewing-gum à l'école : un élève timide intimidé mâche du chewing-gum « RAZOR » pour reprendre confiance, réalise des figures de skateboard pour déjouer l'intimidateur et séduire une fille rousse, avec des effets de bande dessinée jaunes et noirs et le slogan du produit en conclusion.
 
 <img src="covers/2097718063663858058.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se déroulant dans la cour d'une école. Un élève timide vêtu d'une chemise violette est intimidé par des sportifs portant des vestes universitaires vertes. Un ami lui donne du chewing-gum « RAZOR » dans un emballage jaune. Il le mâche, reprend confiance en lui, réalise d'incroyables figures de skateboard, déjoue l'intimidateur et impressionne une fille rousse. Utilisez des visuels réalistes, des mouvements de caméra rapides, un humour espiègle et des effets de bande dessinée jaunes et noirs. Terminez par le paquet de chewing-gum et le slogan.
 ```
 
 [↑ Retour aux catégories](#catalog)

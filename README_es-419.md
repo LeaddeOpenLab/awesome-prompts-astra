@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Traducción en curso
+### Anuncio de chicle escolar de 30 segundos: un estudiante tímido al que acosan mastica chicle “RAZOR” para recuperar la confianza, luce trucos de patineta para burlar al acosador y cautivar a una chica pelirroja, con efectos de cómic en amarillo y negro y cierre con el eslogan del producto.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicación original](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Cómic / Novela gráfica · Personaje · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Anuncio de chicle escolar de 30 segundos: un estudiante tímido al que acosan mastica chicle “RAZOR” para recuperar la confianza, luce trucos de patineta para burlar al acosador y cautivar a una chica pelirroja, con efectos de cómic en amarillo y negro y cierre con el eslogan del producto.
 
 <img src="covers/2097718063663858058.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio de una escuela. Un estudiante tímido con camisa morada es intimidado por atletas con chaquetas universitarias verdes. Un amigo le da chicle “RAZOR” en empaque amarillo. Lo mastica, gana confianza, realiza increíbles trucos de patineta, supera al acosador con astucia e impresiona a una chica pelirroja. Utiliza imágenes realistas, movimientos rápidos de cámara, humor juguetón y efectos de cómic en amarillo y negro. Termina con el paquete de chicle y el eslogan.
 ```
 
 [↑ Volver a categorías](#catalog)

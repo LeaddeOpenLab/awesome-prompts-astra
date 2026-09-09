@@ -403,20 +403,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097718063663858058"></a>
 
-### Tradução em curso
+### Anúncio de pastilha elástica escolar de 30 segundos: um estudante tímido intimidado mastiga pastilha “RAZOR” para recuperar a confiança, exibe manobras de skate para superar o rufia e impressionar uma rapariga ruiva, com efeitos de banda desenhada em amarelo e preto e encerramento com o slogan do produto.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicação original](https://x.com/higgsfield_ai/status/2097718063663858058)
 
 Banda Desenhada / Romance Gráfico · Personagem · Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Anúncio de pastilha elástica escolar de 30 segundos: um estudante tímido intimidado mastiga pastilha “RAZOR” para recuperar a confiança, exibe manobras de skate para superar o rufia e impressionar uma rapariga ruiva, com efeitos de banda desenhada em amarelo e preto e encerramento com o slogan do produto.
 
 <img src="covers/2097718063663858058.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio cinematográfico de pastilha elástica de 30 segundos ambientado no pátio de uma escola. Um estudante tímido com uma camisa roxa é intimidado por atletas com casacos universitários verdes. Um amigo dá-lhe pastilha elástica “RAZOR” numa embalagem amarela. Ele mastiga-a, ganha confiança, realiza manobras incríveis de skate, passa a perna ao rufia e impressiona uma rapariga ruiva. Utilize visuais realistas, movimentos rápidos de câmara, humor brincalhão e efeitos de banda desenhada em amarelo e preto. Termine com o pacote de pastilhas e o slogan.
 ```
 
 [↑ Voltar às categorias](#catalog)
