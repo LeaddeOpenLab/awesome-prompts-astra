@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**7** Prompts · Latest addition: **2026-09-09**
+**8** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,28 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097817422485160261"></a>
+
+### Instructions for modeling an office chair, setting up textures, and rendering a turntable with Arnold in Maya
+
+Author：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Source](https://x.com/yuukixx_vrc/status/2097817422485160261)
+
+3D Render · Published
+
+**Summary:** Instructions for modeling an office chair, setting up textures, and rendering a turntable with Arnold in Maya
+
+<img src="covers/2097817422485160261.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Connect to Maya's commandPort, model a standard office chair, set up photorealistic textures and shading, and render a turntable animation using Arnold
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097743367484621269"></a>
 
