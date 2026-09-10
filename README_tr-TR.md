@@ -455,20 +455,20 @@ Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturu
 
 <a name="prompt-2097864183773618361"></a>
 
-### Çeviri sürüyor
+### Arı bakış açısından kır çiçeği çayırında nektar toplama uçuşu simülasyonu ve hedef kilitleme arayüzü.
 
 Yazar：[@prompts\_ig](https://x.com/prompts_ig) · [Orijinal gönderi](https://x.com/prompts_ig/status/2097864183773618361)
 
 Uygulama / Web Tasarımı · 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Arı bakış açısından kır çiçeği çayırında nektar toplama uçuşu simülasyonu ve hedef kilitleme arayüzü.
 
 <img src="covers/2097864183773618361.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yaban çiçeği çayırında polen toplama uçuşu simülasyonunu takip edin; arı yaklaşırken bir çiçeği vurgulayan bir arama katmanı yer alıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

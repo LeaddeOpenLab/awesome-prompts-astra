@@ -455,20 +455,20 @@ Crie um anúncio cinematográfico de pastilha elástica de 30 segundos ambientad
 
 <a name="prompt-2097864183773618361"></a>
 
-### Tradução em curso
+### Simulação de voo de colheita num prado de flores silvestres da perspetiva da abelha com interface de fixação de alvo.
 
 Autor：[@prompts\_ig](https://x.com/prompts_ig) · [Publicação original](https://x.com/prompts_ig/status/2097864183773618361)
 
 Design de Aplicações / Web · Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Simulação de voo de colheita num prado de flores silvestres da perspetiva da abelha com interface de fixação de alvo.
 
 <img src="covers/2097864183773618361.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Siga uma rota simulada de recolha de pólen através de um prado de flores silvestres, com uma sobreposição de pesquisa que destaca uma flor à medida que a abelha se aproxima.
 ```
 
 [↑ Voltar às categorias](#catalog)

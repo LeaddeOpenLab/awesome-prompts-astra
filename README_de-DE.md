@@ -455,20 +455,20 @@ Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Sc
 
 <a name="prompt-2097864183773618361"></a>
 
-### Übersetzung läuft
+### Flugsimulation der Nektarsuche auf einer Wildblumenwiese aus Bienenperspektive mit Zielerfassungs-Benutzeroberfläche.
 
 Autor：[@prompts\_ig](https://x.com/prompts_ig) · [Originalbeitrag](https://x.com/prompts_ig/status/2097864183773618361)
 
 App- / Webdesign · 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Flugsimulation der Nektarsuche auf einer Wildblumenwiese aus Bienenperspektive mit Zielerfassungs-Benutzeroberfläche.
 
 <img src="covers/2097864183773618361.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Folgen Sie einem simulierten Pollensammelflug über eine Wildblumenwiese, mit einer Such-Überlagerung, die eine Blume hervorhebt, während sich die Biene nähert.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

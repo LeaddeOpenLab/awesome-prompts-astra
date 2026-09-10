@@ -455,20 +455,20 @@ Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pát
 
 <a name="prompt-2097864183773618361"></a>
 
-### Tradução em andamento
+### Simulação de voo de coleta em prado de flores silvestres da perspectiva da abelha com interface de mira de alvo.
 
 Autor：[@prompts\_ig](https://x.com/prompts_ig) · [Publicação original](https://x.com/prompts_ig/status/2097864183773618361)
 
 Design de Aplicativos / Web · Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Simulação de voo de coleta em prado de flores silvestres da perspectiva da abelha com interface de mira de alvo.
 
 <img src="covers/2097864183773618361.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Acompanhe uma rota simulada de coleta de pólen por um prado de flores silvestres, com uma sobreposição de busca destacando uma flor à medida que a abelha se aproxima.
 ```
 
 [↑ Voltar às categorias](#catalog)

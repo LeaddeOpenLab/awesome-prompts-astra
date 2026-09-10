@@ -455,20 +455,20 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 
 <a name="prompt-2097864183773618361"></a>
 
-### Traduzione in corso
+### Simulazione del volo di bottinatura in un prato di fiori selvatici dal punto di vista di un'ape con interfaccia di aggancio del bersaglio.
 
 Autore：[@prompts\_ig](https://x.com/prompts_ig) · [Post originale](https://x.com/prompts_ig/status/2097864183773618361)
 
 App / Web Design · Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Simulazione del volo di bottinatura in un prato di fiori selvatici dal punto di vista di un'ape con interfaccia di aggancio del bersaglio.
 
 <img src="covers/2097864183773618361.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Segui una simulata raccolta di polline attraverso un prato di fiori selvatici, con una sovrapposizione di ricerca che evidenzia un fiore mentre l'ape si avvicina.
 ```
 
 [↑ Torna alle categorie](#catalog)

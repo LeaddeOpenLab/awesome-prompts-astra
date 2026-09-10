@@ -455,20 +455,20 @@ Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 3
 
 <a name="prompt-2097864183773618361"></a>
 
-### Đang dịch
+### Góc nhìn của ong mô phỏng chuyến bay thu thập mật trên đồng hoa dại cùng giao diện khóa mục tiêu.
 
 Tác giả：[@prompts\_ig](https://x.com/prompts_ig) · [Bài gốc](https://x.com/prompts_ig/status/2097864183773618361)
 
 Thiết kế ứng dụng / web · Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Góc nhìn của ong mô phỏng chuyến bay thu thập mật trên đồng hoa dại cùng giao diện khóa mục tiêu.
 
 <img src="covers/2097864183773618361.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Theo dõi một hành trình thu thập phấn hoa mô phỏng qua một đồng cỏ hoa dại, với lớp phủ tìm kiếm làm nổi bật một bông hoa khi ong tiến lại gần.
 ```
 
 [↑ Về danh mục](#catalog)

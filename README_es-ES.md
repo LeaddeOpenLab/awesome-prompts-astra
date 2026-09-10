@@ -455,20 +455,20 @@ Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio
 
 <a name="prompt-2097864183773618361"></a>
 
-### Traducción en curso
+### Simulación de vuelo de recolección en prado de flores silvestres desde la perspectiva de una abeja e interfaz de fijación de objetivos.
 
 Autor：[@prompts\_ig](https://x.com/prompts_ig) · [Publicación original](https://x.com/prompts_ig/status/2097864183773618361)
 
 Diseño de aplicaciones / web · Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Simulación de vuelo de recolección en prado de flores silvestres desde la perspectiva de una abeja e interfaz de fijación de objetivos.
 
 <img src="covers/2097864183773618361.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Sigue una ruta simulada de recolección de polen a través de un prado de flores silvestres, con una superposición de búsqueda que resalta una flor a medida que la abeja se acerca.
 ```
 
 [↑ Volver a categorías](#catalog)

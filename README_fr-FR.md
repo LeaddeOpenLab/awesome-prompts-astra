@@ -455,20 +455,20 @@ Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se 
 
 <a name="prompt-2097864183773618361"></a>
 
-### Traduction en cours
+### Simulation de vol de butinage dans une prairie de fleurs sauvages en vue subjective d'abeille et interface de verrouillage de cible.
 
 Auteur：[@prompts\_ig](https://x.com/prompts_ig) · [Publication originale](https://x.com/prompts_ig/status/2097864183773618361)
 
 Conception d'applications / de sites web · Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Simulation de vol de butinage dans une prairie de fleurs sauvages en vue subjective d'abeille et interface de verrouillage de cible.
 
 <img src="covers/2097864183773618361.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Suivez un vol simulé de collecte de pollen à travers une prairie de fleurs sauvages, avec une incrustation de recherche mettant en évidence une fleur à mesure que l'abeille s'approche.
 ```
 
 [↑ Retour aux catégories](#catalog)
