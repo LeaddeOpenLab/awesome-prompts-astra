@@ -455,20 +455,20 @@ Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio
 
 <a name="prompt-2097817422485160261"></a>
 
-### Traducción en curso
+### Instrucciones para modelar una silla de oficina en Maya, configurar texturas y renderizar un plato giratorio con Arnold
 
 Autor：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Publicación original](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucciones para modelar una silla de oficina en Maya, configurar texturas y renderizar un plato giratorio con Arnold
 
 <img src="covers/2097817422485160261.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Conéctate al commandPort de Maya, modela una silla de oficina común, configura texturas fotorrealistas y renderiza un plato giratorio (turntable) con Arnold
 ```
 
 [↑ Volver a categorías](#catalog)

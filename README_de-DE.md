@@ -455,20 +455,20 @@ Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Sc
 
 <a name="prompt-2097817422485160261"></a>
 
-### Übersetzung läuft
+### Anweisung zum Modellieren eines Bürostuhls in Maya, Einrichten von Texturen und Rendern eines Turntables mit Arnold
 
 Autor：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Originalbeitrag](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anweisung zum Modellieren eines Bürostuhls in Maya, Einrichten von Texturen und Rendern eines Turntables mit Arnold
 
 <img src="covers/2097817422485160261.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Mit dem commandPort von Maya verbinden, einen Standard-Bürostuhl modellieren, fotorealistische Texturen einrichten und ein Turntable mit Arnold rendern
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

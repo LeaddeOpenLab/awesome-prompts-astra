@@ -455,20 +455,20 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 
 <a name="prompt-2097817422485160261"></a>
 
-### Traduzione in corso
+### Istruzioni per modellare una sedia da ufficio in Maya, impostare le texture e renderizzare un turntable con Arnold
 
 Autore：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Post originale](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzioni per modellare una sedia da ufficio in Maya, impostare le texture e renderizzare un turntable con Arnold
 
 <img src="covers/2097817422485160261.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Connettiti alla commandPort di Maya, modella una comune sedia da ufficio, imposta texture fotorealistiche e renderizza un turntable con Arnold
 ```
 
 [↑ Torna alle categorie](#catalog)

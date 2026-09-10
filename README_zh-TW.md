@@ -455,20 +455,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2097817422485160261"></a>
 
-### 翻譯中
+### 在Maya中為辦公椅建模、設置質感並使用Arnold彩現轉盤的指示
 
 作者：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [查看 X 原帖](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 3D 渲染 · 已推流
 
-**概括:** 翻譯中
+**概括:** 在Maya中為辦公椅建模、設置質感並使用Arnold彩現轉盤的指示
 
 <img src="covers/2097817422485160261.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+連線至Maya的commandPort，為一張普通的辦公椅進行建模，設置逼真的照片級質感，並使用Arnold彩現轉盤動畫
 ```
 
 [↑ 返回分類目錄](#catalog)

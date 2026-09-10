@@ -455,20 +455,20 @@ Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 3
 
 <a name="prompt-2097817422485160261"></a>
 
-### Đang dịch
+### Chỉ dẫn mô hình hóa ghế văn phòng trong Maya, thiết lập chất liệu và kết xuất turntable bằng Arnold
 
 Tác giả：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Bài gốc](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chỉ dẫn mô hình hóa ghế văn phòng trong Maya, thiết lập chất liệu và kết xuất turntable bằng Arnold
 
 <img src="covers/2097817422485160261.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Kết nối với commandPort của Maya, mô hình hóa một chiếc ghế văn phòng thông thường, thiết lập chất liệu chân thực như ảnh chụp và kết xuất xoay bàn turntable bằng Arnold
 ```
 
 [↑ Về danh mục](#catalog)

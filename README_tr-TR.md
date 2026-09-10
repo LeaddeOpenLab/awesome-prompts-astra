@@ -455,20 +455,20 @@ Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturu
 
 <a name="prompt-2097817422485160261"></a>
 
-### Çeviri sürüyor
+### Maya'da bir ofis koltuğu modelleme, dokuları ayarlama ve Arnold ile turntable render alma talimatı
 
 Yazar：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Orijinal gönderi](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Maya'da bir ofis koltuğu modelleme, dokuları ayarlama ve Arnold ile turntable render alma talimatı
 
 <img src="covers/2097817422485160261.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Maya'nın commandPort'una bağlanın, sıradan bir ofis koltuğu modelleyin, fotogerçekçi doku ayarlarını yapın ve Arnold ile bir döner tabla (turntable) render'ı alın
 ```
 
 [↑ Kategorilere dön](#catalog)

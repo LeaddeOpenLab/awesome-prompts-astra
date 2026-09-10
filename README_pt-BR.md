@@ -455,20 +455,20 @@ Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pát
 
 <a name="prompt-2097817422485160261"></a>
 
-### Tradução em andamento
+### Instruções para modelar uma cadeira de escritório no Maya, configurar texturas e renderizar um turntable com Arnold
 
 Autor：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Publicação original](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instruções para modelar uma cadeira de escritório no Maya, configurar texturas e renderizar um turntable com Arnold
 
 <img src="covers/2097817422485160261.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Conecte-se ao commandPort do Maya, modele uma cadeira de escritório comum, configure texturas fotorrealistas e renderize um turntable com o Arnold
 ```
 
 [↑ Voltar às categorias](#catalog)

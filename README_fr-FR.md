@@ -455,20 +455,20 @@ Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se 
 
 <a name="prompt-2097817422485160261"></a>
 
-### Traduction en cours
+### Instructions pour modéliser une chaise de bureau dans Maya, configurer les textures et effectuer un rendu turntable avec Arnold
 
 Auteur：[@yuukixx\_vrc](https://x.com/yuukixx_vrc) · [Publication originale](https://x.com/yuukixx_vrc/status/2097817422485160261)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instructions pour modéliser une chaise de bureau dans Maya, configurer les textures et effectuer un rendu turntable avec Arnold
 
 <img src="covers/2097817422485160261.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Connectez-vous au commandPort de Maya, modélisez une chaise de bureau standard, configurez des textures photoréalistes et effectuez un rendu turntable avec Arnold
 ```
 
 [↑ Retour aux catégories](#catalog)
