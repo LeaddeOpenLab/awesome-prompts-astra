@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**8** Prompts · Latest addition: **2026-09-10**
+**9** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,28 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097864183773618361"></a>
+
+### Bee's-eye view wildflower meadow foraging flight simulation and target lock-on interface.
+
+Author：[@prompts\_ig](https://x.com/prompts_ig) · [Source](https://x.com/prompts_ig/status/2097864183773618361)
+
+App / Web Design · 3D Render · Published
+
+**Summary:** Bee's-eye view wildflower meadow foraging flight simulation and target lock-on interface.
+
+<img src="covers/2097864183773618361.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Follow a simulated pollen run through a wildflower meadow, with a search overlay highlighting a flower as the bee approaches.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097817422485160261"></a>
 
