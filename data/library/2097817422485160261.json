@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T00:17:53.904Z",
+  "model": "astra",
+  "prompt": "MayaのcommandPortに接続して、一般的なオフィスチェアをモデリングして、フォトリアリスティックな質感設定をして、ターンテーブルをArnoldでレンダリングして",
+  "promptTranslations": {
+    "en": "Connect to Maya's commandPort, model a standard office chair, set up photorealistic textures and shading, and render a turntable animation using Arnold"
+  },
+  "summaryTranslations": {
+    "en": "Instructions for modeling an office chair, setting up textures, and rendering a turntable with Arnold in Maya"
+  },
+  "translationVersion": 2,
+  "summary": "Mayaでオフィスチェアをモデリングし質感を設定してArnoldでターンテーブルレンダリングする指示",
+  "summaryEn": "Prompt to model an office chair in Maya, configure realistic textures, and render a turntable via Arnold",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097817422485160261",
+    "canonicalUrl": "https://x.com/yuukixx_vrc/status/2097817422485160261",
+    "author": {
+      "username": "yuukixx_vrc",
+      "displayName": "yuukixx",
+      "profileUrl": "https://x.com/yuukixx_vrc"
+    },
+    "publishedAt": "2026-09-09T22:40:23.000Z",
+    "collectedAt": "2026-09-10T00:16:35.115Z",
+    "language": "ja",
+    "originalText": "Codex GPT-6 Astra Lowで「MayaのcommandPortに接続して、一般的なオフィスチェアをモデリングして、フォトリアリスティックな質感設定をして、ターンテーブルをArnoldでレンダリングして」と雑に投げた成果物 https://t.co/3Qiq5epWF1",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/yuukixx_vrc/status/2097817422485160261",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097817260798943232/img/Gf66tDGQCZxg96QC.jpg",
+        "analysisUrl": "https://x.com/yuukixx_vrc/status/2097817422485160261"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 524
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/yuukixx_vrc/status/2097817422485160261",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097817260798943232/img/Gf66tDGQCZxg96QC.jpg",
+  "coverPath": "covers/2097817422485160261.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097817260798943232",
+    "x-post:2097817422485160261"
+  ],
+  "analysis": {
+    "summary": "Mayaでオフィスチェアをモデリングし質感を設定してArnoldでターンテーブルレンダリングする指示",
+    "summaryEn": "Prompt to model an office chair in Maya, configure realistic textures, and render a turntable via Arnold",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "動画には指示通りのオフィスチェアの3Dモデルおよび質感設定とターンテーブルレンダリング結果が表示されている"
+    },
+    "videoQuality": null,
+    "originalPrompt": "MayaのcommandPortに接続して、一般的なオフィスチェアをモデリングして、フォトリアリスティックな質感設定をして、ターンテーブルをArnoldでレンダリングして",
+    "sourceRange": {
+      "start": 23,
+      "end": 108
+    },
+    "translations": {
+      "zh": "连接到Maya的commandPort，对一个普通的办公椅进行建模，设置逼真的材质质感，并使用Arnold渲染转盘动画",
+      "en": "Connect to Maya's commandPort, model a standard office chair, set up photorealistic textures, and render a turntable with Arnold"
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3Dモデリングおよびレンダリング指示",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
