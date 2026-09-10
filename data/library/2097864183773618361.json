@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T02:34:14.821Z",
+  "model": "astra",
+  "prompt": "Follow a simulated pollen run through a wildflower meadow, with a search overlay highlighting a flower as the bee approaches.",
+  "promptTranslations": {
+    "en": "Follow a simulated pollen run through a wildflower meadow, with a search overlay highlighting a flower as the bee approaches."
+  },
+  "summaryTranslations": {
+    "en": "Bee's-eye view wildflower meadow foraging flight simulation and target lock-on interface."
+  },
+  "translationVersion": 2,
+  "summary": "蜜蜂视角野花草甸采蜜飞行模拟与目标锁定界面。",
+  "summaryEn": "Bee-scale pollen flight simulation with targeting HUD.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097864183773618361",
+    "canonicalUrl": "https://x.com/prompts_ig/status/2097864183773618361",
+    "author": {
+      "username": "prompts_ig",
+      "displayName": "prompts.ig",
+      "profileUrl": "https://x.com/prompts_ig"
+    },
+    "publishedAt": "2026-09-10T01:46:12.000Z",
+    "collectedAt": "2026-09-10T02:27:36.189Z",
+    "language": "en",
+    "originalText": "A flight simulator at bee scale.\n\nFollow a simulated pollen run through a wildflower meadow, with a search overlay highlighting a flower as the bee approaches.\n\nGPT-6 Astra + Blender on Higgsfield. https://t.co/Q9nfNGGptN",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/prompts_ig/status/2097864183773618361",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2097863726476955655/pu/img/0pmpnyx_e0SLCMYt.jpg",
+        "analysisUrl": "https://x.com/prompts_ig/status/2097864183773618361"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/prompts_ig/status/2097864183773618361",
+  "coverUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2097863726476955655/pu/img/0pmpnyx_e0SLCMYt.jpg",
+  "coverPath": "covers/2097864183773618361.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097863726476955655",
+    "x-post:2097864183773618361"
+  ],
+  "analysis": {
+    "summary": "蜜蜂视角野花草甸采蜜飞行模拟与目标锁定界面。",
+    "summaryEn": "Bee-scale pollen flight simulation with targeting HUD.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Media demonstrates bee POV meadow flight, targeting HUD overlay, and 3D trajectory in Blender."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Follow a simulated pollen run through a wildflower meadow, with a search overlay highlighting a flower as the bee approaches.",
+    "sourceRange": {
+      "start": 34,
+      "end": 159
+    },
+    "translations": {
+      "zh": "模拟蜜蜂在野花草甸中采集花粉的飞行路线，并带有搜索界面浮层，在蜜蜂靠近时高亮显示目标花朵。",
+      "en": "Follow a simulated pollen run through a wildflower meadow, with a search overlay highlighting a flower as the bee approaches."
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-3d",
+    "useCase": "Bee-scale flight simulation with targeting HUD",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
