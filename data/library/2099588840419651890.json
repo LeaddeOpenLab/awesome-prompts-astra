@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T20:19:58.366Z",
+  "model": "astra",
+  "prompt": "create hotel corridor scene",
+  "promptTranslations": {
+    "en": "create hotel corridor scene"
+  },
+  "summaryTranslations": {
+    "en": "Prompt to generate a hotel corridor 3D scene."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt to generate a hotel corridor 3D scene.",
+  "summaryEn": "Prompt to generate a hotel corridor 3D scene.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098109848118280487",
+      "canonicalUrl": "https://x.com/MyWestLord/status/2098109848118280487",
+      "author": {
+        "username": "MyWestLord",
+        "displayName": "West Lord",
+        "profileUrl": "https://x.com/MyWestLord"
+      },
+      "originalText": "https://t.co/OxWfjpFlMO"
+    },
+    "id": "2099588840419651890",
+    "canonicalUrl": "https://x.com/MyWestLord/status/2099588840419651890",
+    "author": {
+      "username": "MyWestLord",
+      "displayName": "West Lord",
+      "profileUrl": "https://x.com/MyWestLord"
+    },
+    "publishedAt": "2026-09-14T19:59:22.000Z",
+    "collectedAt": "2026-09-14T20:16:41.527Z",
+    "language": "en",
+    "originalText": "GPT-6 Astra built this hotel corridor inside Blender through MCP from 4 words.\n\nNo Sora, no Veo, no diffusion anywhere in the pipeline.\n\nThe prompt was \"create hotel corridor scene,\" the model was gpt-6-astra on high, the bridge was Blender MCP with 28,500 stars on GitHub.\n\nThen the terminal started writing Python.\n\nWalls, sconces every 2 meters, a carpet pattern lifted straight off the Overlook then it rendered a test frame, saw the light bleeding wrong and moved the fixtures 3 times until the falloff sat right.\n\nNobody touched a mouse.\n\nThe geometry is real, so you can open the .blend, grab a vertex and drag it, and nothing in the frame is a guess about what a pixel should look like.\n\nFor 2 years the counterargument was that AI video can't hold a scene for 8 seconds without melting a door frame, which is true, so the model stopped generating video and started running the software instead.\n\nGPT-6 Astra shipped September 4 at $10 per million tokens in and $50 out, with 1.1M context the whole Blender Python API and your scene graph in one window.\n\nA junior 3D artist quotes $400 for a corridor like this and takes 2 days.\n\nThe render is clean, the lights land right, nobody opened Blender.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MyWestLord/status/2099588840419651890",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099588826762989569/img/wG42nHwGxoMIZ6Qk.jpg",
+        "analysisUrl": "https://x.com/MyWestLord/status/2099588840419651890"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 212
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MyWestLord/status/2099588840419651890",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099588826762989569/img/wG42nHwGxoMIZ6Qk.jpg",
+  "coverPath": "covers/2099588840419651890.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099588826762989569",
+    "x-post:2099588840419651890",
+    "x-post:2098109848118280487"
+  ],
+  "analysis": {
+    "summary": "Prompt to generate a hotel corridor 3D scene.",
+    "summaryEn": "Prompt to generate a hotel corridor 3D scene.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Blender workspace builds and renders a full hotel corridor matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "create hotel corridor scene",
+    "sourceRange": {
+      "start": 153,
+      "end": 180
+    },
+    "translations": {
+      "zh": "创建酒店走廊场景",
+      "en": "create hotel corridor scene"
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D scene generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
