@@ -455,7 +455,7 @@ Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 3
 
 <a name="prompt-2099588840419651890"></a>
 
-### Đang dịch
+### Lời nhắc để tạo cảnh 3D hành lang khách sạn.
 
 Tác giả：[@MyWestLord](https://x.com/MyWestLord) · [Bài gốc](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Kết xuất 3D · Đã xuất bản
 
 Bài gốc：[@MyWestLord](https://x.com/MyWestLord) · [Bài gốc](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc để tạo cảnh 3D hành lang khách sạn.
 
 <img src="covers/2099588840419651890.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+tạo cảnh hành lang khách sạn
 ```
 
 [↑ Về danh mục](#catalog)

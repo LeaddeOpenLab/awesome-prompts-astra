@@ -455,7 +455,7 @@ Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio
 
 <a name="prompt-2099588840419651890"></a>
 
-### Traducción en curso
+### Prompt para generar una escena 3D de pasillo de hotel.
 
 Autor：[@MyWestLord](https://x.com/MyWestLord) · [Publicación original](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Renderizado 3D · Publicado
 
 Publicación original：[@MyWestLord](https://x.com/MyWestLord) · [Publicación original](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar una escena 3D de pasillo de hotel.
 
 <img src="covers/2099588840419651890.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+crear escena de pasillo de hotel
 ```
 
 [↑ Volver a categorías](#catalog)

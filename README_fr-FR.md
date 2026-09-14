@@ -455,7 +455,7 @@ Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se 
 
 <a name="prompt-2099588840419651890"></a>
 
-### Traduction en cours
+### Prompt pour générer une scène 3D de couloir d'hôtel.
 
 Auteur：[@MyWestLord](https://x.com/MyWestLord) · [Publication originale](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Rendu 3D · Publié
 
 Publication originale：[@MyWestLord](https://x.com/MyWestLord) · [Publication originale](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour générer une scène 3D de couloir d'hôtel.
 
 <img src="covers/2099588840419651890.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+créer une scène de couloir d'hôtel
 ```
 
 [↑ Retour aux catégories](#catalog)

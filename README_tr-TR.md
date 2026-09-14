@@ -455,7 +455,7 @@ Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturu
 
 <a name="prompt-2099588840419651890"></a>
 
-### Çeviri sürüyor
+### Otel koridoru 3D sahnesi oluşturmak için istem.
 
 Yazar：[@MyWestLord](https://x.com/MyWestLord) · [Orijinal gönderi](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Yazar：[@MyWestLord](https://x.com/MyWestLord) · [Orijinal gönderi](https://x
 
 Orijinal gönderi：[@MyWestLord](https://x.com/MyWestLord) · [Orijinal gönderi](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Otel koridoru 3D sahnesi oluşturmak için istem.
 
 <img src="covers/2099588840419651890.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+otel koridoru sahnesi oluştur
 ```
 
 [↑ Kategorilere dön](#catalog)

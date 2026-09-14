@@ -455,7 +455,7 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2099588840419651890"></a>
 
-### 翻譯中
+### 生成飯店走廊 3D 場景的提示詞。
 
 作者：[@MyWestLord](https://x.com/MyWestLord) · [查看 X 原帖](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 查看 X 原帖：[@MyWestLord](https://x.com/MyWestLord) · [查看 X 原帖](https://x.com/MyWestLord/status/2098109848118280487)
 
-**概括:** 翻譯中
+**概括:** 生成飯店走廊 3D 場景的提示詞。
 
 <img src="covers/2099588840419651890.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+建立飯店走廊場景
 ```
 
 [↑ 返回分類目錄](#catalog)

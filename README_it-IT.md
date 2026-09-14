@@ -455,7 +455,7 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 
 <a name="prompt-2099588840419651890"></a>
 
-### Traduzione in corso
+### Prompt per generare una scena 3D di un corridoio di hotel.
 
 Autore：[@MyWestLord](https://x.com/MyWestLord) · [Post originale](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Rendering 3D · Pubblicato
 
 Post originale：[@MyWestLord](https://x.com/MyWestLord) · [Post originale](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per generare una scena 3D di un corridoio di hotel.
 
 <img src="covers/2099588840419651890.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+crea una scena di corridoio di hotel
 ```
 
 [↑ Torna alle categorie](#catalog)

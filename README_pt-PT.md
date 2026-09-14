@@ -455,7 +455,7 @@ Crie um anúncio cinematográfico de pastilha elástica de 30 segundos ambientad
 
 <a name="prompt-2099588840419651890"></a>
 
-### Tradução em curso
+### Prompt para gerar uma cena 3D de corredor de hotel.
 
 Autor：[@MyWestLord](https://x.com/MyWestLord) · [Publicação original](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Renderização 3D · Publicado
 
 Publicação original：[@MyWestLord](https://x.com/MyWestLord) · [Publicação original](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para gerar uma cena 3D de corredor de hotel.
 
 <img src="covers/2099588840419651890.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+criar cena de corredor de hotel
 ```
 
 [↑ Voltar às categorias](#catalog)

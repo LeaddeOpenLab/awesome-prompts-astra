@@ -457,7 +457,7 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2099588840419651890"></a>
 
-### 翻译中
+### 生成酒店走廊 3D 场景的提示词。
 
 作者：[@MyWestLord](https://x.com/MyWestLord) · [查看 X 原帖](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -465,14 +465,14 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 查看 X 原帖：[@MyWestLord](https://x.com/MyWestLord) · [查看 X 原帖](https://x.com/MyWestLord/status/2098109848118280487)
 
-**概括:** 翻译中
+**概括:** 生成酒店走廊 3D 场景的提示词。
 
 <img src="covers/2099588840419651890.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+创建酒店走廊场景
 ```
 
 [↑ 返回分类目录](#catalog)

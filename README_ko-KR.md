@@ -455,7 +455,7 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2099588840419651890"></a>
 
-### 번역 중
+### 호텔 복도 3D 장면을 생성하기 위한 프롬프트.
 
 작성자：[@MyWestLord](https://x.com/MyWestLord) · [원본 게시물](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 원본 게시물：[@MyWestLord](https://x.com/MyWestLord) · [원본 게시물](https://x.com/MyWestLord/status/2098109848118280487)
 
-**요약:** 번역 중
+**요약:** 호텔 복도 3D 장면을 생성하기 위한 프롬프트.
 
 <img src="covers/2099588840419651890.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+호텔 복도 장면 만들기
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

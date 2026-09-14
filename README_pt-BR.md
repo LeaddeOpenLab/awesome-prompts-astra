@@ -455,7 +455,7 @@ Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pát
 
 <a name="prompt-2099588840419651890"></a>
 
-### Tradução em andamento
+### Prompt para gerar uma cena 3D de corredor de hotel.
 
 Autor：[@MyWestLord](https://x.com/MyWestLord) · [Publicação original](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Renderização 3D · Publicado
 
 Publicação original：[@MyWestLord](https://x.com/MyWestLord) · [Publicação original](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para gerar uma cena 3D de corredor de hotel.
 
 <img src="covers/2099588840419651890.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+criar cena de corredor de hotel
 ```
 
 [↑ Voltar às categorias](#catalog)

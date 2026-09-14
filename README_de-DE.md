@@ -455,7 +455,7 @@ Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Sc
 
 <a name="prompt-2099588840419651890"></a>
 
-### Übersetzung läuft
+### Prompt zum Generieren einer 3D-Hotelkorridorszene.
 
 Autor：[@MyWestLord](https://x.com/MyWestLord) · [Originalbeitrag](https://x.com/MyWestLord/status/2099588840419651890)
 
@@ -463,14 +463,14 @@ Autor：[@MyWestLord](https://x.com/MyWestLord) · [Originalbeitrag](https://x.c
 
 Originalbeitrag：[@MyWestLord](https://x.com/MyWestLord) · [Originalbeitrag](https://x.com/MyWestLord/status/2098109848118280487)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zum Generieren einer 3D-Hotelkorridorszene.
 
 <img src="covers/2099588840419651890.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hotelkorridorszene erstellen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
