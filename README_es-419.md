@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**9** Prompts · Última incorporación: **2026-09-10**
+**10** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,30 @@ Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2099588840419651890"></a>
+
+### Traducción en curso
+
+Autor：[@MyWestLord](https://x.com/MyWestLord) · [Publicación original](https://x.com/MyWestLord/status/2099588840419651890)
+
+Renderizado 3D · Publicado
+
+Publicación original：[@MyWestLord](https://x.com/MyWestLord) · [Publicación original](https://x.com/MyWestLord/status/2098109848118280487)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099588840419651890.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097864183773618361"></a>
 

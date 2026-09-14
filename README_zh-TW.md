@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**9** 筆內容 · 最新收錄: **2026-09-10**
+**10** 筆內容 · 最新收錄: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,30 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2099588840419651890"></a>
+
+### 翻譯中
+
+作者：[@MyWestLord](https://x.com/MyWestLord) · [查看 X 原帖](https://x.com/MyWestLord/status/2099588840419651890)
+
+3D 渲染 · 已推流
+
+查看 X 原帖：[@MyWestLord](https://x.com/MyWestLord) · [查看 X 原帖](https://x.com/MyWestLord/status/2098109848118280487)
+
+**概括:** 翻譯中
+
+<img src="covers/2099588840419651890.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097864183773618361"></a>
 

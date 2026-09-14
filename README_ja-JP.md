@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**9** 件 · 最新の追加: **2026-09-10**
+**10** 件 · 最新の追加: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,30 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 <a name="category-3d-render"></a>
 
 ## 3D レンダリング
+
+<a name="prompt-2099588840419651890"></a>
+
+### 翻訳中
+
+作者：[@MyWestLord](https://x.com/MyWestLord) · [元の投稿](https://x.com/MyWestLord/status/2099588840419651890)
+
+3D レンダリング · 配信済み
+
+元の投稿：[@MyWestLord](https://x.com/MyWestLord) · [元の投稿](https://x.com/MyWestLord/status/2098109848118280487)
+
+**概要:** 翻訳中
+
+<img src="covers/2099588840419651890.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097864183773618361"></a>
 

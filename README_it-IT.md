@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**9** Prompt · Ultima aggiunta: **2026-09-10**
+**10** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,30 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2099588840419651890"></a>
+
+### Traduzione in corso
+
+Autore：[@MyWestLord](https://x.com/MyWestLord) · [Post originale](https://x.com/MyWestLord/status/2099588840419651890)
+
+Rendering 3D · Pubblicato
+
+Post originale：[@MyWestLord](https://x.com/MyWestLord) · [Post originale](https://x.com/MyWestLord/status/2098109848118280487)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099588840419651890.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097864183773618361"></a>
 

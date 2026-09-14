@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**9** Prompts · Latest addition: **2026-09-10**
+**10** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,30 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2099588840419651890"></a>
+
+### Prompt to generate a hotel corridor 3D scene.
+
+Author：[@MyWestLord](https://x.com/MyWestLord) · [Source](https://x.com/MyWestLord/status/2099588840419651890)
+
+3D Render · Published
+
+Source：[@MyWestLord](https://x.com/MyWestLord) · [Source](https://x.com/MyWestLord/status/2098109848118280487)
+
+**Summary:** Prompt to generate a hotel corridor 3D scene.
+
+<img src="covers/2099588840419651890.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+create hotel corridor scene
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097864183773618361"></a>
 
