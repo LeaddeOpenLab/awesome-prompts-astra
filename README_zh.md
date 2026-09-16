@@ -69,7 +69,9 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 查看 X 原帖：[@Chengzilhy](https://x.com/Chengzilhy) · [查看 X 原帖](https://x.com/Chengzilhy/status/2096456212246364322)
 
-**概括:** 基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。
+**概括（Prompt 原语言）：** 基于两张参考图（卡通角色与X个人主页UI）生成15秒定机位2D动画，角色从头像框爬出并撕除清扫原文字，随后手写个性标语占领主页。
+
+**English summary:** Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.
 
 <img src="covers/2096842636074312057.jpg" alt="图片 1" width="480" />
 
@@ -455,20 +457,20 @@ X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固
 
 <a name="prompt-2100136611166007364"></a>
 
-### 翻译中
+### 指示 AI 根据房间照片重建具有铰接运动的交互式 3D 场景的提示词。
 
 作者：[@walterzhu8](https://x.com/walterzhu8) · [查看 X 原帖](https://x.com/walterzhu8/status/2100136611166007364)
 
 摄影 · 3D 渲染 · 已推流
 
-**概括:** 翻译中
+**概括:** 指示 AI 根据房间照片重建具有铰接运动的交互式 3D 场景的提示词。
 
 <img src="covers/2100136611166007364.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+根据我提供的房间照片，使用 Blender MCP 构建一个交互式 3D 场景，并将其渲染成演示视频。包含铰接物体运动（铰链、门、抽屉），并使用合理的摄像机运镜来展示这些效果。
 ```
 
 [↑ 返回分类目录](#catalog)
