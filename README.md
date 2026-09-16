@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**11** Prompts · Latest addition: **2026-09-16**
+**12** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -61,7 +61,7 @@ Create a 24 frame storyboard image containing 24 screencaps from a potential Sei
 
 <a name="prompt-2096842636074312057"></a>
 
-### Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.
+### Generate a 15-second fixed-camera 2D animation based on two reference images \(cartoon character and X profile UI\), where the character climbs out of the avatar frame, peels and sweeps away original text, and handwrites a personalized slogan to claim the profile.
 
 Author：[@Chengzilhy](https://x.com/Chengzilhy) · [Source](https://x.com/Chengzilhy/status/2096842636074312057)
 
@@ -69,354 +69,354 @@ Profile / Avatar · App / Web Design · Photography · Illustration · Character
 
 Source：[@Chengzilhy](https://x.com/Chengzilhy) · [Source](https://x.com/Chengzilhy/status/2096456212246364322)
 
-**Summary:** Generates a 15-second static-camera 2D cartoon animation based on two reference images \(character and X profile UI\), where the character climbs out of the avatar circle, tears off and cleans up page text, and writes a custom slogan.
+**Summary:** Generate a 15-second fixed-camera 2D animation based on two reference images \(cartoon character and X profile UI\), where the character climbs out of the avatar frame, peels and sweeps away original text, and handwrites a personalized slogan to claim the profile.
 
 <img src="covers/2096842636074312057.jpg" alt="Image 1" width="480" />
 
 **Prompt**
 
 ```text
-【参考图定义】
-Image1＝李韭二卡通角色｜唯一角色参考
+【Reference Image Definitions】
+Image1 = Li Jiu'er Cartoon Character | Sole Character Reference
 
-Image1 是整段视频中唯一且最高优先级的人物身份、脸部、发型、服装与画风参考。
+Image1 is the sole and highest-priority reference for character identity, face, hairstyle, clothing, and art style throughout the entire video.
 
-全程严格保持 Image1 中李韭二的：
+Strictly maintain across the entire duration the following of Li Jiu'er from Image1:
 
-可辨识脸部特征
-五官比例
-短发
-黑框眼镜
-深色短袖上衣
-深色长裤
-黑色鞋子
-扁平简洁的卡通插画质感
-理性、轻松、带一点幽默感的气质
+Identifiable facial features
+Facial proportions
+Short hair
+Black-framed glasses
+Dark short-sleeved top
+Dark long pants
+Black shoes
+Flat, clean cartoon illustration texture
+Rational, relaxed temperament with a touch of humor
 
-禁止：
+Forbidden:
 
-真人化
-3D化
-别人化
-改发型
-改服装
-改画风
-Image2＝X个人主页截图｜唯一背景与布局参考
+Photorealism/live-action
+3D rendering
+Transforming into another person
+Changing hairstyle
+Changing clothing
+Changing art style
+Image2 = X Profile Page Screenshot | Sole Background and Layout Reference
 
-Image2 是整段视频唯一的背景、UI、版式与构图参考。
+Image2 is the sole reference for background, UI, typesetting, and composition throughout the entire video.
 
-严格保持 Image2 中的：
+Strictly maintain from Image2:
 
-顶部横幅图片
-头像圆框的位置
-白色 UI 背景
-所有按钮
-图标
-页面结构
-留白
-颜色
-比例
+Top banner image
+Avatar circle frame position
+White UI background
+All buttons
+Icons
+Page structure
+Whitespace
+Colors
+Proportions
 
-整段视频里，相机完全固定。
+Throughout the entire video, the camera remains completely static.
 
-X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固定，页面四边始终与视频画框平行。
+The X profile page remains strictly frontal, horizontal, and full-screen fixed from the first frame to the last frame, with its four edges always parallel to the video frame.
 
-禁止对整个页面做任何：
+Forbidden to apply to the entire page any:
 
-缩放
-平移
-旋转
-倾斜
-透视变化
-重构
+Scaling
+Pan/translation
+Rotation
+Tilting
+Perspective shifts
+Restructuring
 
-禁止整个主页向左或向右倾斜。
- 禁止页面缩小后露出新的外部灰色背景。
-除指定表演外，UI 和背景不得改变。
+Forbidden to tilt the entire page left or right.
+Forbidden to shrink the page to reveal a new external grey background.
+UI and background must not change except for the specified performance.
 
-【整体要求】
+【Overall Requirements】
 
-生成一段 15 秒、9:16 竖屏、固定机位、2D卡通动画感 的短视频。
+Generate a 15-second, 9:16 vertical, fixed-camera, 2D cartoon animation short video.
 
-整段视频中：
+Throughout the entire video:
 
-背景始终是 Image2 的 X 主页截图
+The background is always the X profile page screenshot of Image2
 
-动起来的只有角色与被操作的文字
-角色一开始位于头像圆框内
-角色形象必须替换为 Image1 的李韭二卡通形象
-头像圆框位置和页面本身始终不变
-整体节奏轻快、清晰、带一点喜剧感
-无对白
-无旁白
-无对话气泡
-无额外字幕
-不新增无关人物
-不新增无关 logo
-不新增无关文字
-【时间轴动作设计】
-【0.0～2.3 秒】
-整个 X 页面保持完全固定。
+The only moving elements are the character and the manipulated text
+The character starts inside the avatar circular frame
+The character appearance must be replaced with the Image1 Li Jiu'er cartoon figure
+The avatar circle frame position and the page itself remain unchanged throughout
+Overall pacing is brisk, clear, with a slight comedic touch
+No dialogue
+No voiceover
+No speech bubbles
+No extra subtitles
+No unrelated characters added
+No unrelated logos added
+No unrelated text added
+【Timeline Action Design】
+【0.0–2.3 s】
+The entire X page remains completely stationary.
 
-只有头像圆框内部开始动起来。
+Only the interior of the avatar circular frame begins to animate.
 
-圆框里的李韭二先轻微眨眼，表情自然平静。
+Li Jiu'er inside the circular frame first blinks gently with a natural, calm expression.
 
-然后微微转眼看看四周页面，抬手轻轻推一下眼镜。
+Then he glances around the surrounding page slightly and raises his hand to lightly adjust his glasses.
 
-接着低头看一眼页面上的文字内容，像是在观察这个主页，最后再看向镜头，嘴角露出一点“我有主意了”的淡淡笑意。
+Next, he looks down at the text content on the page as if observing the profile, and finally looks toward the camera, a subtle "I've got an idea" smile appearing at the corners of his mouth.
 
-动作自然、克制、利落。
+Actions are natural, restrained, and crisp.
 
-不要夸张变形。
+No exaggerated deformations.
 
-不要大幅摆动。
+No large swings.
 
-【2.3～4.0 秒】
+【2.3–4.0 s】
 
-李韭二双手扶住头像圆框边缘，把头像圆框当作一个小入口，从里面自然地钻出来。
+Li Jiu'er grips the rim of the avatar circular frame with both hands, treating the circle frame as a small portal, and climbs out naturally.
 
-动作顺序清楚表现为：
+The action sequence is clearly shown as:
 
-双手扶住圆框
+Both hands hold the circular frame
 
-上半身先探出来
-一只脚先跨出来
-另一只脚再跟出来
-他自然地从头像中出来
-最后来到 X 页面下方的白色留白区域上
-落地时角色动作要自然轻巧，手臂、身体和眼镜有轻微自然跟随动作。
+Upper body peeks out first
+One leg steps out first
+The other leg follows
+He climbs out of the avatar naturally
+Finally lands on the white blank area below on the X page
+Upon landing, character movement is natural and nimble, with arms, body, and glasses exhibiting slight natural secondary motion.
 
-只有角色从头像中出来。
+Only the character emerges from the avatar.
 
-头像圆框本身仍保留在原位，不变形、不消失。
+The avatar circular frame itself remains in place, undeformed and not disappearing.
 
-页面本身不能发生任何结构变化。
+The page itself must not undergo any structural changes.
 
-整个过程中，X 个人主页始终保持正面、水平、全屏固定，不允许向左或向右倾斜，不产生透视变化。
+Throughout the entire process, the X profile page remains frontal, horizontal, and full-screen fixed, never tilting left or right, with no perspective distortion.
 
-【4.0～7.6 秒】
+【4.0–7.6 s】
 
-李韭二落地后左右看看，发现页面上有很多文字，立刻露出“开始整理一下”的轻松表情。
+After landing, Li Jiu'er looks left and right, notices abundant text across the page, and immediately displays a relaxed expression of "time to tidy up."
 
-他开始把页面中的文字一段一段撕下来。
+He begins peeling off the text from the page section by section.
 
-可操作对象为页面内所有 可读文字 / 字母 / 数字，例如：
+Manipulable targets are all readable text / letters / numbers within the page, such as:
 
-个人主页名称
+Profile display name
 
-用户ID
-简介文字
-加入时间
-关注数
-粉丝数
-按钮里的文字
-帖子内容文字
-其他 readable text / letters / numbers
-只撕 3 次，动作明确、节奏利落：
+User ID
+Bio text
+Join date
+Following count
+Follower count
+Button text
+Post content text
+Other readable text / letters / numbers
+Peeled only 3 times, with distinct action and crisp tempo:
 
-第 1 次
+1st time
 
-他走到页面名字区域附近，用两根手指捏住一整段文字，像撕贴纸一样清楚地把文字从页面表面撕下来。
+He walks near the profile name area, pinches an entire section of text with two fingers, and cleanly peels the text off the page surface like peeling a sticker.
 
-撕下来的文字在他手里立刻变成一张小小的便签卡片。
+The peeled-off text instantly turns into a small sticky note card in his hand.
 
-他用两根手指夹住卡片，像弹扑克牌一样，把卡片朝镜头方向利落地弹出去。
+He pinches the card between two fingers and snaps/flicks it briskly toward the camera, like flicking a playing card.
 
-卡片从前景掠过并飞出画面。
+The card sweeps across the foreground and flies out of frame.
 
-对应原文字位置立刻变成白色空白。
+The corresponding original text position instantly turns into blank white space.
 
-第 2 次
+2nd time
 
-他撕下一段简介文字。
+He peels off a section of bio text.
 
-这次动作更熟练，边走边让撕下来的文字变成便签卡片。
+This time his movement is more practiced, turning the peeled text into a sticky note card while walking.
 
-然后干脆地朝镜头另一侧弹出去。
+Then he cleanly flicks it toward the other side of the camera.
 
-卡片从画面前景飞过。
+The card flies past the foreground of the frame.
 
-对应位置的文字同步消失，只留下空白。
+The text at the corresponding position vanishes simultaneously, leaving only white space.
 
-第 3 次
+3rd time
 
-他撕下帖子区域较大的一块文字。
+He peels off a larger block of text in the post section.
 
-这块文字稍微大一些，会变成稍大一点的便签卡片。
+This text block is somewhat bigger and transforms into a slightly larger sticky note card.
 
-他先做一个“准备弹出去”的小动作，再突然朝镜头方向弹过来。
+He first makes a small "preparing to flick" motion, then suddenly flicks it toward the camera.
 
-卡片快速朝镜头放大，然后飞出画面。
+The card rapidly zooms toward the camera and flies out of frame.
 
-对应原文字区域彻底变成白色空白。
+The corresponding original text area completely turns into blank white space.
 
-第 3 次弹完之后，他满意地轻轻拍一下手。
+After the 3rd flick, he lightly claps his hands in satisfaction.
 
-重要要求
+Important requirements
 
-文字必须像纸贴一样被掀起、撕下
-不能直接消失
-便签卡片必须由撕下来的文字变成
-每弹走一张便签卡片，对应原文字位置必须真实留白
-便签卡片不要大到遮挡全画面
-只允许去除文字
-以下元素必须保留：
+Text must be lifted and peeled off like paper stickers
+Must not directly disappear into thin air
+Sticky note cards must transform from the peeled text
+With each card flicked away, the original text position must genuinely become blank
+Cards must not be so large as to obscure the entire screen
+Only text is permitted to be removed
+The following elements must be preserved:
 
-顶部横幅插画
+Top banner illustration
 
-头像圆框
-图片区域
-所有图形图标
-按钮外框
-分割线
-缩略图
-其他非文字视觉元素
-【7.6～10.4 秒】
-他看了一圈页面，发现还有许多残余文字。
+Avatar circular frame
+Image areas
+All graphic icons
+Button outlines
+Divider lines
+Thumbnails
+Other non-text visual elements
+【7.6–10.4 s】
+He looks around the page and realizes there is still plenty of residual text left.
 
-脸上的轻松表情稍微收住，露出一点“剩下的还是有点多”的表情。
+The relaxed expression on his face subsides slightly, showing a subtle "there's still a bit too much left" expression.
 
-他从身后拿出一个 简单的滚筒 / 刮板 / 白板擦。
+From behind his back, he pulls out a simple roller / squeegee / whiteboard eraser.
 
-接着进行 3 次轻快清屏动作：
+He then performs 3 brisk screen-clearing strokes:
 
-第 1 下
+1st stroke
 
-从页面上方横向一刮。
+A horizontal sweep across the upper area of the page.
 
-一整排残余文字像薄薄的纸片一样被带走。
+An entire row of residual text is wiped away like thin sheets of paper.
 
-第 2 下
+2nd stroke
 
-从页面中部向下斜刮。
+A downward diagonal sweep across the middle of the page.
 
-剩余文字继续被聚拢，往页面一侧堆积。
+Remaining text is further gathered and pushed toward one side of the page.
 
-第 3 下
+3rd stroke
 
-朝页面右下方做一次干脆的收尾清理。
+A crisp finishing clean-up stroke toward the bottom right of the page.
 
-最后一堆残余文字整体被清出画面。
+The final cluster of residual text is swept entirely off the screen.
 
-清理完成后，他轻轻收一下工具，像是满意地收尾。
+Once cleaning is complete, he lightly puts the tool away, looking like a satisfied wrap-up.
 
-重要要求
+Important requirements
 
-只有被滚筒 / 刮板 / 白板擦碰到的文字才会消失
-文字必须随着工具动作被聚拢、被清走
-不能突然无缘无故消失
-工具只能在便签卡片动作结束后才出现
-工具只有一个，不能增殖
-清理完之后，页面中的旧文字必须全部清空。
+Only text touched by the roller / squeegee / whiteboard eraser will disappear
+Text must be gathered and swept away following the tool's movement
+Must not disappear suddenly without cause
+The tool can only appear after the sticky note card actions have ended
+There is only one single tool; it must not duplicate
+After cleaning, old text on the page must be entirely wiped clear.
 
-页面上只剩：
+The page retains only:
 
-背景图片
+Background images
 
-UI 图形图标
-按钮轮廓
-图片元素
-大面积干净白色留白
-清理过程中，整个 X 页面本身绝对不移动、不倾斜、不旋转。
+UI graphic icons
+Button contours
+Image elements
+Large areas of clean white negative space
+During the cleaning process, the entire X page itself strictly does not move, tilt, or rotate.
 
-【10.4～13.7 秒】
+【10.4–13.7 s】
 
-他把工具轻轻放到一边，低头从身上拿出一支 粗黑色马克笔。
+He puts the tool gently aside, reaches down, and takes out a thick black marker.
 
-他“啪”地打开笔帽，转身面对清空后的大面积白色留白区域。
+He pops the pen cap off with a "click" and turns to face the cleared, vast white space.
 
-然后 由李韭二这个动画人物自己亲手写字。
+Then the animation character Li Jiu'er writes the characters with his own hands.
 
-他用粗黑色手写马克笔，在页面中央到下方的大面积空白区域里，分两行写下：
+Using the thick black handwritten marker, in the large blank area from the center to the bottom of the page, he writes in two lines:
 
 这里归李韭二了！
 
 欢迎来聊 AI
 
-这两句文字必须清楚、准确、完整显示。
+These two lines of text must be displayed clearly, accurately, and completely.
 
-不得错字。
+No typos.
 
-不得漏字。
+No omitted characters.
 
-不得乱码。
+No garbled text.
 
-不得替换成别的句子。
+No replacing with other sentences.
 
-不得增加任何其他新文字。
+No adding any other new text.
 
-文字样式要求：
+Text style requirements:
 
-黑色
+Black
 
-粗马克笔手写感
-一笔一笔自然写出
-足够大
-清晰易读
-占据画面明显位置
-书写过程必须能清楚看见笔尖推进，字是被一笔一笔写出来的，不是瞬间出现的。
+Thick marker handwritten texture
+Written out stroke by stroke naturally
+Sufficiently large
+Clear and easily readable
+Occupying a prominent position in the frame
+The writing process must clearly show the pen tip advancing; characters are penned stroke by stroke, not popping up instantaneously.
 
-写字的人必须是李韭二本人。
- 写字的手必须是角色自己的手。
- 禁止任何画外手、悬空手、真实手。
+The person writing must be Li Jiu'er himself.
+The writing hand must be the character's own hand.
+Forbidden to have any off-screen hands, floating hands, or real human hands.
 
-【13.7～15.0 秒】
-写完后，他把马克笔盖重新盖上。
-先后退一小步，满意地看一眼自己的“杰作”。
+【13.7–15.0 s】
+After finishing, he puts the cap back on the marker.
+Steps back a small step, looking at his "masterpiece" with satisfaction.
 
-然后他一只手自然拿着马克笔，微微侧身。
+Then holding the marker naturally in one hand, he angles his body slightly.
 
-接着转头看向镜头，轻轻推一下眼镜，露出一个淡淡的、轻松的、带一点掌控感的微笑。
+He then turns his head toward the camera, pushes up his glasses gently, and shows a subtle, relaxed smile with a touch of mastery.
 
-不是夸张大笑，而是自然、轻松、写完之后很满意的表情。
+Not an exaggerated laugh, but a natural, relaxed expression of deep satisfaction after writing.
 
-最后约 0.7 秒静止定格。
+The final ~0.7 seconds is a static freeze-frame.
 
-定格画面中必须同时清楚看到：
+The frozen frame must clearly show simultaneously:
 
-页面上的两行大字：
+The two large lines of text on the page:
  这里归李韭二了！
  欢迎来聊 AI
 
-看向镜头、轻推眼镜、淡淡微笑的李韭二
+Li Jiu'er looking toward the camera, lightly adjusting his glasses, with a faint smile
 
-被清空文字后的 X 页面背景
+The X page background with all previous text cleared
 
-【强制约束】
-只使用 Image1 和 Image2 两张参考图
-Image1 是唯一角色参考
-Image2 是唯一背景 / UI / 布局参考
-摄影机全程完全固定
-X 个人主页从第一帧到最后一帧始终保持正面、水平、全屏固定
-页面四边始终与视频画框平行
-禁止整个主页向左或向右倾斜
-禁止页面缩小后露出新的外部灰色背景
-不改变原截图构图、顶部横幅、UI位置
-不提前删除文字
-前半段必须是“撕文字 → 变便签卡片 → 朝镜头弹出”
-中段必须用滚筒 / 刮板 / 白板擦清理剩余文字
-工具必须在便签卡片动作结束后才出现
-清扫完成后再拿出马克笔
-旧文字最后必须全部消失
-只删除文字，不删除图片、图标、按钮、边框、线条等非文字元素
-最终页面上只保留新写的两行文字：
+【Mandatory Constraints】
+Use only the two reference images, Image1 and Image2
+Image1 is the sole character reference
+Image2 is the sole background / UI / layout reference
+Camera remains completely static throughout
+The X profile page remains frontal, horizontal, and full-screen fixed from the first to the last frame
+Four sides of the page remain parallel to the video frame at all times
+Forbidden to tilt the entire page left or right
+Forbidden to shrink the page to expose a new external grey background
+Do not alter original screenshot composition, top banner, or UI positions
+Do not delete text prematurely
+The first half must be "peel text → turn into sticky note card → flick toward camera"
+The middle section must use a roller / squeegee / whiteboard eraser to clear remaining text
+The tool must only appear after sticky note card actions are completed
+Pull out the marker only after sweeping is completed
+All old text must ultimately disappear completely
+Only remove text; do not remove non-text elements such as images, icons, buttons, borders, lines
+The final page only retains the newly written two lines of text:
  这里归李韭二了！
  欢迎来聊 AI
-保持 Image1 角色的脸、眼镜、发型、服装、画风和插画质感
-不得真人化
-不得3D化
-不得变成别人
-不得增加多余人物
-不得增加多余手臂、手指或腿
-不得让工具或马克笔重复生成
-不得出现画外手帮忙写字
-必须是动画人物自己写字
-不得生成新的 logo 或无关文字
-禁止乱码
-无对白
-无旁白
-无对话气泡
+Maintain Image1 character's face, glasses, hairstyle, clothing, art style, and illustration texture
+Must not be photorealistic
+Must not be 3D
+Must not become someone else
+Must not add extra characters
+Must not add extra arms, fingers, or legs
+Must not duplicate the tool or marker
+Must not have off-screen hands assisting with writing
+Must be the animated character writing by himself
+Must not generate new logos or unrelated text
+No garbled characters
+No dialogue
+No voiceover
+No speech bubbles
 ```
 
 [↑ Back to categories](#catalog)
@@ -452,6 +452,28 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2100136611166007364"></a>
+
+### Prompt instructing an AI to reconstruct an interactive 3D scene with articulated motions from a room photo.
+
+Author：[@walterzhu8](https://x.com/walterzhu8) · [Source](https://x.com/walterzhu8/status/2100136611166007364)
+
+Photography · 3D Render · Published
+
+**Summary:** Prompt instructing an AI to reconstruct an interactive 3D scene with articulated motions from a room photo.
+
+<img src="covers/2100136611166007364.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Given the room photo I provided, use Blender MCP to build an interactive 3D scene and render it into a demo video. Include articulated object motion (hinges, doors, drawers) and use sensible camera moves to show these effects.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100028214659932570"></a>
 
