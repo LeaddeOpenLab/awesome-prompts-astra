@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T02:23:53.987Z",
+  "model": "astra",
+  "prompt": "使用 frontend-design，根据房间图片和已核对的布局创建 Three.js 网页。\n风格为温暖的微缩房间，米白和木色，中文控制面板简洁。\n用简单几何体制作床、书桌、衣柜和门窗，不依赖外部 3D 模型。\n只做拖动旋转、滚轮缩放、两套配色切换和重置视角。\n保持已确认的布局，未给出的高度或材质列为假设。\n创建完成后实际启动本地页面，检查交互，保留首版。\n有问题就依据真实截图或报错修复。",
+  "promptTranslations": {
+    "en": "Use frontend-design to create a Three.js webpage based on the room images and the verified layout. The style is a warm miniature room in off-white and wood tones, with a clean Chinese control panel. Use simple geometries to create the bed, desk, wardrobe, doors, and windows, without relying on external 3D models. Implement only drag-to-rotate, scroll-to-zoom, switching between two color schemes, and resetting the view. Maintain the confirmed layout, listing unspecified heights or materials as assumptions. After creation is complete, actually launch the local page, check interactions, and retain the first version. If there are issues, fix them based on actual screenshots or error logs."
+  },
+  "summaryTranslations": {
+    "en": "Guide the generation of an interactive 3D Three.js miniature room webpage via prompts, including color scheme switching and basic view interactions."
+  },
+  "translationVersion": 2,
+  "summary": "通过提示词引导生成微缩房间的 Three.js 3D 交互页面，含配色切换与基础视角交互。",
+  "summaryEn": "Prompt to generate an interactive 3D Three.js miniature room webpage with color-scheme toggling and basic camera controls.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100028214659932570",
+    "canonicalUrl": "https://x.com/wangdefou/status/2100028214659932570",
+    "author": {
+      "username": "wangdefou",
+      "displayName": "得否",
+      "profileUrl": "https://x.com/wangdefou"
+    },
+    "publishedAt": "2026-09-16T01:05:17.000Z",
+    "collectedAt": "2026-09-16T02:19:39.795Z",
+    "language": "zh",
+    "originalText": "一个小 LAB 的 397B 大模型，也可以对标头部大厂最先进的模型 GPT-6 Astra ! 是的, 你没有听错!!!\n\n这个性能强劲的小刚炮，就是上海创智学院正式发布的新一代能动性模型系列中的 Nex-N2.5 Pro。\n\n官方主打视觉理解、Computer Use 和长程操作。我这次把它接进 WorkBuddy，搭配 Frontend Design，做了一次从平面布局到 3D 网页的能力测试。\n\n任务是一间 4m * 3m 的模拟房间。先生成平面图，再根据图片创建能在浏览器里操作的微缩房间。\n\n视频就是这次重新用 Nex-N2.5 Pro 跑出来的成果，全程使用这一个模型。床、书桌、衣柜和门窗都做了出来，可以拖动旋转、拉近看细节，还能在米白原木和暖棕胡桃两套配色之间切换。\n\n这次主要看它能否处理房间的空间关系，并把需求落实成可交互的网页。下面把这套测试的教程提示词放出来，按顺序发送即可。\n\n先在OpenRouter 中申请API key 添加到WorkBuddy 同时添加模型名称 nex-agi/nex-n2.5-pro:free，加载skill: Frontend Design。然后进行如下prompt交互即可:\n\n1. 生成房间平面图\n为一个虚构房间生成 SVG 平面图，并渲染成 PNG。\n房间东西 4 米、南北 3 米，北向在图上方。\n北侧窗户，东南角房门，西侧床，北侧书桌，东侧衣柜。\n用简单矩形和中文标签表达布局，家具不要重叠。\n标注“模拟布局”和米制尺寸，保留 SVG 和 PNG。\n先检查图片中的文字和空间关系，暂不创建 3D 页面。\n\n2. 读取图片，核对空间关系\n先读取附带的 PNG，不写网页。\n列出房间尺寸、北向、门窗和三件家具的位置。\n把图片明确给出的信息与未给出的假设分开。\n看不清的内容直接说不确定。\n\n3. 根据图片生成 3D 交互网页\n使用 frontend-design，根据房间图片和已核对的布局创建 Three.js 网页。\n风格为温暖的微缩房间，米白和木色，中文控制面板简洁。\n用简单几何体制作床、书桌、衣柜和门窗，不依赖外部 3D 模型。\n只做拖动旋转、滚轮缩放、两套配色切换和重置视角。\n保持已确认的布局，未给出的高度或材质列为假设。\n创建完成后实际启动本地页面，检查交互，保留首版。\n有问题就依据真实截图或报错修复。\n\n4. 检查实际页面，有问题再修复\n请对照当前真实页面与原始 PNG 检查布局、标签和交互。\n有浏览器工具就取得当前截图并实际操作；否则根据我附的截图和操作记录检查，把无法判断的交互标为待人工验证。列出有依据的问题。确有问题才做最小修复，保留原有布局与已经通过的功能，不人为制造故障。\n修复后再次打开检查，保存证据与实际改动清单。\n若全部通过，直接报告通过，不做无必要改写。\n我复核通过后，保存可复现的源文件快照到 versions/v1-accepted，排除 node_modules 和快照目录自身，并输出本地启动方法。\n\n想用自己的房间来测，把第一步里的尺寸、家具和门窗位置换掉就行。每一步先看实际输出，再发下一条提示词。\nNex-N2.5 Pro 的 OpenRouter 限时免费 API 入口：\nhttps://t.co/jshsQZh0ql",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/wangdefou/status/2100028214659932570",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100028039342202880/img/qrdschIP4MPbOGgu.jpg",
+        "analysisUrl": "https://x.com/wangdefou/status/2100028214659932570"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 2,
+      "replyCount": 5,
+      "quoteCount": 0,
+      "viewCount": 485
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/wangdefou/status/2100028214659932570",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100028039342202880/img/qrdschIP4MPbOGgu.jpg",
+  "coverPath": "covers/2100028214659932570.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100028039342202880",
+    "x-post:2100028214659932570"
+  ],
+  "analysis": {
+    "summary": "通过提示词引导生成微缩房间的 Three.js 3D 交互页面，含配色切换与基础视角交互。",
+    "summaryEn": "Prompt to generate an interactive 3D Three.js miniature room webpage with color-scheme toggling and basic camera controls.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频展示了利用 Three.js 构建的微缩房间，包括床、书桌、衣柜、门窗、旋转缩放操作以及两套配色的实时切换，与提示词要求高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "使用 frontend-design，根据房间图片和已核对的布局创建 Three.js 网页。\n风格为温暖的微缩房间，米白和木色，中文控制面板简洁。\n用简单几何体制作床、书桌、衣柜和门窗，不依赖外部 3D 模型。\n只做拖动旋转、滚轮缩放、两套配色切换和重置视角。\n保持已确认的布局，未给出的高度或材质列为假设。\n创建完成后实际启动本地页面，检查交互，保留首版。\n有问题就依据真实截图或报错修复。",
+    "sourceRange": {
+      "start": 797,
+      "end": 994
+    },
+    "translations": {
+      "zh": "使用 frontend-design，根据房间图片和已核对的布局创建 Three.js 网页。风格为温暖的微缩房间，米白和木色，中文控制面板简洁。用简单几何体制作床、书桌、衣柜和门窗，不依赖外部 3D 模型。只做拖动旋转、滚轮缩放、两套配色切换和重置视角。保持已确认的布局，未给出的高度或材质列为假设。创建完成后实际启动本地页面，检查交互，保留首版。有问题就依据真实截图或报错修复。",
+      "en": "Use frontend-design to create a Three.js webpage based on the room image and verified layout. Style as a warm miniature room in off-white and wood tones, with a clean Chinese control panel. Build the bed, desk, wardrobe, doors, and windows using simple geometries without external 3D models. Include drag-to-rotate, scroll zoom, two color-scheme toggles, and view reset. Maintain the confirmed layout and assume unstated heights or textures. Launch locally to check interactivity and fix issues based on screenshots or errors."
+    },
+    "targetModels": [
+      "astra"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D 交互微缩房间建模",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
