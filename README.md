@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**10** Prompts · Latest addition: **2026-09-14**
+**11** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,28 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2100028214659932570"></a>
+
+### Guide the generation of an interactive 3D Three.js miniature room webpage via prompts, including color scheme switching and basic view interactions.
+
+Author：[@wangdefou](https://x.com/wangdefou) · [Source](https://x.com/wangdefou/status/2100028214659932570)
+
+Photography · 3D Render · Published
+
+**Summary:** Guide the generation of an interactive 3D Three.js miniature room webpage via prompts, including color scheme switching and basic view interactions.
+
+<img src="covers/2100028214659932570.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use frontend-design to create a Three.js webpage based on the room images and the verified layout. The style is a warm miniature room in off-white and wood tones, with a clean Chinese control panel. Use simple geometries to create the bed, desk, wardrobe, doors, and windows, without relying on external 3D models. Implement only drag-to-rotate, scroll-to-zoom, switching between two color schemes, and resetting the view. Maintain the confirmed layout, listing unspecified heights or materials as assumptions. After creation is complete, actually launch the local page, check interactions, and retain the first version. If there are issues, fix them based on actual screenshots or error logs.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099588840419651890"></a>
 
