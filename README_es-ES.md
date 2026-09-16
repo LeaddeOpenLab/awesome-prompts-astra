@@ -455,20 +455,26 @@ Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio
 
 <a name="prompt-2100028214659932570"></a>
 
-### Traducción en curso
+### Generación guiada por prompts de una página interactiva 3D en Three.js de una habitación en miniatura, con cambio de esquema de color e interacción básica de perspectiva.
 
 Autor：[@wangdefou](https://x.com/wangdefou) · [Publicación original](https://x.com/wangdefou/status/2100028214659932570)
 
 Fotografía · Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Generación guiada por prompts de una página interactiva 3D en Three.js de una habitación en miniatura, con cambio de esquema de color e interacción básica de perspectiva.
 
 <img src="covers/2100028214659932570.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Usa frontend-design para crear una página web con Three.js basada en la imagen de la habitación y el diseño verificado.
+El estilo debe ser una habitación en miniatura cálida, en tonos blanco roto y madera, con un panel de control conciso en chino.
+Utiliza geometrías simples para modelar la cama, el escritorio, el armario, las puertas y las ventanas, sin depender de modelos 3D externos.
+Implementa únicamente rotación por arrastre, zoom con la rueda del ratón, cambio entre dos combinaciones de colores y reinicio de la vista.
+Mantén el diseño confirmado; enumera como suposiciones cualquier altura o material no especificado.
+Una vez creada, inicia la página en local para comprobar las interacciones y conserva la primera versión.
+Si surge algún problema, corrígelo a partir de capturas de pantalla reales o mensajes de error.
 ```
 
 [↑ Volver a categorías](#catalog)

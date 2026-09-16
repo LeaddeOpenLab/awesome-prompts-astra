@@ -455,20 +455,26 @@ Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Sc
 
 <a name="prompt-2100028214659932570"></a>
 
-### Übersetzung läuft
+### Prompt-gestützte Generierung einer interaktiven Three.js-3D-Webseite eines Miniaturraums mit Farbschema-Umschaltung und grundlegender Perspektivinteraktion.
 
 Autor：[@wangdefou](https://x.com/wangdefou) · [Originalbeitrag](https://x.com/wangdefou/status/2100028214659932570)
 
 Fotografie · 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-gestützte Generierung einer interaktiven Three.js-3D-Webseite eines Miniaturraums mit Farbschema-Umschaltung und grundlegender Perspektivinteraktion.
 
 <img src="covers/2100028214659932570.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende frontend-design, um basierend auf dem Raumbild und dem geprüften Layout eine Three.js-Webseite zu erstellen.
+Der Stil ist ein warmer Miniaturraum in Off-White- und Holztönen mit einem schlichten chinesischen Bedienfeld.
+Verwende einfache Geometrien, um Bett, Schreibtisch, Kleiderschrank sowie Türen und Fenster zu erstellen, ohne auf externe 3D-Modelle zurückzugreifen.
+Implementiere lediglich Drehen durch Ziehen, Scroll-Zoom, das Umschalten zwischen zwei Farbschemata und das Zurücksetzen der Perspektive.
+Behalte das bestätigte Layout bei; nicht angegebene Höhen oder Materialien sind als Annahmen aufzuführen.
+Starte nach der Erstellung die Seite lokal, überprüfe die Interaktionen und behalte die Erstversion bei.
+Behebe etwaige Probleme auf Grundlage echter Screenshots oder Fehlermeldungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

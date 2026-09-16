@@ -455,20 +455,26 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 
 <a name="prompt-2100028214659932570"></a>
 
-### Traduzione in corso
+### Generazione guidata da prompt di una pagina interattiva 3D in Three.js di una stanza in miniatura, con cambio di schema colori e interazione di base con la visuale.
 
 Autore：[@wangdefou](https://x.com/wangdefou) · [Post originale](https://x.com/wangdefou/status/2100028214659932570)
 
 Fotografia · Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Generazione guidata da prompt di una pagina interattiva 3D in Three.js di una stanza in miniatura, con cambio di schema colori e interazione di base con la visuale.
 
 <img src="covers/2100028214659932570.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa frontend-design per creare una pagina web Three.js basata sull'immagine della stanza e sul layout verificato.
+Lo stile è una stanza in miniatura accogliente, nei toni del bianco sporco e del legno, con un pannello di controllo conciso in cinese.
+Usa geometrie semplici per creare letto, scrivania, guardaroba, porte e finestre, senza dipendere da modelli 3D esterni.
+Realizza solo la rotazione tramite trascinamento, lo zoom con la rotellina, il passaggio tra due schemi di colori e il ripristino della visuale.
+Mantieni il layout confermato; elenca come ipotesi eventuali altezze o materiali non specificati.
+Una volta completata la creazione, avvia effettivamente la pagina in locale, controlla le interazioni e conserva la prima versione.
+In caso di problemi, correggili in base a screenshot reali o messaggi di errore.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -455,20 +455,26 @@ Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pát
 
 <a name="prompt-2100028214659932570"></a>
 
-### Tradução em andamento
+### Geração guiada por prompt de página interativa 3D em Three.js de um quarto em miniatura, com troca de esquema de cores e interação básica de perspectiva.
 
 Autor：[@wangdefou](https://x.com/wangdefou) · [Publicação original](https://x.com/wangdefou/status/2100028214659932570)
 
 Fotografia · Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Geração guiada por prompt de página interativa 3D em Three.js de um quarto em miniatura, com troca de esquema de cores e interação básica de perspectiva.
 
 <img src="covers/2100028214659932570.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Use frontend-design para criar uma página web em Three.js com base na imagem do cômodo e no layout verificado.
+O estilo é um quarto em miniatura aconchegante, em tons de off-white e madeira, com um painel de controle conciso em chinês.
+Use geometrias simples para criar cama, escrivaninha, guarda-roupa, portas e janelas, sem depender de modelos 3D externos.
+Implemente apenas rotação por arrasto, zoom com a roda do mouse, alternância entre dois esquemas de cores e redefinição de perspectiva.
+Mantenha o layout confirmado; liste como suposições quaisquer alturas ou materiais não fornecidos.
+Após a criação, execute a página localmente para verificar a interação e preserve a primeira versão.
+Se houver problemas, faça as correções com base em capturas de tela reais ou mensagens de erro.
 ```
 
 [↑ Voltar às categorias](#catalog)

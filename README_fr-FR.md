@@ -455,20 +455,26 @@ Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se 
 
 <a name="prompt-2100028214659932570"></a>
 
-### Traduction en cours
+### Génération guidée par prompt d'une page interactive 3D Three.js d'une pièce miniature, comprenant le changement de palette de couleurs et l'interaction de base sur la vue.
 
 Auteur：[@wangdefou](https://x.com/wangdefou) · [Publication originale](https://x.com/wangdefou/status/2100028214659932570)
 
 Photographie · Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Génération guidée par prompt d'une page interactive 3D Three.js d'une pièce miniature, comprenant le changement de palette de couleurs et l'interaction de base sur la vue.
 
 <img src="covers/2100028214659932570.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez frontend-design pour créer une page web Three.js à partir de l'image de la pièce et de la disposition vérifiée.
+Le style doit être une pièce miniature chaleureuse, dans des tons blanc cassé et bois, avec un panneau de commande en chinois concis.
+Utilisez des formes géométriques simples pour créer le lit, le bureau, l'armoire, les portes et les fenêtres, sans dépendre de modèles 3D externes.
+N'intégrez que la rotation par glisser, le zoom à la molette, le basculement entre deux palettes de couleurs et la réinitialisation de la vue.
+Conservez la disposition confirmée ; listez sous forme d'hypothèses les hauteurs ou matériaux non précisés.
+Une fois la création terminée, lancez réellement la page en local pour vérifier les interactions et conservez la première version.
+En cas de problème, corrigez-le en vous basant sur des captures d'écran réelles ou des messages d'erreur.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -455,20 +455,26 @@ Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 3
 
 <a name="prompt-2100028214659932570"></a>
 
-### Đang dịch
+### Tạo trang web tương tác 3D Three.js mô phỏng căn phòng thu nhỏ qua câu lệnh nhắc, bao gồm chuyển đổi bảng màu và tương tác góc nhìn cơ bản.
 
 Tác giả：[@wangdefou](https://x.com/wangdefou) · [Bài gốc](https://x.com/wangdefou/status/2100028214659932570)
 
 Nhiếp ảnh · Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo trang web tương tác 3D Three.js mô phỏng căn phòng thu nhỏ qua câu lệnh nhắc, bao gồm chuyển đổi bảng màu và tương tác góc nhìn cơ bản.
 
 <img src="covers/2100028214659932570.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng frontend-design để tạo trang web Three.js dựa trên hình ảnh căn phòng và bố cục đã xác minh.
+Phong cách là căn phòng thu nhỏ ấm cúng, màu trắng nhạt và vân gỗ, với bảng điều khiển tiếng Trung ngắn gọn, tinh giản.
+Dùng các khối hình học đơn giản để tạo giường, bàn làm việc, tủ quần áo, cửa ra vào và cửa sổ mà không phụ thuộc vào mô hình 3D bên ngoài.
+Chỉ thực hiện thao tác kéo để xoay, lăn chuột để thu phóng, chuyển đổi giữa hai bảng màu và đặt lại góc nhìn.
+Giữ nguyên bố cục đã xác nhận; các thông số về chiều cao hoặc chất liệu chưa được cung cấp sẽ được liệt kê dưới dạng giả định.
+Sau khi tạo xong, hãy khởi chạy trang trên môi trường cục bộ để kiểm tra tương tác và lưu lại phiên bản đầu tiên.
+Nếu có lỗi, hãy sửa dựa trên ảnh chụp màn hình thực tế hoặc báo lỗi.
 ```
 
 [↑ Về danh mục](#catalog)

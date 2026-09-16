@@ -455,20 +455,26 @@ Crie um anúncio cinematográfico de pastilha elástica de 30 segundos ambientad
 
 <a name="prompt-2100028214659932570"></a>
 
-### Tradução em curso
+### Geração guiada por prompt de página interativa 3D em Three.js de um quarto em miniatura, com mudança de esquema de cores e interação básica de perspetiva.
 
 Autor：[@wangdefou](https://x.com/wangdefou) · [Publicação original](https://x.com/wangdefou/status/2100028214659932570)
 
 Fotografia · Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Geração guiada por prompt de página interativa 3D em Three.js de um quarto em miniatura, com mudança de esquema de cores e interação básica de perspetiva.
 
 <img src="covers/2100028214659932570.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Utilize frontend-design para criar uma página web em Three.js com base na imagem da divisão e na disposição verificada.
+O estilo é um quarto em miniatura acolhedor, em tons de branco suave e madeira, com um painel de controlo conciso em chinês.
+Utilize geometrias simples para criar a cama, secretária, roupeiro, portas e janelas, sem depender de modelos 3D externos.
+Implemente apenas rotação por arrasto, zoom com a roda do rato, alternância entre dois esquemas de cores e reposição de perspetiva.
+Mantenha a disposição confirmada; liste como suposições quaisquer alturas ou materiais não fornecidos.
+Após a criação, execute a página localmente para verificar a interação e preserve a primeira versão.
+Se houver problemas, faça as correções com base em capturas de ecrã reais ou mensagens de erro.
 ```
 
 [↑ Voltar às categorias](#catalog)

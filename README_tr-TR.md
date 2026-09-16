@@ -455,20 +455,26 @@ Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturu
 
 <a name="prompt-2100028214659932570"></a>
 
-### Çeviri sürüyor
+### Renk şeması değiştirme ve temel açı etkileşimi içeren, minyatür bir odanın Three.js 3D etkileşimli sayfasını istemle yönlendirerek oluşturma.
 
 Yazar：[@wangdefou](https://x.com/wangdefou) · [Orijinal gönderi](https://x.com/wangdefou/status/2100028214659932570)
 
 Fotoğrafçılık · 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Renk şeması değiştirme ve temel açı etkileşimi içeren, minyatür bir odanın Three.js 3D etkileşimli sayfasını istemle yönlendirerek oluşturma.
 
 <img src="covers/2100028214659932570.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Oda görseli ve doğrulanmış yerleşime göre bir Three.js web sayfası oluşturmak için frontend-design kullanın.
+Tarz, kırık beyaz ve ahşap tonlarında sıcak bir minyatür oda olmalı ve Çince sade bir kontrol paneli içermelidir.
+Dış 3D modellere bağımlı olmadan yatak, çalışma masası, gardırop, kapı ve pencereleri oluşturmak için basit geometriler kullanın.
+Yalnızca sürükleyerek döndürme, fare tekerleğiyle yakınlaştırma, iki renk şeması arasında geçiş yapma ve bakış açısını sıfırlama işlevlerini ekleyin.
+Onaylanmış yerleşimi koruyun; belirtilmeyen yükseklikleri veya malzemeleri varsayım olarak listeleyin.
+Oluşturma tamamlandıktan sonra sayfayı yerel olarak fiilen başlatın, etkileşimleri kontrol edin ve ilk sürümü saklayın.
+Bir sorun çıkarsa gerçek ekran görüntülerine veya hata mesajlarına göre düzeltin.
 ```
 
 [↑ Kategorilere dön](#catalog)
