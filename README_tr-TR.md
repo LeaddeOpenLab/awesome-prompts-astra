@@ -115,20 +115,20 @@ Bir okul bahçesinde geçen 30 saniyelik sinematik bir sakız reklamı oluşturu
 
 <a name="prompt-2102091619973427380"></a>
 
-### Çeviri sürüyor
+### Konveyör bantla taşıma, robot kolla alma ve renge göre kutulama özelliklerini içeren Three.js oyuncak ayıklama fabrikası oluşturma.
 
 Yazar：[@yrzhe\_top](https://x.com/yrzhe_top) · [Orijinal gönderi](https://x.com/yrzhe_top/status/2102091619973427380)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Konveyör bantla taşıma, robot kolla alma ve renge göre kutulama özelliklerini içeren Three.js oyuncak ayıklama fabrikası oluşturma.
 
 <img src="covers/2102091619973427380.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Three.js ile bir oyuncak ayıklama fabrikası yapın. Konveyör bant oyuncakları getirir, robotik kol onları alır ve renklerine göre kutulara koyar.
 ```
 
 [↑ Kategorilere dön](#catalog)

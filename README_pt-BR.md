@@ -115,20 +115,20 @@ Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pát
 
 <a name="prompt-2102091619973427380"></a>
 
-### Tradução em andamento
+### Construção de uma fábrica de separação de brinquedos em Three.js, abrangendo transporte por esteira, coleta por braço robótico e classificação por cores em caixas.
 
 Autor：[@yrzhe\_top](https://x.com/yrzhe_top) · [Publicação original](https://x.com/yrzhe_top/status/2102091619973427380)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Construção de uma fábrica de separação de brinquedos em Three.js, abrangendo transporte por esteira, coleta por braço robótico e classificação por cores em caixas.
 
 <img src="covers/2102091619973427380.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fábrica de separação de brinquedos em Three.js. Uma esteira transportadora leva os brinquedos, um braço robótico os pega e os coloca em caixas de acordo com a cor.
 ```
 
 [↑ Voltar às categorias](#catalog)

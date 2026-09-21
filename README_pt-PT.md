@@ -115,20 +115,20 @@ Crie um anúncio cinematográfico de pastilha elástica de 30 segundos ambientad
 
 <a name="prompt-2102091619973427380"></a>
 
-### Tradução em curso
+### Construção de uma fábrica de triagem de brinquedos em Three.js, abrangendo transporte por tapete rolante, recolha por braço robótico e arrumação em caixas por cor.
 
 Autor：[@yrzhe\_top](https://x.com/yrzhe_top) · [Publicação original](https://x.com/yrzhe_top/status/2102091619973427380)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Construção de uma fábrica de triagem de brinquedos em Three.js, abrangendo transporte por tapete rolante, recolha por braço robótico e arrumação em caixas por cor.
 
 <img src="covers/2102091619973427380.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma fábrica de triagem de brinquedos em Three.js. Um tapete rolante transporta os brinquedos, um braço robótico agarra-os e coloca-os em caixas de acordo com a cor.
 ```
 
 [↑ Voltar às categorias](#catalog)

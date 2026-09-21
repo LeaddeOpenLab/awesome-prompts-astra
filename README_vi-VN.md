@@ -115,20 +115,20 @@ Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 3
 
 <a name="prompt-2102091619973427380"></a>
 
-### Đang dịch
+### Xây dựng nhà máy phân loại đồ chơi bằng Three.js, bao gồm vận chuyển bằng băng chuyền, gắp bằng cánh tay robot và phân loại đóng hộp theo màu sắc.
 
 Tác giả：[@yrzhe\_top](https://x.com/yrzhe_top) · [Bài gốc](https://x.com/yrzhe_top/status/2102091619973427380)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Xây dựng nhà máy phân loại đồ chơi bằng Three.js, bao gồm vận chuyển bằng băng chuyền, gắp bằng cánh tay robot và phân loại đóng hộp theo màu sắc.
 
 <img src="covers/2102091619973427380.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một nhà máy phân loại đồ chơi bằng Three.js. Băng chuyền chuyển đồ chơi đến, cánh tay robot gắp lên và bỏ vào hộp theo màu sắc.
 ```
 
 [↑ Về danh mục](#catalog)

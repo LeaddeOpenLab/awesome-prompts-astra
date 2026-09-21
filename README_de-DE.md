@@ -115,20 +115,20 @@ Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Sc
 
 <a name="prompt-2102091619973427380"></a>
 
-### Übersetzung läuft
+### Aufbau einer Three.js-Spielzeugsortierfabrik, einschließlich Förderbandtransport, Greifen mit Roboterarm und farblicher Sortierung in Kartons.
 
 Autor：[@yrzhe\_top](https://x.com/yrzhe_top) · [Originalbeitrag](https://x.com/yrzhe_top/status/2102091619973427380)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Aufbau einer Three.js-Spielzeugsortierfabrik, einschließlich Förderbandtransport, Greifen mit Roboterarm und farblicher Sortierung in Kartons.
 
 <img src="covers/2102091619973427380.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine Three.js-Spielzeugsortierfabrik. Ein Förderband transportiert Spielzeug, ein Roboterarm greift es und legt es nach Farben sortiert in Kisten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -115,20 +115,20 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 
 <a name="prompt-2102091619973427380"></a>
 
-### Traduzione in corso
+### Costruzione di una fabbrica di smistamento giocattoli in Three.js, comprensiva di trasporto su nastro, presa con braccio robotico e inscatolamento per colore.
 
 Autore：[@yrzhe\_top](https://x.com/yrzhe_top) · [Post originale](https://x.com/yrzhe_top/status/2102091619973427380)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Costruzione di una fabbrica di smistamento giocattoli in Three.js, comprensiva di trasporto su nastro, presa con braccio robotico e inscatolamento per colore.
 
 <img src="covers/2102091619973427380.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fabbrica di smistamento giocattoli in Three.js. Un nastro trasportatore trasporta i giocattoli, un braccio robotico li afferra e li inserisce nelle scatole in base al colore.
 ```
 
 [↑ Torna alle categorie](#catalog)

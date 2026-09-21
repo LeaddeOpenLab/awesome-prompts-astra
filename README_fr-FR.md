@@ -115,20 +115,20 @@ Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se 
 
 <a name="prompt-2102091619973427380"></a>
 
-### Traduction en cours
+### Création d'une usine de tri de jouets avec Three.js, comprenant le transport par tapis roulant, la préhension par bras robotisé et le tri par couleur dans des boîtes.
 
 Auteur：[@yrzhe\_top](https://x.com/yrzhe_top) · [Publication originale](https://x.com/yrzhe_top/status/2102091619973427380)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Création d'une usine de tri de jouets avec Three.js, comprenant le transport par tapis roulant, la préhension par bras robotisé et le tri par couleur dans des boîtes.
 
 <img src="covers/2102091619973427380.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une usine de tri de jouets en Three.js. Un tapis roulant achemine les jouets, un bras robotisé les saisit et les range dans des boîtes selon leur couleur.
 ```
 
 [↑ Retour aux catégories](#catalog)

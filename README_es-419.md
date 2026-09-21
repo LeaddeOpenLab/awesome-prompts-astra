@@ -115,20 +115,20 @@ Crea un anuncio cinematográfico de chicle de 30 segundos ambientado en el patio
 
 <a name="prompt-2102091619973427380"></a>
 
-### Traducción en curso
+### Construcción de una fábrica de clasificación de juguetes en Three.js, que abarca el transporte en cinta transportadora, la sujeción con brazo robótico y la clasificación por colores en cajas.
 
 Autor：[@yrzhe\_top](https://x.com/yrzhe_top) · [Publicación original](https://x.com/yrzhe_top/status/2102091619973427380)
 
 Renderizado 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Construcción de una fábrica de clasificación de juguetes en Three.js, que abarca el transporte en cinta transportadora, la sujeción con brazo robótico y la clasificación por colores en cajas.
 
 <img src="covers/2102091619973427380.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fábrica de clasificación de juguetes con Three.js. Una cinta transportadora transporta los juguetes, un brazo robótico los levanta y los coloca en cajas según su color.
 ```
 
 [↑ Volver a categorías](#catalog)
