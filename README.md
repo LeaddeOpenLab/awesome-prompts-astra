@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**12** Prompts · Latest addition: **2026-09-16**
+**13** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,28 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2102091619973427380"></a>
+
+### Build a Three.js toy sorting factory, covering conveyor belt transport, robotic arm picking, and color-based sorting into boxes.
+
+Author：[@yrzhe\_top](https://x.com/yrzhe_top) · [Source](https://x.com/yrzhe_top/status/2102091619973427380)
+
+3D Render · Published
+
+**Summary:** Build a Three.js toy sorting factory, covering conveyor belt transport, robotic arm picking, and color-based sorting into boxes.
+
+<img src="covers/2102091619973427380.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a Three.js toy sorting factory. A conveyor belt transports toys, a robotic arm picks them up, and places them into boxes according to their colors
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100136611166007364"></a>
 
