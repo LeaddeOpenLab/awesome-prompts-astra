@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**13** Prompt · Bổ sung mới nhất: **2026-09-21**
+**14** Prompt · Bổ sung mới nhất: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -112,6 +112,34 @@ Tạo một đoạn quảng cáo kẹo cao su đậm chất điện ảnh dài 3
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2102565403109085669"></a>
+
+### Đang dịch
+
+Tác giả：[@dotey](https://x.com/dotey) · [Bài gốc](https://x.com/dotey/status/2102565403109085669)
+
+Thiết kế ứng dụng / web · Nhiếp ảnh · Kết xuất 3D · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102565403109085669-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102565403109085669-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2102565403109085669-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2102565403109085669-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2102091619973427380"></a>
 

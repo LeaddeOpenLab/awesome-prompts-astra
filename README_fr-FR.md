@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**13** Prompts · Dernier ajout: **2026-09-21**
+**14** Prompts · Dernier ajout: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -112,6 +112,34 @@ Créez une publicité cinématographique de 30 secondes pour un chewing-gum, se 
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
+
+<a name="prompt-2102565403109085669"></a>
+
+### Traduction en cours
+
+Auteur：[@dotey](https://x.com/dotey) · [Publication originale](https://x.com/dotey/status/2102565403109085669)
+
+Conception d'applications / de sites web · Photographie · Rendu 3D · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2102565403109085669-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102565403109085669-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102565403109085669-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102565403109085669-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2102091619973427380"></a>
 

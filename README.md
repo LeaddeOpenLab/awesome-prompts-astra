@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**13** Prompts · Latest addition: **2026-09-21**
+**14** Prompts · Latest addition: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -452,6 +452,145 @@ Create a 30-second cinematic chewing-gum ad set in a school courtyard. A shy stu
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2102565403109085669"></a>
+
+### Prompt for creating an interactive 3D Japanese cherry blossom valley voxel landscape web page based on Three.js/WebGL, featuring complete scene composition, multiple camera perspectives, weather atmospheres, and performance optimization requirements.
+
+Author：[@dotey](https://x.com/dotey) · [Source](https://x.com/dotey/status/2102565403109085669)
+
+App / Web Design · Photography · 3D Render · Landscape / Nature · Published
+
+**Summary:** Prompt for creating an interactive 3D Japanese cherry blossom valley voxel landscape web page based on Three.js/WebGL, featuring complete scene composition, multiple camera perspectives, weather atmospheres, and performance optimization requirements.
+
+<img src="images/2102565403109085669-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102565403109085669-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102565403109085669-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2102565403109085669-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Please directly create a highly polished, interactive 3D landscape web page that runs in real time within a browser.
+
+Theme: Japanese Cherry Blossom Valley.
+Implement using HTML, CSS, and JavaScript. Do not generate images, do not merely provide a design proposal, and do not use a flat background image with parallax effects to pretend it is 3D. What I want is an actual, runnable, explorable finished product.
+
+[1. Project Positioning]
+
+This is a complete, continuous valley landscape with depth and spatial layers, not an isolated small decorative prop, a floating island, a sand table on a pedestal, or a mere technical demo.
+
+The style is modern refined voxel / voxel art:
+Retain the modeling language of cubic geometry, but the visual rendering should feature high resolution, anti-aliasing, and delicate lighting and shading.
+Avoid retro low-resolution pixelation, avoid crude oversized building blocks piled together, and do not apply pixelated screen filters over the image.
+
+Visual quality takes priority. Rather sacrifice a few features than compromise on composition, materials, and lighting.
+
+[2. Usage of Reference Images]
+
+If reference images are attached, first comprehend their compositional layers, scale, lighting, and color relationships.
+Draw inspiration solely from the atmosphere and visual language to redesign the scene from scratch; do not copy-paste the exact locations of buildings, trees, mountains, and roads, and do not make a 1:1 replica.
+
+Reference images are not background assets for the web page. The scene itself must consist of real 3D geometry.
+
+[3. Scene Composition]
+
+Upon initial opening, the default view must already present a complete, engaging, and attractive scene, without requiring the user to rotate the camera first just to find a pleasing angle.
+
+Use a perspective camera rather than a sand-table-style isometric top-down camera.
+The framing must have clear foreground, midground, and background layers:
+
+Foreground:
+A prominent, substantial ancient cherry blossom tree, complemented by rocks, foliage, stone lanterns (tōrō), and a few scattered fallen petals, forming a natural framing device along the edges of the view, without obstructing the river, the bridge, and key architecture.
+
+Midground:
+A winding river guiding the eye deeper into the scene, with a red wooden bridge spanning across it; a village cluster, teahouses, shrines, and stone paths distributed naturally along the terrain topography, with realistic navigational relationships between the buildings. The ground must exhibit rolling elevation, natural shorelines, and smooth transitions, rather than models placed uniformly across a flat plane.
+
+Background:
+A multi-tiered pagoda on the hillside, forests and mountain ridges at varying distances, and distant snow-capped mountains. Convey distance through variations in scale, occlusion, cool/warm color shifts, and atmospheric perspective, rather than merely shrinking distant objects down.
+
+Do not spread all elements evenly across the canvas. There must be primary and secondary elements, density contrast, negative space, and clear visual focal points.
+
+[4. Modeling and Visual Quality]
+
+Cherry Blossom Trees:
+Trunks must feature bends, branching, and visible root structures; the canopies should be composed of irregular blossom clusters with gaps, thickness variations, and visible twigs. Do not make them into simple regular spheres or cubical blobs.
+
+Architecture:
+Roofs must feature layered tiles, extended eaves, beams, pillars, and lattice windows; different buildings should vary in function, volume, and height—do not duplicate identical houses across the entire valley.
+
+Terrain:
+Shorelines should feature wet rocks, grass patches, and natural vegetation transitions. Avoid overly rigid step terraces, repeating stripes, checkerboards, and conspicuously procedural grids.
+
+Water Surface:
+Must reflect the surrounding scenery with subtle ripples, depth variations, and shoreline transitions. Prioritize real-time scene reflections where possible; maintain visual credibility if performance fallbacks are necessary. Do not substitute the water with flickering noise, extreme distortion, or a flat blue plane.
+
+Details:
+A few koi fish, falling petals, fireflies, waterfalls, and distant soaring birds can be included, but all must serve the overall atmosphere without cluttering the screen. Do not hoard details merely to boast about model counts.
+
+[5. Color and Atmosphere]
+
+The default atmosphere is the "Blue Hour":
+A cooler valley and distant mountains, soft pink cherry blossoms, and warm yet unblown lanterns and window lights. Warm lighting should be concentrated where human activity occurs—do not bathe the entire environment in orange.
+
+Require soft shadows, ambient contact occlusion, balanced exposure, restrained bloom, anti-aliasing, and depth-stratified subtle fog.
+
+Avoid washed-out whites, muddy grays, over-saturation, screen-filling dense fog, blown-out highlights, and visible jagged edges. The block geometry can be crisp, but the rendering itself must not look rough.
+
+Additionally, provide two alternative moods: "Early Morning" and "Rainy Day"; switching moods should synchronously adjust the sky, ambient lighting, fog, and localized effects, not simply swap the background color.
+
+[6. Interaction and Interface]
+
+Provide four thoughtfully designed camera perspectives:
+Valley Panorama, Low-Angle Riverside, Temple Path, and Hillside Overlook.
+Transitions must be smooth, and each perspective must hold independent compositional value.
+
+Basic Interactions:
+Mouse drag to orbit/look around, scroll wheel to zoom/advance; touch screens support single-finger drag and two-finger pinch-to-zoom. Provide features to reset the view, hide the UI, and capture/save the current canvas frame.
+
+Optional Enhancements:
+Free-look exploration, a slow cinematic camera tour, ambient audio. Ambient sound must be muted by default and only play upon explicit user interaction. Extra features must not detract from the completeness of the default view.
+
+The UI should be understated, elegant, and designed with the landscape as the hero. Keep titles and control bars near the screen margins without blocking the visual focus. Across both desktop and mobile, ensure buttons do not overflow, text does not overlap, and controls remain fully functional.
+
+[7. Engineering and Performance]
+
+Allowed to use Three.js / WebGL, along with version-pinned, compatible CDN dependencies. Prioritize mature rendering capabilities; do not rewrite an entire 3D engine from scratch merely for "zero dependencies."
+
+Organize all hand-crafted HTML, CSS, and JavaScript within a single HTML file as much as possible. Scenery must be generated via procedural geometry and procedural materials, without relying on external image files or external 3D model assets.
+
+Use appropriate batching or instanced rendering for repeated objects; reasonably budget subdivisions, shadow maps, reflections, and rendering resolution. Provide high-quality and lightweight performance presets, defaulting mobile devices to lighter settings. Do not rely on infinitely stacking voxel counts to achieve detail.
+
+Include a loading indicator, a fallback notice for unsupported WebGL, and necessary error handling. Do not auto-play audio without unmuting; honor system preferences for reduced motion.
+
+[8. Pre-Delivery Acceptance]
+
+Do not deliver the work immediately upon finishing code writing.
+
+If the current environment supports browser execution and taking screenshots, open the page for real first, check the default camera view, the four perspectives, atmosphere toggles, and both desktop and mobile layouts, then fix obvious issues regarding composition, exposure, clipping, and rendering artifacts based on the visual capture.
+
+Key Checklist Points:
+Are there blank screens, loading failures, or console errors?
+Are there clipping glitches, visual z-fighting, shadow banding, overexposure, or distorted water?
+Does the default view genuinely feel like an expansive, cohesive landscape rather than a miniature tabletop diorama?
+Are all interactive buttons truly functional, and do mobile UI elements avoid screen overflow?
+
+Browser visual verification can be used for acceptance testing, but do not invoke generative AI image tools. For tests that could not be completed, report honestly without falsely claiming they have been verified.
+
+Final Deliverables:
+1. An actual, openable HTML file, or an interactive preview supported by the current environment.
+2. If capable of capturing screenshots, attach an authentic browser-rendered screenshot.
+3. A concise operation guide and necessary execution prerequisites.
+
+Please proceed directly with the complete implementation; make consistent design choices for non-critical details on your own, rather than repeatedly bouncing solvable implementation questions back to me.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102091619973427380"></a>
 

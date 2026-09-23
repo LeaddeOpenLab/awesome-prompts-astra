@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**13** Prompts · Última adição: **2026-09-21**
+**14** Prompts · Última adição: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -112,6 +112,34 @@ Crie um comercial cinematográfico de chiclete de 30 segundos ambientado no pát
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2102565403109085669"></a>
+
+### Tradução em andamento
+
+Autor：[@dotey](https://x.com/dotey) · [Publicação original](https://x.com/dotey/status/2102565403109085669)
+
+Design de Aplicativos / Web · Fotografia · Renderização 3D · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2102565403109085669-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2102565403109085669-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2102565403109085669-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2102565403109085669-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2102091619973427380"></a>
 

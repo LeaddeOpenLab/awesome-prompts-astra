@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**13** Prompts · Zuletzt hinzugefügt: **2026-09-21**
+**14** Prompts · Zuletzt hinzugefügt: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -112,6 +112,34 @@ Erstelle einen 30-sekündigen cineastischen Kaugummi-Werbespot, der auf einem Sc
 <a name="category-3d-render"></a>
 
 ## 3D-Rendering
+
+<a name="prompt-2102565403109085669"></a>
+
+### Übersetzung läuft
+
+Autor：[@dotey](https://x.com/dotey) · [Originalbeitrag](https://x.com/dotey/status/2102565403109085669)
+
+App- / Webdesign · Fotografie · 3D-Rendering · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102565403109085669-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102565403109085669-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2102565403109085669-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2102565403109085669-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2102091619973427380"></a>
 

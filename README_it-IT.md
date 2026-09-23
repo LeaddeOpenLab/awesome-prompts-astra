@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**13** Prompt · Ultima aggiunta: **2026-09-21**
+**14** Prompt · Ultima aggiunta: **2026-09-23**
 
 <a name="catalog"></a>
 
@@ -112,6 +112,34 @@ Crea uno spot cinematografico di 30 secondi per un chewing-gum ambientato nel co
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2102565403109085669"></a>
+
+### Traduzione in corso
+
+Autore：[@dotey](https://x.com/dotey) · [Post originale](https://x.com/dotey/status/2102565403109085669)
+
+App / Web Design · Fotografia · Rendering 3D · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102565403109085669-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102565403109085669-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2102565403109085669-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2102565403109085669-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2102091619973427380"></a>
 
